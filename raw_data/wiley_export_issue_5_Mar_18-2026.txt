@@ -1,0 +1,280 @@
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9892615
+TI  - RETRACTION: Cultural and Creative Product Design Method Based on the Fusion of 5G Technology and Traditional Metal Craftsmanship
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2024
+IS  - 1
+UR  - https://doi.org/10.1155/2024/9892615
+DO  - https://doi.org/10.1155/2024/9892615
+SP  - 9892615
+PY  - 2024
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9780759
+TI  - Retracted: Big Data Analytics Model for Distributed Document Using Hybrid Optimization with K-Means Clustering
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2024
+IS  - 1
+UR  - https://doi.org/10.1155/2024/9780759
+DO  - https://doi.org/10.1155/2024/9780759
+SP  - 9780759
+PY  - 2024
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9839607
+TI  - Retracted: Secure Techniques for Channel Encryption in Wireless Body Area Network without the Certificate
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2024
+IS  - 1
+UR  - https://doi.org/10.1155/2024/9839607
+DO  - https://doi.org/10.1155/2024/9839607
+SP  - 9839607
+PY  - 2024
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9762069
+TI  - Retracted: Innovative Research on Ideological and Political Education in Colleges and Universities Based on Intelligent Wireless Network Environment
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9762069
+DO  - https://doi.org/10.1155/2023/9762069
+SP  - 9762069
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9849721
+TI  - Retracted: Human-Computer Interaction of Networked Vehicles Based on Big Data and Hybrid Intelligent Algorithm
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9849721
+DO  - https://doi.org/10.1155/2023/9849721
+SP  - 9849721
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9836897
+TI  - Retracted: Application Research of the K-Means Clustering Algorithm in the Construction of Ideological and Political Education Resource Database in Colleges and Universities Based on 5G
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9836897
+DO  - https://doi.org/10.1155/2023/9836897
+SP  - 9836897
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9814727
+TI  - Retracted: The Indoor Space Layout of University Laboratories Based on Wireless Communication and Artificial Intelligence Decision-Making
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9814727
+DO  - https://doi.org/10.1155/2023/9814727
+SP  - 9814727
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9814170
+TI  - Retracted: College English Teaching Mode Based on Output-Oriented Method in Artificial Intelligence Environment
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9814170
+DO  - https://doi.org/10.1155/2023/9814170
+SP  - 9814170
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9805789
+TI  - Retracted: Application of Machine Learning to Badminton Action Decomposition Teaching
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9805789
+DO  - https://doi.org/10.1155/2023/9805789
+SP  - 9805789
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9840290
+TI  - Retracted: Deep Learning Model-Based Machine Learning for Chinese and Japanese Translation
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9840290
+DO  - https://doi.org/10.1155/2023/9840290
+SP  - 9840290
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9896259
+TI  - Retracted: Construction of Evaluation Index System of Physical Education Teaching Environment in Colleges and Universities Based on 5G Technology
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9896259
+DO  - https://doi.org/10.1155/2023/9896259
+SP  - 9896259
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9863102
+TI  - Retracted: The Management of Energy Transformation through Laser Charging in WPT for 5G Application: Prediction Model of the In0.3Ga0.7As Solar Cell
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9863102
+DO  - https://doi.org/10.1155/2023/9863102
+SP  - 9863102
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9821851
+TI  - Retracted: Distributed Sound Transmission and Smart City Planning Management Based on Convolutional Neural Network
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9821851
+DO  - https://doi.org/10.1155/2023/9821851
+SP  - 9821851
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9813420
+TI  - Retracted: Analysis on the Establishment and Management of Library Resource Base Based on Modern Information Technology
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9813420
+DO  - https://doi.org/10.1155/2023/9813420
+SP  - 9813420
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9789476
+TI  - Retracted: An Improved Secure Key Generation Using Enhanced Identity-Based Encryption for Cloud Computing in Large-Scale 5G
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9789476
+DO  - https://doi.org/10.1155/2023/9789476
+SP  - 9789476
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9785182
+TI  - Retracted: Analysis on the Sharing Method of English Mobile Education Resources Based on Wireless Broadband Connection
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9785182
+DO  - https://doi.org/10.1155/2023/9785182
+SP  - 9785182
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9756547
+TI  - Retracted: The Construction of Smart Learning Space in Colleges Based on Blended Learning
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9756547
+DO  - https://doi.org/10.1155/2023/9756547
+SP  - 9756547
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9839735
+TI  - Retracted: A Study of Different Existing Methods for the Stock Selection in the Field of Quantitative Investment
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9839735
+DO  - https://doi.org/10.1155/2023/9839735
+SP  - 9839735
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9839464
+TI  - Retracted: Visual Communication Design Based on 5G Technology
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9839464
+DO  - https://doi.org/10.1155/2023/9839464
+SP  - 9839464
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Mobile Computing, Wireless Communications and
+C7  - 9829404
+TI  - Retracted: Identity-Based Designated-Verifier Proxy Signature Scheme with Information Recovery in Telemedicine System
+JO  - Wireless Communications and Mobile Computing
+JA  - Wireless Communications
+VL  - 2023
+IS  - 1
+UR  - https://doi.org/10.1155/2023/9829404
+DO  - https://doi.org/10.1155/2023/9829404
+SP  - 9829404
+PY  - 2023
+ER  - 

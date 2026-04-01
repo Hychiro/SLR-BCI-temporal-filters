@@ -1,0 +1,302 @@
+
+TY  - JOUR
+AU  - HARGITAI, ZS
+TI  - Anatomical overview of the ophthalmic anaesthesia
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1221.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1221.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract As the opening presentation of the ophthalmolgiacal anaesthesia course the thorough review of the anatomy of the orbit is discussed. It includes the bone structure, capsula of Tenon, the blood vessels and finally the nerves. With the knowledge of these the best method of anaesthesia of the different kinds of ophthalmological operations can be planned and applied. This way reducing the number of complications while improving patient satisfaction.
+ER  - 
+
+TY  - JOUR
+AU  - FISCHER, E
+TI  - Pharmacological overview of the ophthalmic anaesthesia
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1222.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1222.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose Review of the chemical properties, differences between the effectiveness of the ophthalmological used local anaesthetics. Historical overview from 1860, year of the isolation of cocaine, to date. Methods Didactic and substantive summary of the literature. Results Specification of the basicity, lipophilicity, physicochemical properties, and the advantages, and disadvantages of adding adrenalin in different concentrations. Local anaesthetics also have adverse effects. All stimulate central nervous system, therefore it is very important to have a proper anamnesis, especially information about drug hypersensitivity from the patient. Conclusion Interventions must be carried out in the view of drug interactions, with personalized choice of drugs and dose.
+ER  - 
+
+TY  - JOUR
+AU  - SZIGETI, A
+TI  - Currently used anaesthesiological techniques with some practical advice
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1223.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1223.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract An ideal anaesthetic method ensures optimal conditions to the surgical proceed, is painless, provides painlessness even through the hole perioperative time, forgoes to every stress reaction (both patient's and surgeon's), and has no side-effects. At the moment there is no anaesthetic method which fulfills these terms exquisitely. When choosing anaesthesia it is important to consider the patient's aspects too, not to apply the most well-known or familiar method, but the one which matches best to the concrete operative technique and is most close to the above conditions. In ophthalmology the applied anaesthetic methods take aim at not only analgesia but also akinesia, and at certain kinds of operations has to achieve hypotony and cutting off autonomic reflexes. In this lecture we would like to give a fully comprehensive review of anaesthetic methods used in ophthalmology currently.
+ER  - 
+
+TY  - JOUR
+AU  - JAKUBOVICS, E
+AU  - KEKECS, Z
+TI  - Psychological preparation for the ophthalmic operation, suggestive techniques guiding the patient during the procedures
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1224.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1224.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose An illness, pain, an emotionally demanding situation (e.g. an injury, being frightened) are associated with certain conditions of the psyche, in which suggestions have strong effects on people. During the operation the patient?s thoughts focus on their conditions and the challenges ahead. The fear of pain, temporary loss of usual references, being placed in helpless positions, the light from the microscope, the surgical drapes (which excluded the environmental stimuli), being confronted by alarming machines and seemingly incomprehensible actions of hospital staff, brings the spontaneously altered state of mind. Our working hypothesis was that if the patients are psychologically well prepared before the operation and if this is followed by positive verbal suggestions during the procedure, their pain relief requirement will be less and their condition will improve faster. Methods We developed a specific verbal suggestion protocol for the patients and observed the patients? psychological and physiological state in the perioperative period. Results The protocol worked well in reducing patients? fear and improved their satisfaction. This protocol is easy for doctors and staff to learn. Based on the literature and our studies, younger people are more susceptible. Conclusion Except the excellent painless surgical technique, the comfortable environment, the psychological drive of patients around the procedure has a robust factor to improve the patients satisfactory.
+ER  - 
+
+TY  - JOUR
+AU  - BODROGI, P
+TI  - Anaesthesia in cataract surgery
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1225.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1225.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract I would like to give a review of anaesthetic methods used in cataract surgery. Retrobulbar (RB) anaesthesia via injection provides not only painlessness, but also akinesia and cuts off autonomic reflexes. Although unfortunatelly it has many possible sideeffects, like perforation of the globe, retrobulbar haemorrhage or injury of the optic nerve, it is still widely used. Parabulbar (PB) anaesthesia was introduced to eliminate traumatic sideeffects of RB, but it did not fulfill all expectations. There are also subconjunctival and sub-Tenon anaesthesia, the latter also results in akinesia. Since the introduction of phacoemulsification topical anaesthesia has become current. Due to the gentle surgical technique, if the wound is corneal and there is no severe fluctuation of depth of the anterior chamber, it can provide sufficient anaesthesia. They apply it in form of drops, gel or special sponge. It can be replenished with intracameral Lidocain. Before surgery it is widely used to apply systemic sedatives, which helps to attenuate the patients' angst because of surgery. Supporting attitude of medical crew and positive verbal communication is also beneficial at this task. General anaesthesia is still the only possibility used in cataract surgery of children and other people unable to cooperate.
+ER  - 
+
+TY  - JOUR
+AU  - GOMBOS, K
+TI  - Techniques and complications of anaesthesia for vitreoretinal surgery and a new technique of local anaesthesia
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1226.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1226.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose Since the 1970s, the methods of vitrectomy procedures in ophthalmology have changed due to technical developments. Consequently certain procedures are less painful and less time consuming. On the other hand, due the modern technology more difficult cases can be operated, which may result in increase the time and strain of the operation. Methods General anaesthesia (GA) is one possibility, but it may have lots of side effects, can cause serious life threatening complications, is time consuming, expensive and sometimes to organise general anaesthesia leads to delay of the operation, consequently possibly hindering the proper timing of it. Despite these, the GA seemed to be necessary when a longer procedure planned. Results Using our method we could avoid some of the well-known complications of RBA and PBA. Painless operations were provided and the surgeons were satisfied with the anaesthesia. The serum Lidocain level was lower in cRBA compared with the single dose technique. Moreover the presence of postoperative pain could be reduced by using anaesthesia via cannula. Conclusion The benefits and disadvantages of cRBA will be apparent only by the spread of the new technique, which could also contribute to its improvement. This method means a perspective for postoperative pain relief. Hopefully more widespread use of this method helps continuous regional techniques to find their well deserved place in ophthalmic anaesthesia.
+ER  - 
+
+TY  - JOUR
+AU  - WYLEGALA, E
+TI  - Technical principles of optical coherence tomography and basic differences among time-domain, spectral-domain and swept-source OCT
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1311.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1311.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - JANISZEWSKA, D
+TI  - Important factors determining reliability and reproducibility of OCT scans: advantages and disadvantages of commercially available OCT devices
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1312.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1312.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - WYLEGALA, E
+TI  - Lamellar and penetrating keratoplasties
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1313.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1313.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - NOWINSKA, A
+TI  - Corneal dystrophies and hereditary anterior eye segment disorders: anterior eye segment photo, clinical details, TD OCT, SD OCT and SS OCT scans, diagnosis and conclusion
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1314.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1314.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - JANISZEWSKA, D
+TI  - Cataract, refractive and glaucoma surgery: anterior eye segment photo, clinical details, TD OCT, SD OCT and SS OCT scans, diagnosis and conclusion
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1315.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1315.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - NOWINSKA, A
+TI  - Ocular injuries
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1316.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1316.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - DICK, AD
+TI  - Pathophysiology and classification of uveitis
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1261.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1261.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose This talk will overview the pathophysiology of non-infectious uveitis in relation to recent SUN (standardised uveitis nomenclature) disease classification. Methods The experimental and translational human evidence of autoimmunity and activation of immunity will be discussed. In addition the talk will highlight the pathways and mechanisms of tissue damage that results in sight-threatening disease. Results Traditionally, despite active immune regulatory mechanisms operative within the ocular environment, inflammation still occurs. Activated antigen and non-antigen specific T cells are generated in uveitis. The interplay with innate immunity and in particular cells of myeloid lineage both systemically and within the local environment dictate the severity and extent of pathology we observe. Conclusion The understanding of immune responses during the uveitis open many avenues to potential novel immunotherapies that not only suppress inflammation but attempt to redress immune balance, tolerance and local homeostasis within ocular tissues.
+ER  - 
+
+TY  - JOUR
+AU  - TUGAL-TUTKUN, I
+TI  - Symptoms and signs of anterior uveitis
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1262.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1262.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose Based on the anatomic classification of uveitis, iritis and iridocyclitis are classified as anterior uveitis. Methods Symptoms and signs of anterior uveitis will be presented Results Patients with acute anterior uveitis typically present with red eyes, photophobia, ocular pain, and sometimes visual blurring. In chronic anterior uveitis, onset is usually insidious and patients may be asymptomatic until the development of complications. Ciliary injection, endothelial dusting or fine keratic precipitates (KPs), cells and flare in the anterior chamber with or without hypopyon formation or fibrinous exudate are the typical findings of alternating unilateral acute nongranulomatous anterior uveitis which is most commonly seen in association with HLA-B27 antigen and spondyloarthropaties. Medium-size KPs or large mutton-fat KPs, chronic flare, Koeppe and Busacca nodules of the iris, peripheral anterior synechiae and broad-based posterior synechiae are the typical findings of granulomatous anterior uveitis which is often chronic. Viral anterior uveitis is characterized by unilateral recurrent episodes of anterior uveitis characterized by endotheliitis, elevated intraocular pressure, and patchy or sectoral iris atrophy. JIA-associated anterior uveitis is typically a bilateral nongranulomatous chronic anterior uveitis often complicated by band keratopathy, seclusion of the pupil, and cataract. Conclusion Symptoms and signs in anterior uveitis vary depending on the acute or chronic, ganulomatous or nongranulomatous nature of the disease. Specific anterior uveitic entities are characterized by a distinct constellation of ocular signs.
+ER  - 
+
+TY  - JOUR
+AU  - KHAIRALLAH, M
+AU  - KAHLOUN, R
+TI  - Symptoms and signs of posterior uveitis
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1263.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1263.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose Posterior uveitis (PU) is an important anatomic form of uveitis in which the primary site of inflammation is the choroid or retina, with or without subsequent vitreous involvement. Methods Review of symptoms and signs of PU. Results The onset of PU can be sudden or less frequently insidious. Most common ocular symptoms include blurred vision, loss of vision, and floaters. Some patients with PU may have no symptoms, especially if inflammatory process is asymmetric. PU is usually associated with vitritis that can vary from mild to severe. Vitritis should be graded according to standardized grading systems. Other vitreous changes may include vitreous strands, vitreous hemorrhage, vitreous traction, and posterior vitreous detachment. Retinal and/or choroidal inflammation can be focal, multifocal, or more diffuse. It is important to distinguish between active and inactive chorioretinal disease. Retinal vasculitis can occur in the setting of several PU entities. It can involve retinal veins or arteries. It appears as focal, multifocal, or diffuse vascular cuffing or sheathing. Other retinal vasculitic changes include retinal hemorrhages, retinal vascular occlusion, retinal/optic disc neovascularization, and aneurysms. Maculopathy is common patients with PU. It may result from direct inflammatory infiltration, macular edema, serous retinal detachment, retinal ischemia, epiretinal membrane, or macular hole. Optic nerve involvement that can occur in association with PU include optic disc hyperemia/edema, optic neuritis, neuroretinitis, optic disc exudate, and optic disc granuloma. Conclusion Clinical examination is a key step in the diagnostic approach to PU. Clinician should be aware of the array of ocular symptoms of signs and their importance in orienting the differential diagnosis.
+ER  - 
+
+TY  - JOUR
+AU  - PLEYER, U
+TI  - Laboratory work-up and specialized investigations
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1264.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1264.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Based on the anatomical involvement of the eye intraocular inflammation is classified into anterior, intermediate, posterior and panuveitis. All subtypes of uveitis are potentially related to infectious and noninfectious etiologies. This presentation will assist the participants in accurately diagnosing uveitis in a step latter approach including physical and laboratory investigations. In addition, a tailored approach based on confounding clinical observations with specialized investigations will help to further differentiate clinical entities. In cases of suspected intraocular infections the option of intraocular fluid evaluation for antibody testing and polymerase chain testing against the causative agent will be presented. Taken together, this part of the course will provide a rational decision-making strategy for diagnosis of patients with uveitis.
+ER  - 
+
+TY  - JOUR
+AU  - HERBORT, CP
+TI  - Imaging: techniques and indications
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1265.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1265.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Abstract not provided
+ER  - 
+
+TY  - JOUR
+AU  - NERI, P
+TI  - Main anterior entities 1: non-granulomatous
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1266.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1266.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose To describe the clinical course, the laboratory work-up and the treatment of different types of anterior non-granulomatous uveitis. Methods The current literature is reviewed and the experience of a tertiary referral centre is reported. Results The lecture describes the most typical subsets of non-granulomatous uveitis. Most part of the talk is dedicated to the most common form of non-granulomatous anterior uveitis: the acute anterior uveitis (AAU), which is very often associated with the HLA-B27 allele. This antigen is also typically associated with the spondyloarthropathies, which are inflammatory joint diseases of the vertebral column. The correct interpretation of the clinical pattern can drive the decision towards the right therapeutic strategy. Other uveitis entities are described also. Conclusion Non-granulomatous uveitis is one of the most important ocular inflammations. It is mandatory to pay attention to the clinical findings and to the laboratory work-up, in order to achieve a good therapeutic approach.
+ER  - 
+
+TY  - JOUR
+AU  - KIVELÄ, T
+TI  - Diagnosis of adult ophthalmic tumours: role of clinical history, symptoms and signs
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1251.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1251.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose To summarise signs and symptoms useful in diagnosing adult ophthalmic tumours. Methods Personal experience of the author as a member of the European Ophthalmic Oncology Group. Results According to studies from the United Kingdom, Finland and United States, 28-42% of adult patients with intraocular tumours may experience delays because the lesion is either misdiagnosed (e.g. as macular degeneration, naevus, rhegmatogenous retinal detachment) or missed at the initial visit. Of these patients, 72-87% have symptoms attributable to the tumour such as blurred vision, photopsia, floaters, metamorphopsia, and visual field loss. These symptoms can also be caused by many benign conditions (e.g. vitreous detachment) but should not be interpreted as innocent without thorough clinical examination. Signs specific for iris and ciliary body tumours include a tumour mass, sentinel vessels, acquired astigmatism, and cataracts. Choroidal tumours may induce serous retinal detachments, subretinal and vitreous bleedings and, sometimes, lipid exudation. Finally, orange subretinal pigment suggests the diagnosis of a uveal melanoma whereas many drusen point to a long-standing naevus. Conclusion Signs and symptoms of ophthalmic tumours are mostly nonspecific, necessitating an appropriately high level of suspicion and a systematic approach to clinical examination to avoid delayed or missed diagnoses. Earlier diagnosis could be achieved especially if dilated fundus examinations were performed without exception and if all suspicious naevi were referred for a second opinion.
+ER  - 
+
+TY  - JOUR
+AU  - ZOGRAFOS, L
+TI  - Diagnostic tools for adult intraocular tumours
+JO  - Acta Ophthalmologica
+VL  - 88
+IS  - s246
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2010.1252.x
+DO  - https://doi.org/10.1111/j.1755-3768.2010.1252.x
+SP  - 0
+EP  - 0
+PY  - 2010
+AB  - Abstract Purpose Fundus examination completed with Fundus drawings and panoramic, fundus pictures, standard and panoramic fluorescein angiography, standard and panoramic ICG, 10, 20 and 50 MHz ultrasonography, and OCT are the main diagnostic tools for intraocular tumours in adult?s patients. Methods These various diagnostic techniques provide complementary informations contributing to the final diagnosis. A document tumour growth during a periodic observation may be recorded with standard or panoramic fundus pictures. The modifications of the pigmant epithelium as well as an increase permeability of the tumour vessels may be recorded with standard or panoramic fluorescein angiography. Intra-tumoral and Peri-tumoral with hemodynamic modifications may be recorded with standard and panoramic ICG. Results Tumour shape, and tumour height is recorded with standard 10 or 20 MHz ultrasonography. The volume and the shape of anteriorly located intra ocular tumours are recorded with 50 MHz UBM. Conclusion The presence of the retinal detachment in contact with the tumours may be recorded with modern OCT. Additional examinations which can be used in ocular oncology are: Fundus auto- fluorescence, MRI, and computed tomography. An intraocular biopsy can be required in specific cases.
+ER  - 

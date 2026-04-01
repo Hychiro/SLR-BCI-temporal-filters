@@ -1,0 +1,389 @@
+
+TY  - JOUR
+AU  - Yin, Qiang
+AU  - Shen, Dai
+AU  - Ding, Qian
+C7  - 6675052
+TI  - Influence of Sliding Time Window Size Selection Based on Heart Rate Variability Signal Analysis on Intelligent Monitoring of Noxious Stimulation under Anesthesia
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6675052
+DO  - https://doi.org/10.1155/2021/6675052
+SP  - 6675052
+PY  - 2021
+AB  - In recent decades, little progress of objective evaluation of pain and noxious stimulation has been achieved under anesthesia. Some researches based on medical signals have failed to provide a general understanding of this problem. This paper presents a feature extraction method for heart rate variability signals, aiming at further improving the evaluation of noxious stimulation. In the process of data processing, the empirical mode decomposition is used to decompose and recombine heart rate variability signals, and the sliding time window approach is used to extract the signal features of noxious stimulation, respectively. The influence of window size on feature extraction is studied by changing the window size. By comparing the results, the feature extraction in the process of data processing is valuable, and the selection of window size has a significant impact. With the increase of selected window sizes, we can get better detection results. But for the best choice of window size, to ensure the accuracy of the results and to make it easy to use, then, we need to get just a suitable window size.
+ER  - 
+
+TY  - JOUR
+AU  - Yan, Yuening
+AU  - Li, Yi
+AU  - Lou, Xinyu
+AU  - Li, Senqi
+AU  - Yao, Yutong
+AU  - Gong, Diankun
+AU  - Ma, Weiyi
+AU  - Yan, Guojian
+C7  - 8841156
+TI  - The Influence of Action Video Gaming Experience on the Perception of Emotional Faces and Emotional Word Meaning
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/8841156
+DO  - https://doi.org/10.1155/2021/8841156
+SP  - 8841156
+PY  - 2021
+AB  - Action video gaming (AVG) experience has been found related to sensorimotor and attentional development. However, the influence of AVG experience on the development of emotional perception skills is still unclear. Using behavioral and ERP measures, this study examined the relationship between AVG experience and the ability to decode emotional faces and emotional word meanings. AVG experts and amateurs completed an emotional word-face Stroop task prior to (the pregaming phase) and after (the postgaming phase) a 1?h AVG session. Within-group comparisons showed that after the 1?h AVG session, a more negative N400 was observed in both groups of participants, and a more negative N170 was observed in the experts. Between-group comparisons showed that the experts had a greater change of N170 and N400 amplitudes across phases than the amateurs. The results suggest that both the 1?h and long-term AVG experiences may be related to an increased difficulty of emotional perception. Furthermore, certain behavioral and ERP measures showed neither within- nor between-group differences, suggesting that the relationship between AVG experience and emotional perception skills still needs further research.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Chunli
+AU  - Yang, Huan
+AU  - Du, Yasong
+AU  - Zhai, Guangzhi
+AU  - Xiong, Hesheng
+AU  - Yao, Dezhong
+AU  - Xu, Peng
+AU  - Gong, Jianhua
+AU  - Yin, Gang
+AU  - Li, Fali
+C7  - 6615384
+TI  - Altered Functional Connectivity in Children with ADHD Revealed by Scalp EEG: An ERP Study
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6615384
+DO  - https://doi.org/10.1155/2021/6615384
+SP  - 6615384
+PY  - 2021
+AB  - Attention deficit hyperactivity disorder (ADHD) is one of the most common neurodevelopmental brain disorders in childhood. Despite extensive researches, the neurobiological mechanism underlying ADHD is still left unveiled. Since the deficit functions, such as attention, have been demonstrated in ADHD, in our present study, based on the oddball P3 task, the corresponding electroencephalogram (EEG) of both healthy controls (HCs) and ADHD children was first collected. And we then not only focused on the event-related potential (ERP) evoked during tasks but also investigated related brain networks. Although an insignificant difference in behavior was found between the HCs and ADHD children, significant electrophysiological differences were found in both ERPs and brain networks. In detail, the dysfunctional attention occurred during the early stage of the designed task; as compared to HCs, the reduced P2 and N2 amplitudes in ADHD children were found, and the atypical information interaction might further underpin such a deficit. On the one hand, when investigating the cortical activity, HCs recruited much stronger brain activity mainly in the temporal and frontal regions, compared to ADHD children; on the other hand, the brain network showed atypical enhanced long-range connectivity between the frontal and occipital lobes but attenuated connectivity among frontal, parietal, and temporal lobes in ADHD children. We hope that the findings in this study may be instructive for the understanding of cognitive processing in children with ADHD.
+ER  - 
+
+TY  - JOUR
+AU  - Sui, Linfeng
+AU  - Zhao, Xuyang
+AU  - Zhao, Qibin
+AU  - Tanaka, Toshihisa
+AU  - Cao, Jianting
+C7  - 6644365
+TI  - Hybrid Convolutional Neural Network for Localization of Epileptic Focus Based on iEEG
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6644365
+DO  - https://doi.org/10.1155/2021/6644365
+SP  - 6644365
+PY  - 2021
+AB  - Epileptic focus localization by analysing intracranial electroencephalogram (iEEG) plays a critical role in successful surgical therapy of resection of the epileptogenic lesion. However, manual analysis and classification of the iEEG signal by clinicians are arduous and time-consuming and excessively depend on the experience. Due to individual differences of patients, the iEEG signal from different patients usually shows very diverse features even if the features belong to the same class. Accordingly, automatic detection of epileptic focus is required to improve the accuracy and to shorten the time for treatment. In this paper, we propose a novel feature fusion-based iEEG classification method, a deep learning model termed Time-Frequency Hybrid Network (TF-HybridNet), in which short-time Fourier transform (STFT) and 1d convolution layers are performed on the input iEEG in parallel to extract features of the time-frequency domain and feature maps. And then, the time-frequency features and feature maps are fused and fed to a 2d convolutional neural network (CNN). We used the Bern-Barcelona iEEG dataset for evaluating the performance of TF-HybridNet, and the experimental results show that our approach is able to differentiate the focal from nonfocal iEEG signal with an average classification accuracy of 94.3% and demonstrates an improved accuracy rate compared to the model using only STFT or one-dimensional convolutional layers as feature extraction.
+ER  - 
+
+TY  - JOUR
+AU  - Zhen, Bin
+AU  - Song, Zigen
+C7  - 6657835
+TI  - The Study for Synchronization between Two Coupled FitzHugh-Nagumo Neurons Based on the Laplace Transform and the Adomian Decomposition Method
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6657835
+DO  - https://doi.org/10.1155/2021/6657835
+SP  - 6657835
+PY  - 2021
+AB  - The synchronization between two coupled FitzHugh-Nagumo (FHN) neurons with or without external current is studied by using the Laplace transform and the Adomian decomposition method. Different from other researches, the synchronization error system is expressed as sets of Volterra integral equations based on the convolution theorem in the Laplace transform. Then, it is easy to analytically obtain the conditions that synchronization errors disappear based on the successive approximation method in integral equation theorem, the correctness of which is verified by numerical simulations. Furthermore, the synchronous dynamics of the two coupled FHN neurons also can be written in the form of Volterra integral equations, which is more convenient to analytically solve by using the Adomian decomposition method. It is found that the occurrence of synchronization between the two FHN neurons only depends on the coupling strength and is irrelevant to the external current. Only synchronous rest state in the two FHN neurons without external current can be achieved, while synchronous spikes appear if the external current is not zero.
+ER  - 
+
+TY  - JOUR
+AU  - Ji, Wenchao
+AU  - Liu, Moutian
+AU  - Duan, Lixia
+C7  - 6655933
+TI  - Influence of Electric Current and Magnetic Flow on Firing Patterns of Pre-Bötzinger Complex Model
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6655933
+DO  - https://doi.org/10.1155/2021/6655933
+SP  - 6655933
+PY  - 2021
+AB  - The dynamics of neuronal firing activity is vital for understanding the pathological respiratory rhythm. Studies on electrophysiology show that the magnetic flow is an essential factor that modulates the firing activities of neurons. By adding the magnetic flow to Butera?s neuron model, we investigate how the electric current and magnetic flow influence neuronal activities under certain parametric restrictions. Using fast-slow decomposition and bifurcation analysis, we show that the variation of external electric current and magnetic flow leads to the change of the bistable structure of the system and hence results in the switch of neuronal firing pattern from one type to another.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Ming
+AU  - Zhang, Yuqi
+AU  - Li, Zhihui
+AU  - Hu, Li
+AU  - Kong, Yazhuo
+C7  - 6612456
+TI  - Sexism-Related Stigma Affects Pain Perception
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6612456
+DO  - https://doi.org/10.1155/2021/6612456
+SP  - 6612456
+PY  - 2021
+AB  - People with stigmatized characteristics tend to be devalued by others in a given society. The negative experiences related to stigma cause individuals to struggle as they would if they were in physical pain and bring various negative outcomes in the way that physical pain does. However, it is unclear whether stigma related to one?s identity would affect their perception of physical pain. To address this issue, using sexism-related paradigms, we found that females had reduced pain threshold/tolerance in the Cold Pressor Test (Experiment 1) and an increased rating for nociceptive laser stimuli with fixed intensity (Experiment 2). Additionally, we observed that there was a larger laser-evoked N1, an early laser-evoked P2, and a larger magnitude of low-frequency component in laser-evoked potentials (LEPs) in the stigma condition than in the control condition (Experiment 3). Our study provides behavioral and electrophysiological evidence that sexism-related stigma affects the pain perception of females.
+ER  - 
+
+TY  - JOUR
+AU  - Hao, Lijie
+AU  - Yang, Zhuoqin
+C7  - 6668389
+TI  - Dynamical Mechanisms for Gene Regulation Mediated by Two Noncoding RNAs in Long-Term Memory Formation
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6668389
+DO  - https://doi.org/10.1155/2021/6668389
+SP  - 6668389
+PY  - 2021
+AB  - Noncoding RNAs such as miRNAs and piRNAs have long-lasting effects on the regulation of gene expression involved in long-term synaptic changes. To characterize gene regulation mediated by small noncoding RNAs associated with long-term memory in Aplysia, we consider two noncoding RNAs stimulated by 5-HT into a gene regulatory network motif model, including miR-124 that binds to and inhibits the mRNA of CREB1 and piR-F that facilitates serotonin-dependent DNA methylation to lead to repression of CREB2. Codimension-1 and -2 bifurcation analyses of 5-HT regulating both miR-124 and piR-F and a negative feedback strength for oscillation reveal rich dynamical properties of bistability and oscillations robust to variations in all other parameters. More importantly, we verify three stimulus protocols of 5-HT in experiments by our model and find that application of five pulses of 5-HT leads to a transient decrease of miR-124 but increase of piR-F concentrations, which matters sustained high level of CREB1 concentration associated with long-term memory. Furthermore, we perform bifurcation analyses for the concentrations of miR-124 and piR-F as two parameters to explore dynamical mechanisms underlying the epigenetic regulation in long-term memory formation. This study provides insights into revealing regulatory roles of epigenetic changes in gene expression involving noncoding RNAs associated with synaptic plasticity.
+ER  - 
+
+TY  - JOUR
+AU  - Tian, Yin
+AU  - Zhou, Huishu
+AU  - Zhang, Huiling
+AU  - Li, Tianhao
+C7  - 6628021
+TI  - Research on Differential Brain Networks before and after WM Training under Different Frequency Band Oscillations
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6628021
+DO  - https://doi.org/10.1155/2021/6628021
+SP  - 6628021
+PY  - 2021
+AB  - Previous studies have shown that different frequency band oscillations are associated with cognitive processing such as working memory (WM). Electroencephalogram (EEG) coherence and graph theory can be used to measure functional connections between different brain regions and information interaction between different clusters of neurons. At the same time, it was found that better cognitive performance of individuals indicated stronger small-world characteristics of resting-state WM networks. However, little is known about the neural synchronization of the retention stage during ongoing WM tasks (i.e., online WM) by training on the whole-brain network level. Therefore, combining EEG coherence and graph theory analysis, the present study examined the topological changes of WM networks before and after training based on the whole brain and constructed differential networks with different frequency band oscillations (i.e., theta, alpha, and beta). The results showed that after WM training, the subjects? WM networks had higher clustering coefficients and shorter optimal path lengths than before training during the retention period. Moreover, the increased synchronization of the frontal theta oscillations seemed to reflect the improved executive ability of WM and the more mature resource deployment; the enhanced alpha oscillatory synchronization in the frontoparietal and fronto-occipital regions may reflect the enhanced ability to suppress irrelevant information during the delay and pay attention to memory guidance; the enhanced beta oscillatory synchronization in the temporoparietal and frontoparietal regions may indicate active memory maintenance and preparation for memory-guided attention. The findings may add new evidence to understand the neural mechanisms of WM on the changes of network topological attributes in the task-related mode.
+ER  - 
+
+TY  - JOUR
+AU  - Shi, Xia
+AU  - Du, Danwen
+AU  - Wang, Yuan
+C7  - 6640105
+TI  - Interaction of Indirect and Hyperdirect Pathways on Synchrony and Tremor-Related Oscillation in the Basal Ganglia
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6640105
+DO  - https://doi.org/10.1155/2021/6640105
+SP  - 6640105
+PY  - 2021
+AB  - Low-frequency oscillatory activity (3-9?Hz) and increased synchrony in the basal ganglia (BG) are recognized to be crucial for Parkinsonian tremor. However, the dynamical mechanism underlying the tremor-related oscillations still remains unknown. In this paper, the roles of the indirect and hyperdirect pathways on synchronization and tremor-related oscillations are considered based on a modified Hodgkin-Huxley model. Firstly, the effects of indirect and hyperdirect pathways are analysed individually, which show that increased striatal activity to the globus pallidus external (GPe) or strong cortical gamma input to the subthalamic nucleus (STN) is sufficient to promote synchrony and tremor-related oscillations in the BG network. Then, the mutual effects of both pathways are analysed by adjusting the related currents simultaneously. Our results suggest that synchrony and tremor-related oscillations would be strengthened if the current of these two paths are in relative imbalance. And the network tends to be less synchronized and less tremulous when the frequency of cortical input is in the theta band. These findings may provide novel treatments in the cortex and striatum to alleviate symptoms of tremor in Parkinson?s disease.
+ER  - 
+
+TY  - JOUR
+AU  - Ye, Weijie
+C7  - 6623926
+TI  - Dynamics of a Large-Scale Spiking Neural Network with Quadratic Integrate-and-Fire Neurons
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6623926
+DO  - https://doi.org/10.1155/2021/6623926
+SP  - 6623926
+PY  - 2021
+AB  - Since the high dimension and complexity of the large-scale spiking neural network, it is difficult to research the network dynamics. In recent decades, the mean-field approximation has been a useful method to reduce the dimension of the network. In this study, we construct a large-scale spiking neural network with quadratic integrate-and-fire neurons and reduce it to a mean-field model to research the network dynamics. We find that the activity of the mean-field model is consistent with the network activity. Based on this agreement, a two-parameter bifurcation analysis is performed on the mean-field model to understand the network dynamics. The bifurcation scenario indicates that the network model has the quiescence state, the steady state with a relatively high firing rate, and the synchronization state which correspond to the stable node, stable focus, and stable limit cycle of the system, respectively. There exist several stable limit cycles with different periods, so we can observe the synchronization states with different periods. Additionally, the model shows bistability in some regions of the bifurcation diagram which suggests that two different activities coexist in the network. The mechanisms that how these states switch are also indicated by the bifurcation curves.
+ER  - 
+
+TY  - JOUR
+AU  - Luo, Zhizeng
+AU  - Jin, Ronghang
+AU  - Shi, Hongfei
+AU  - Lu, Xianju
+C7  - 6655430
+TI  - Research on Recognition of Motor Imagination Based on Connectivity Features of Brain Functional Network
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6655430
+DO  - https://doi.org/10.1155/2021/6655430
+SP  - 6655430
+PY  - 2021
+AB  - Feature extraction is essential for classifying different motor imagery (MI) tasks in a brain-computer interface. To improve classification accuracy, we propose a novel feature extraction method in which the connectivity increment rate (CIR) of the brain function network (BFN) is extracted. First, the BFN is constructed on the basis of the threshold matrix of the Pearson correlation coefficient of the mu rhythm among the channels. In addition, a weighted BFN is constructed and expressed by the sum of the existing edge weights to characterize the cerebral cortex activation degree in different movement patterns. Then, on the basis of the topological structures of seven mental tasks, three regional networks centered on the C3, C4, and Cz channels are constructed, which are consistent with correspondence between limb movement patterns and cerebral cortex in neurophysiology. Furthermore, the CIR of each regional functional network is calculated to form three-dimensional vectors. Finally, we use the support vector machine to learn a classifier for multiclass MI tasks. Experimental results show a significant improvement and demonstrate the success of the extracted feature CIR in dealing with MI classification. Specifically, the average classification performance reaches 88.67% which is higher than other competing methods, indicating that the extracted CIR is effective for MI classification.
+ER  - 
+
+TY  - JOUR
+AU  - Su, Chunlin
+AU  - Zhen, Bin
+AU  - Song, Zigen
+C7  - 6692132
+TI  - A Synchronization Criterion for Two Hindmarsh-Rose Neurons with Linear and Nonlinear Coupling Functions Based on the Laplace Transform Method
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6692132
+DO  - https://doi.org/10.1155/2021/6692132
+SP  - 6692132
+PY  - 2021
+AB  - In this paper, an analytical criterion is proposed to investigate the synchronization between two Hindmarsh-Rose neurons with linear and nonlinear coupling functions based on the Laplace transform method. Different from previous works, the synchronization error system is expressed in its integral form, which is more convenient to analyze. The synchronization problem of two HR coupled neurons is ultimately converted into the stability problem of roots to a nonlinear algebraic equation. Then, an analytical criterion for synchronization between the two HR neurons can be given by using the Routh-Hurwitz criterion. Numerical simulations show that the synchronization criterion derived in this paper is valid, regardless of the periodic spikes or burst-spike chaotic behavior of the two HR neurons. Furthermore, the analytical results have almost the same accuracy as the conditional Lyapunov method. In addition, the calculation quantities always are small no matter the linear and nonlinear coupling functions, which show that the approach presented in this paper is easy to be developed to study synchronization between a large number of HR neurons.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Kwan Tung
+AU  - Liang, Junhao
+AU  - Zhou, Changsong
+C7  - 6668175
+TI  - Gamma Oscillations Facilitate Effective Learning in Excitatory-Inhibitory Balanced Neural Circuits
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6668175
+DO  - https://doi.org/10.1155/2021/6668175
+SP  - 6668175
+PY  - 2021
+AB  - Gamma oscillation in neural circuits is believed to associate with effective learning in the brain, while the underlying mechanism is unclear. This paper aims to study how spike-timing-dependent plasticity (STDP), a typical mechanism of learning, with its interaction with gamma oscillation in neural circuits, shapes the network dynamics properties and the network structure formation. We study an excitatory-inhibitory (E-I) integrate-and-fire neuronal network with triplet STDP, heterosynaptic plasticity, and a transmitter-induced plasticity. Our results show that the performance of plasticity is diverse in different synchronization levels. We find that gamma oscillation is beneficial to synaptic potentiation among stimulated neurons by forming a special network structure where the sum of excitatory input synaptic strength is correlated with the sum of inhibitory input synaptic strength. The circuit can maintain E-I balanced input on average, whereas the balance is temporal broken during the learning-induced oscillations. Our study reveals a potential mechanism about the benefits of gamma oscillation on learning in biological neural circuits.
+ER  - 
+
+TY  - JOUR
+AU  - Ma, Hanqing
+AU  - Jia, Bing
+AU  - Li, Yuye
+AU  - Gu, Huaguang
+C7  - 6692411
+TI  - Excitability and Threshold Mechanism for Enhanced Neuronal Response Induced by Inhibition Preceding Excitation
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6692411
+DO  - https://doi.org/10.1155/2021/6692411
+SP  - 6692411
+PY  - 2021
+AB  - Postinhibitory facilitation (PIF) of neural firing presents a paradoxical phenomenon that the inhibitory effect induces enhancement instead of reduction of the firing activity, which plays important roles in sound location of the auditory nervous system, awaited theoretical explanations. In the present paper, excitability and threshold mechanism for the PIF phenomenon is presented in the Morris-Lecar model with type I, II, and III excitabilities. Firstly, compared with the purely excitatory stimulations applied to the steady state, the inhibitory preceding excitatory stimulation to form pairs induces the firing rate increased for type II and III excitabilities instead of type I excitability, when the interval between the inhibitory and excitatory stimulation within each pair is suitable. Secondly, the threshold mechanism for the PIF phenomenon is acquired. For type II and III excitabilities, the inhibitory stimulation induces subthreshold oscillations around the steady state. During the middle and ending phase of the ascending part and the beginning phase of the descending part within a period of the subthreshold oscillations, the threshold to evoke an action potential by an excitatory stimulation becomes weaker, which is the cause for the PIF phenomenon. Last, a theoretical estimation for the range of the interval between the inhibitory and excitatory stimulation for the PIF phenomenon is acquired, which approximates half of the intrinsic period of the subthreshold oscillations for the relatively strong stimulations and becomes narrower for the relatively weak stimulations. The interval for the PIF phenomenon is much shorter for type III excitability, which is closer to the experiment observation, due to the shorter period of the subthreshold oscillations. The results present the excitability and threshold mechanism for the PIF phenomenon, which provide comprehensive and deep explanations to the PIF phenomenon.
+ER  - 
+
+TY  - JOUR
+AU  - Han, Chuanliang
+AU  - Wang, Tian
+AU  - Wu, Yujie
+AU  - Li, Yang
+AU  - Yang, Yi
+AU  - Li, Liang
+AU  - Wang, Yizheng
+AU  - Xing, Dajun
+C7  - 8874516
+TI  - The Generation and Modulation of Distinct Gamma Oscillations with Local, Horizontal, and Feedback Connections in the Primary Visual Cortex: A Model Study on Large-Scale Networks
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/8874516
+DO  - https://doi.org/10.1155/2021/8874516
+SP  - 8874516
+PY  - 2021
+AB  - Gamma oscillation (GAMMA) in the local field potential (LFP) is a synchronized activity commonly found in many brain regions, and it has been thought as a functional signature of network connectivity in the brain, which plays important roles in information processing. Studies have shown that the response property of GAMMA is related to neural interaction through local recurrent connections (RC), feed-forward (FF), and feedback (FB) connections. However, the relationship between GAMMA and long-range horizontal connections (HC) in the brain remains unclear. Here, we aimed to understand this question in a large-scale network model for the primary visual cortex (V1). We created a computational model composed of multiple excitatory and inhibitory units with biologically plausible connectivity patterns for RC, FF, FB, and HC in V1; then, we quantitated GAMMA in network models at different strength levels of HC and other connection types. Surprisingly, we found that HC and FB, the two types of large-scale connections, play very different roles in generating and modulating GAMMA. While both FB and HC modulate a fast gamma oscillation (around 50-60?Hz) generated by FF and RC, HC generates a new GAMMA oscillating around 30?Hz, whose power and peak frequency can also be modulated by FB. Furthermore, response properties of the two GAMMAs in a network with both HC and FB are different in a way that is highly consistent with a recent experimental finding for distinct GAMMAs in macaque V1. The results suggest that distinct GAMMAs are signatures for neural connections in different spatial scales and they might be related to different functions for information integration. Our study, for the first time, pinpoints the underlying circuits for distinct GAMMAs in a mechanistic model for macaque V1, which might provide a new framework to study multiple gamma oscillations in other cortical regions.
+ER  - 
+
+TY  - JOUR
+AU  - Han, Zengliang
+AU  - Chen, Mou
+AU  - Zhou, Tongle
+AU  - Nie, Zhiqiang
+AU  - Wu, Qingxian
+C7  - 6639664
+TI  - Path Planning of Unmanned Autonomous Helicopter Based on Human-Computer Hybrid Augmented Intelligence
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6639664
+DO  - https://doi.org/10.1155/2021/6639664
+SP  - 6639664
+PY  - 2021
+AB  - Unmanned autonomous helicopter (UAH) path planning problem is an important component of the UAH mission planning system. The performance of the automatic path planner determines the quality of the UAH flight path. Aiming to produce a high-quality flight path, a path planning system is designed based on human-computer hybrid augmented intelligence framework for the UAH in this paper. Firstly, an improved artificial bee colony (I-ABC) algorithm is proposed based on the dynamic evaluation selection strategy and the complex optimization method. In the I-ABC algorithm, the following way of on-looker bees and the update strategy of nectar source are optimized to accelerate the convergence rate and retain the exploration ability of the population. In addition, a space clipping operation is proposed based on the attention mechanism for constructing a new spatial search area. The search time can be further reduced by the space clipping operation under the path planning result within acceptable changes. Moreover, the entire optimization process and results can be feeded back to the knowledge database by the human-computer hybrid augmented intelligence framework to guide subsequent path planning issues. Finally, the simulation results confirm that a feasible and effective flight path can be quickly generated by the UAH path planning system based on human-computer hybrid augmented intelligence.
+ER  - 
+
+TY  - JOUR
+AU  - Pan, Pan
+AU  - Wei, Shubao
+AU  - Li, Huabing
+AU  - Ou, Yangpan
+AU  - Liu, Feng
+AU  - Jiang, Wenyan
+AU  - Li, Wenmei
+AU  - Lei, Yiwu
+AU  - Tang, Yanqing
+AU  - Guo, Wenbin
+AU  - Luo, Shuguang
+C7  - 6611703
+TI  - Voxel-Wise Brain-Wide Functional Connectivity Abnormalities in Patients with Primary Blepharospasm at Rest
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2021
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2021/6611703
+DO  - https://doi.org/10.1155/2021/6611703
+SP  - 6611703
+PY  - 2021
+AB  - Background. Primary blepharospasm (BSP) is one of the most common focal dystonia and its pathophysiological mechanism remains unclear. An unbiased method was used in patients with BSP at rest to observe voxel-wise brain-wide functional connectivity (FC) changes. Method. A total of 48 subjects, including 24 untreated patients with BSP and 24 healthy controls, were recruited to undergo functional magnetic resonance imaging (fMRI). The method of global-brain FC (GFC) was adopted to analyze the resting-state fMRI data. We designed the support vector machine (SVM) method to determine whether GFC abnormalities could be utilized to distinguish the patients from the controls. Results. Relative to healthy controls, patients with BSP showed significantly decreased GFC in the bilateral superior medial prefrontal cortex/anterior cingulate cortex (MPFC/ACC) and increased GFC in the right postcentral gyrus/precentral gyrus/paracentral lobule, right superior frontal gyrus (SFG), and left paracentral lobule/supplement motor area (SMA), which were included in the default mode network (DMN) and sensorimotor network. SVM analysis showed that increased GFC values in the right postcentral gyrus/precentral gyrus/paracentral lobule could discriminate patients from controls with optimal accuracy, specificity, and sensitivity of 83.33%, 83.33%, and 83.33%, respectively. Conclusion. This study suggested that abnormal GFC in the brain areas associated with sensorimotor network and DMN might underlie the pathophysiology of BSP, which provided a new perspective to understand BSP. GFC in the right postcentral gyrus/precentral gyrus/paracentral lobule might be utilized as a latent biomarker to differentiate patients with BSP from controls.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Guanghui
+AU  - Li, Xueyan
+AU  - Cong, Fengyu
+C7  - 8841354
+TI  - Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2020
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2020/8841354
+DO  - https://doi.org/10.1155/2020/8841354
+SP  - 8841354
+PY  - 2020
+AB  - Evoked event-related oscillations (EROs) have been widely used to explore the mechanisms of brain activities for both normal people and neuropsychiatric disease patients. In most previous studies, the calculation of the regions of evoked EROs of interest is commonly based on a predefined time window and a frequency range given by the experimenter, which tends to be subjective. Additionally, evoked EROs sometimes cannot be fully extracted using the conventional time-frequency analysis (TFA) because they may be overlapped with each other or with artifacts in time, frequency, and space domains. To further investigate the related neuronal processes, a novel approach was proposed including three steps: (1) extract the temporal and spatial components of interest simultaneously by temporal principal component analysis (PCA) and Promax rotation and project them to the electrode fields for correcting their variance and polarity indeterminacies, (2) calculate the time-frequency representations (TFRs) of the back-projected components, and (3) compute the regions of evoked EROs of interest on TFRs objectively using the edge detection algorithm. We performed this novel approach, conventional TFA, and TFA-PCA to analyse both the synthetic datasets with different levels of SNR and an actual ERP dataset in a two-factor paradigm of waiting time (short/long) and feedback (loss/gain) separately. Synthetic datasets results indicated that N2-theta and P3-delta oscillations can be stably detected from different SNR-simulated datasets using the proposed approach, but, by comparison, only one oscillation was obtained via the last two approaches. Furthermore, regarding the actual dataset, the statistical results for the proposed approach revealed that P3-delta was sensitive to the waiting time but not for that of the other approaches. This study manifested that the proposed approach could objectively extract evoked EROs of interest, which allows a better understanding of the modulations of the oscillatory responses.
+ER  - 
+
+TY  - JOUR
+AU  - Zang, Jie
+AU  - Liu, Shenquan
+C7  - 6647389
+TI  - The Adjustment of Anterior Forebrain Pathway (AFP) to Birdsong Is Phased during Song Learning and Maintenance
+JO  - Neural Plasticity
+JA  - Neural Plasticity
+VL  - 2020
+IS  - 1
+SN  - 2090-5904
+UR  - https://doi.org/10.1155/2020/6647389
+DO  - https://doi.org/10.1155/2020/6647389
+SP  - 6647389
+PY  - 2020
+AB  - Anterior forebrain pathway (AFP), a basal ganglia-dorsal forebrain circuit, significantly impacts birdsong, specifically in juvenile or deaf birds. Despite many physiological experiments supporting AFP?s role in song production, the mechanism underlying it remains poorly understood. Using a computational model of the anterior forebrain pathway and song premotor pathway, we examined the dynamic process and exact role of AFP during song learning and distorted auditory feedback (DAF). Our simulation suggests that AFP can adjust the premotor pathway structure and syllables based on its delayed input to the robust nucleus of the archistriatum (RA). It is also indicated that the adjustment to the synaptic conductance in the song premotor pathway has two phases: normal phases where the adjustment decreases with an increasing number of trials and abnormal phases where the adjustment remains stable or even increases. These two phases alternate and impel a specific effect on birdsong based on AFP?s specific structures, which may be associated with auditory feedback. Furthermore, our model captured some characteristics shown in birdsong experiments, such as similarities in pitch, intensity, and duration to real birds and the highly abnormal features of syllables during DAF.
+ER  - 

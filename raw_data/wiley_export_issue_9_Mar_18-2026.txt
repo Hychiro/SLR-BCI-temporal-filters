@@ -1,0 +1,291 @@
+
+TY  - JOUR
+AU  - Barbur, John L.
+TI  - Methods for early detection of selective loss of visual function in diseases of the retina
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16805
+DO  - https://doi.org/10.1111/aos.16805
+PY  - 2025
+AB  - Retinal mechanisms evolved to extract and code efficiently the most important information present in retinal images. Luminance contrast, ?red/green?, ?yellow/blue?, ?white-black?, and ?light-flux? channels extract the signals needed to account for most attributes of our visual perception, including the ability to judge the level of ambient lighting. By employing two types of photoreceptors, rods and cones, the visual system achieves an extraordinarily large, dynamic range of useful vision, but this involves extensive compromises. The spatial, temporal and chromatic properties of the signals extracted from the retinal image very greatly with the level of ambient illumination. Visual acuity, contrast sensitivity, red/green and yellow/blue colour vision and motion and rapid flicker sensitivity, all worsen with decreasing light level. The extent to which visual performance is compromised in the mesopic range is also affected by normal aging and retinal disease. In this lecture I shall describe a number of advanced vision and optometric tests designed to reduce within subject variability, to account for normal age-related changes, to isolate selectively red/green and yellow/blue colour mechanisms and most importantly, to test specifically for the rate of loss of visual sensitivity in the mesopic range. Results from extensive investigations in patients with diabetes, age-related macular degeneration and glaucoma will be used to illustrate the usefulness of these tests in the early detection of retinal disease. Unique results from single patient studies will also be presented to illustrate some visual consequences of abnormal interaction of rod and cone signals in the mesopic range.
+ER  - 
+
+TY  - JOUR
+AU  - Szentmary, Nora
+TI  - Aniridia associated keratopathy – molecular and clinical mechanisms leading to keratopathy development
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16806
+DO  - https://doi.org/10.1111/aos.16806
+PY  - 2025
+AB  - Congenital aniridia is a rare, panocular disease with PAX6 haploinsufficiency in 90% of the cases. In addition to PAX6, other factors appear to play a role in aniridia associated keratopathy (AAK) development. FOXC1, DSG1, FOSL2 and FABP5 are genes that are crucial for eye development, differentiation of limbal stem cells and for the regulation of lipid metabolism in epithelial cells. Recent data also indicate the importance of microRNA 204-5p and microRNA 138-5p in AAK. The Lagali AAK classification well describes the progressive nature of AAK, from a mild peripheral to a central corneal vascularization with corneal pannus formation. Ocular surface inflammation, as much as previous ocular surgery seem to have a role in AAK progression. Nevertheless, the corneal endothelium might possess slightly better quantitative reserves in congenital aniridia, than in healthy subjects and corneal endothelial deposition seems to be independent from the developmental abnormalities but may be related to up to date undescribed endothelial inflammatory or metabolic changes.
+ER  - 
+
+TY  - JOUR
+AU  - Ferrara, Napoleone
+TI  - New insights in the regulation of ocular angiogenesis by vegf and other mediators: therapeutic implications
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16807
+DO  - https://doi.org/10.1111/aos.16807
+PY  - 2025
+AB  - Angiogenesis plays a key role in the pathogenesis of numerous disorders. In 1989, we reported the isolation and cloning of vascular endothelial growth factor (VEGF) as an endothelial cell-specific mitogen and angiogenic factor. VEGF is now recognized as a central player in the regulation of angiogenesis. VEGF inhibitors result in significant clinical benefits in intraocular vascular disorders such as age-related macular degeneration (AMD) and today such drugs represent the most effective therapy for intraocular neovascular disorders. Since the introduction of anti-VEGF therapy, neovascular AMD is no longer the leading cause of severe vision loss secondary to AMD, which at present is geographic atrophy (GA). Novel approaches to prevent choriocapillaris dropout and GA will be discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Kiilgaard, Jens
+TI  - Towards personalized medicine in uveal melanoma
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16808
+DO  - https://doi.org/10.1111/aos.16808
+PY  - 2025
+AB  - The melanocyte in the human uvea undergoes in rare cases malignant transformation and becomes one of the deadliest types of melanomas in humans. The incidence varies between 3 and 12 per million people and the highest incidence is found in Denmark. The uveal melanoma differs in many aspects from the melanoma in the skin, but the lack of UV induced mutations and failure of immunotherapies seems to be the most prominent. The genetic alterations in uveal melanoma have provided new tools in the management of this patient group. We can today stratify the patients according to metastatic risk into a high-risk group and a low-risk group. This allows for better use of resources in the follow-up program for these patients. The mapping of the mutations involved in the tumor formation have also opened for specialized treatments and better inclusion criteria for randomized studies. The mutational burden in uveal melanoma is very low, which makes uveal melanoma an excellent model to investigate the evolution of the tumor and investigate the mechanisms of metastatic disease progression.
+ER  - 
+
+TY  - JOUR
+AU  - JImeno, Jose Carlos Pator
+TI  - Translational research in ophthalmology. Some examples
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16809
+DO  - https://doi.org/10.1111/aos.16809
+PY  - 2025
+AB  - Translational research is a bidirectional process that involves multidisciplinary integration among basic, clinical, practice, population, and policy-based research. The goal of translational research is to speed up scientific discovery into patient and community benefit. In my opinion, the most accessible research to a clinician like me is translational, and must be intimately linked to training and clinical practice. But the environment is very important and although our national health system has many benefits, research was not stimulated, at least in 1981 when I became a professor in Valladolid. For this reason, and taking advantage of a reform of the University Law (LRU), in 1994 we created the IOBA. Thirty years later, we have our own building and more than 100 people work, 40 of whom are researchers. Every five years we are evaluated by the University Quality System and in the last evaluation we obtained 88.5 points out of a total of 100. In 2003, we also took advantage of another reform of the University's Law, and created the first start-up of the University of Valladolid, which 21?years later is still alive. And it allows us, among other things, to retain talented researchers until they find their place at the university. And finally, in 2010 we stimulated the creation of a cluster dedicated to Ophthalmology and Vision Sciences called 'Cluster4Eye'. This cluster is currently focalized in the application of the so named Medical Device Regulation of the European Union which has been implemented affecting not only manufacturers but also sanitary personnel. As an example of applied research, I will comment on some aspects of our research on the so-called 'endotamponades' in vitreoretinal surgery. Liquid perfluorocarbons and silicone oil. In 2015 we took on the challenge of finding out why hundreds of people had irreparably lost vision in one eye after successful retinal detachment surgery. We were able to find out, we were part of the international ISO standards committee modifying the standard on ocular endotamponades and making an international patent and we are now part of the European Union's expert group for ocular medical devices. Regarding silicone oil, I started working with Miguel Refojo in Boston in 1990 and we have continued to improve it continuously and produce improvements that have been incorporated into the market.
+ER  - 
+
+TY  - JOUR
+AU  - Cordeiro, Maria Francesca
+TI  - Translational experiences in ophthalmology
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16810
+DO  - https://doi.org/10.1111/aos.16810
+PY  - 2025
+AB  - DARC (Detection of Apoptosing Retinal Cells) is a retinal imaging technology that has progressed from lab research to Phase 2 clinical trials. It uses ANX776 (fluorescently labelled Annexin A5) to detect stressed and apoptotic cells in the eye. The technology has undergone product optimization, GMP manufacturing, and preclinical testing, initially in models of glaucoma and optic neuropathy, and later in conditions like AMD, Alzheimer's, Parkinson's, and diabetes. Though the transition to clinical trials was slow, ANX776 has been found safe in around 400 clinical procedures around the world, with DARC showing promise in predicting disease activity in wet AMD, Geographic Atrophy, and glaucoma, aided by AI algorithms. Larger studies are needed to validate its use as an approved screening tool. This talk covers DARC's development and the challenges faced in advancing it to multiple clinical applications.
+ER  - 
+
+TY  - JOUR
+AU  - Grzybowski, Andrzej
+TI  - 100 years of acta ophthalmologica: recipe for success
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16811
+DO  - https://doi.org/10.1111/aos.16811
+PY  - 2025
+AB  - In 2023 Acta Ophthalmologica journal celebrated its 100th anniversary. This reminds its long history and shows how it became one of the leading journals in Ophthalmology. The journal was founded by Konrad Lundsgaard in 1923 as Acta Ophthalmologica Scandinavica with the goal was to present the clinical and experimental achievements of the ophthalmological communities of the Nordic countries. Later, with increasing interest from scientific communities in other countries, it has become one of the most visible ophthalmology journals in the world and changed its into more international present name. Acta Ophthalmologica publishes a wide variety of high-quality ophthalmological papers. Here the activities of Acta Ophthalmologica over the past 100?years are presented.
+ER  - 
+
+TY  - JOUR
+AU  - Schmetterer, Leopold
+TI  - The future of ocular imaging: functional OCT versus deep learning
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16812
+DO  - https://doi.org/10.1111/aos.16812
+PY  - 2025
+AB  - The future of ocular imaging lies at the intersection of two powerful technologies: Functional Optical Coherence Tomography (OCT) and Deep Learning. Functional OCT represents a leap forward in imaging technology by integrating traditional OCT with functional measurements like blood flow, tissue stiffness, tissue birefringence, oxygen metabolism and optoretinography. This comprehensive may offers deeper insights into ocular health and disease progression than conventional structural OCT. By capturing both structural and functional information, Functional OCT may our ability to detect and monitor conditions such as myopia, glaucoma, diabetic retinopathy, and age-related macular degeneration. Deep Learning, on the other hand, is a subset of artificial intelligence, analyzing the vast amounts of data generated by ocular imaging modalities. Through sophisticated algorithms, Deep Learning can identify intricate patterns and features in images that may elude human interpretation. This capability not only enhances diagnostic accuracy but also aids in automating image analysis, improving efficiency, and reducing the burden on healthcare professionals. The synergy between Functional OCT and Deep Learning holds immense promise for the future of ocular imaging. By integrating these technologies, we can achieve a comprehensive understanding of ocular physiology and pathology while enhancing diagnostic accuracy and efficiency. This convergence may lead to the development of advanced systems capable of real-time analysis and interpretation, facilitating point-of-care diagnostics and remote monitoring. However, realizing this potential requires addressing various challenges, including data privacy concerns, standardization of imaging protocols, and regulatory approval. Collaborative efforts between researchers, clinicians, and industry stakeholders are essential to overcoming these hurdles and harnessing the full benefits of Functional OCT and Deep Learning in ophthalmic practice.
+ER  - 
+
+TY  - JOUR
+AU  - Modis, Laszlo
+TI  - Corneal ectatic disorders – clinical appearance and differential diagnosis
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16813
+DO  - https://doi.org/10.1111/aos.16813
+PY  - 2025
+AB  - The prevalence and incidence of ectatic corneal disease (ECD) vary greatly in different populations and geographic areas and its presence is reaching nearly 5% according to recent data. Ectasia of the cornea refers to diseases in which the radius of curvature and in parallel its refractive power changes and the cornea thins corresponding to the ectatic part. Ectasias are differentiated according to the form and the area of the cornea where the process occurs. The etiology of the disease is not known, and it used to be classified on clinical appearance. ECD is a heterogeneous disease, genetic and environmental factors may contribute to its pathogenesis. Ectasias are bilateral, progressive, non-inflammatory, rather sporadic, and familial occurrence has been found in only 6-20% of cases. The mode of inheritance can be autosomal dominant or recessive. Most common form is keratoconus, a progressive, non-inflammatory, usually bilateral, asymmetric disease, characterized by epithelial and stromal thinning and weakening. Its special iatrogenic form occurs as a complication of LASIK surgery. In contrast, keratoglobus and keratotorus are very rare. It is characterized by the anterior bulging of the entire cornea in the shape of a sphere or a pear. For this reason, the astigmatism is not great as compared to advanced keratoconus and often remains regular even during the progression. However, if refraction increases, may reach up to 60 Ds or even more. The cornea is very thin, but there is no Fleischer ring, which is an important differential diagnostic sign. Pellucid marginal degeneration is characterized by thinning and protrusion of the cornea in the lower one-third. There are no signs of inflammation and no vascularization. It usually begins between 20 and 40?years of age. The cause of visual impairment is irregular astigmatism. Scarring occurs in the stroma near the posterior surface, but very rarely spontaneous perforation may occur. Terrien's marginal degeneration is a bilateral disease usually affecting men in their forties. However, significant asymmetry can also occur. In the upper part of the cornea, yellowish-white stromal opacities are visible 1-2?mm from the limbus, following its curve. Between the lesion and the limbus, the cornea has a normal structure. As the disease progresses, astigmatism and vascularization develop. The diagnosis of ECD is usually based on patient history and characteristic findings on topography and tomography, slit lamp signs often appear later, as the disease progresses. Typical signs on imaging include inferior steepening, skewing of radial axes, abnormal islands and elevations on anterior and posterior maps and abnormal corneal thinning. The diagnostic focus has shifted from the anterior to the posterior corneal surface. ECDs should be distinguished from senile lesions, infections, pseudopterygium, immunological diseases, dellen.
+ER  - 
+
+TY  - JOUR
+AU  - Belin, Michael W.
+TI  - Ectasia screening with the pentacam scheimpflug tomographer: the belin ambrosio module
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16814
+DO  - https://doi.org/10.1111/aos.16814
+PY  - 2025
+AB  - Screening for ectatic disease falls into two general categories; 1) refractive surgery screening, where the goal is to identify patients at potential risk for post-refractive ectasia, and 2) identifying patients with true ectatic disease (keratoconus) at the earliest possible point in the disease process to intervene to limit and/or prevent sequalae. Tomographic imaging (either Scheimpflug or OCT) allows for the earliest detection of disease by its ability to image all anterior segment surfaces. The Belin/Ambrosio Display (BAD) utilizes 9 different tomographic parameters in a proprietary regression formula and was designed to fulfill both functions (screening & diagnosis). The differences, however, are important. The overall reading of the BAD is done by the final ?D?. The final ?D? represents variance from normal, but not necessarily keratoconus. The BAD display will show an elevated final ?D? in any corneal condition that varies from normal. Conditions such as corneal edema or post refractive surgery will produce an elevated final ?D? as these conditions differ from the normal cornea. Diagnosing keratoconus requires identifying those parameters that are specific for keratoconus that in addition to the final ?D?, raises the specificity for keratoconus. A current FDA Phase 3 protocol looks at posterior elevation at the thinnest point, and a Percent Thickness Increase (PTI) graph with the tracing below midline. These parameters added to a specified final ?D? would increase disease specificity. The BAD display has been shown to have both high sensitivity and specificity, but screening values can be adjusted to suit the clinical or study situation.
+ER  - 
+
+TY  - JOUR
+AU  - Flockerzi, Elias
+AU  - Seitz, Berthold
+TI  - Keratoconus staging, monitoring & corvis biomechanical analysis
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16815
+DO  - https://doi.org/10.1111/aos.16815
+PY  - 2025
+AB  - Keratoconus remains one of the leading indications for penetrating keratoplasty worldwide. Since it can be effectively stabilized today, its early diagnosis and progression assessment is of particular importance. Detection and progression assessment are no longer limited to slit lamp examination and corneal topography, but comprise nowadays increasingly corneal tomography and biomechanics. Because keratoconus has a decreased resistance to deformation when compared to healthy corneas, measuring and analyzing the corneal deformation behavior has been reported to enable distinction between healthy and keratoconus corneas. The main Corneal Visualization Scheimpflug Technology (Corvis ST?, Oculus, Wetzlar, Germany) indices Corvis Biomechanical Index (CBI) and Tomographic Biomechanical Index (TBI) aim to distinguish between healthy and keratoconus corneas in a quasi-binary manner, whereas the Biomechanical E-Staging is based on the linear term of the CBI and provides information about keratoconus severity, thus enabling a biomechanical severity staging and progression assessment.
+ER  - 
+
+TY  - JOUR
+AU  - Carelli, Valerio
+TI  - Why have we failed to fully explain incomplete penetrance in lhon?
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16816
+DO  - https://doi.org/10.1111/aos.16816
+PY  - 2025
+AB  - Leber hereditary optic neuropathy (LHON) remains puzzling in many aspects, one of these is the incomplete penetrance. Three mitochondrial DNA (mtDNA) point mutations affecting genes that encode for complex I subunits are associated with LHON in over 90% of cases. As mtDNA variants may co-exist with wild type genomes, a condition known as ?heteroplasmy?, the disease expression may need a high threshold of mutant load. However, heteroplasmy occurs occasionally in LHON families, as in most cases the mtDNA primary LHON mutation is found to be homoplasmic, i.e. 100% mutant mtDNA, but yet the affected individuals remain only a limited subset of the mutation carriers. Variation of the mitochondrial genome has been also studied as possible source of incomplete penetrance. In fact, constitutive variants defining mtDNA haplogroup J have been found to increase penetrance in families with the m.11778G>A and, more consistently, with the m.14484T>C mutations. Yet this observation does not completely explain incomplete penetrance. Remarkably, incomplete penetrance is also found to occur with the new entity of recessive LHON, in families with DNAJC30 mutations. Environmental factors, such as tobacco smoking and alcohol consumption, are also invoked as disease triggers able to impact on penetrance. Last, nuclear DNA (nDNA) variants have been intensively investigated, but with rare exceptions, to date no common polymorphic or hypomorphic variants have been found to segregate with affected or unaffected mutation carriers, thus modulating penetrance. Furthermore, no clearcut digenic model with variants in chromosome X, as initially hypothesized to explain also male prevalence, have been convincingly documented. It seems obvious that all models hypothesized until now did not work and a paradigm shift seems necessary. Multi-omic approaches are ongoing to further investigated the unsolved issue of incomplete penetrance in LHON, under the assumption that variants burden in multiple genes belonging to specific pathways related to LHON pathogenic mechanisms may be key to modulate penetrance. One of these pathways is hypothesized to be the machinery regulating mitochondrial biogenesis and mtDNA copy number, as there is evidence that successfully upregulated mito-biogenesis is a compensatory mechanism characterizing unaffected mutation carriers as compared to affected and controls. Other candidate pathways may include the whole machinery necessary for complex I biogenesis and maintenance, as recently shown for the digenic cases of Leigh syndrome occurring with the m.11778G>A or DNAJC30 mutations. Furthermore, the genetics underlying some anatomical traits that may be relevant to favoring disease conversion, such as optic nerve head dimension, may be other good candidates to screen. Epigenetics remains unexplored, as well as the confounder of environmentally driven affected cases may reduce statistical power in identifying relevant genetic modifying variants. Overall, it is necessary to join new strategies and hypothesis with a common international multicentric effort to build a large LHON cohort to convincingly solve the controversial issue of incomplete penetrance in LHON.
+ER  - 
+
+TY  - JOUR
+AU  - Bouzidi, Aymane
+AU  - Eckmann-Hansen, Christina
+AU  - Larsen, Mickael
+AU  - Zanlonghi, Xavier
+AU  - Bocquet, Béatrice
+AU  - Meunier, Isabelle
+AU  - Lenaers, Guy
+TI  - Identification of biomarkers reflecting opa1-related dominant optic atrophy severity to infer patient cohorts eligible to clinical trials
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16817
+DO  - https://doi.org/10.1111/aos.16817
+PY  - 2025
+AB  - Dominant Optic Atrophy is a blinding disease related to optic nerve degeneration, which is caused in more than 50% of cases, by a heterozygous mutation in the OPA1 gene. Since its molecular identification in 2000, one striking observation of DOA patients is the high variability of the visual defect, ranging from almost unaffected individuals to legally blind patients, even among relatives with the same mutation. This variability is further connected to a disease progression which is also highly variable, some patients evolving quickly to blindness, whereas others display a very slow progression. Together, this situation hampers the recruitment of OPA1-related patients for clinical trials. To tackle this problem, we have recruited 100 OPA1 patients and 40 controls to identify biomarkers segregating with DOA severity. All patients and controls had a full ophthalmological examination and a mean follow-up of 5?years, and all answered a visual quality of life and a nutritional questionnaire. Blood and stools were collected to perform transcriptomic, metabolomic and microbiota analyses. My talk will present the results of this multi-OMIC analyses, the correlation between clinical and biological data and the identification of the most relevant biomarkers segregating with the evolution of DOA disease.
+ER  - 
+
+TY  - JOUR
+AU  - Yu-Wai-Man, Patrick
+TI  - Gene therapy – can we do better?
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16818
+DO  - https://doi.org/10.1111/aos.16818
+PY  - 2025
+AB  - Inherited optic neuropathies are genetically heterogeneous. The two main groups are Leber hereditary optic neuropathy (LHON) caused by primary mitochondrial DNA (mtDNA) point mutations and autosomal dominant optic atrophy (DOA) caused by mutations in the nuclear-encoded OPA1 gene. Gene therapy is an obvious therapeutic approach aimed at correcting the underlying genetic defect to prevent the ongoing loss of retinal ganglion cells and stabilise or improve vision. Although promising results have been obtained from phase III clinical trials for LHON based on allotopic expression of the MT-ND4 gene for the common m.11778G>A mtDNA mutation, several unexpected issues have emerged calling into question the optimal gene delivery system, the ideal therapeutic window for intervention, and whether interocular transfer of the gene therapy vector can occur. Resolving these controversies will be crucial given the fact that other gene therapy trials are in the pipeline for LHON and OPA1 DOA.
+ER  - 
+
+TY  - JOUR
+AU  - Gonzalez-Lopez, Julio J.
+TI  - Cancer-associated retinopathy in microcitic lung cancer treated with atezolizumab: Potential exacerbation of retinal immune damage
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16819
+DO  - https://doi.org/10.1111/aos.16819
+PY  - 2025
+AB  - Introduction: Cancer-associated retinopathy (CAR) represents a paraneoplastic syndrome characterized by profound visual impairment associated with autoantibodies targeting retinal antigens. Case report: Herein, we present a clinical case of CAR in a 66-year-old male tobacco user diagnosed with microcytic lung cancer, concurrently exhibiting very high titers of antirecoverin antibodies. The patient's ocular symptoms manifested as bilateral vision loss and photopsias, prompting comprehensive ophthalmological evaluation. The patient's medical history revealed treatment with atezolizumab, a monoclonal antibody targeting programmed death-ligand 1 (PD-L1), as part of his anticancer regimen. Notably, atezolizumab is known for its immunomodulatory effects, which have shown efficacy in various malignancies. However, recent literature suggests a potential association between immune checkpoint inhibitors (ICIs) and the exacerbation of autoimmune phenomena, including CAR. Ophthalmologic examination revealed loss of extrafoveal ellipsoid layer in OCT, bilateral diffuse retinal pigmentary changes with attenuated arterioles and electroretinogram (ERG) findings consistent with severe dysfunction of both rod and cone photoreceptors, indicative of advanced retinal degeneration. Vitamin A levels were within normal limits. Furthermore, the presence of markedly elevated antirecoverin antibody titers supported the diagnosis of CAR. Discussion: While the exact pathophysiological mechanisms linking atezolizumab to CAR exacerbation remain speculative, it is postulated that the drug's ability to unleash antitumor immune responses may inadvertently trigger or amplify autoimmune reactions against retinal antigens. Indeed, the upregulation of immune checkpoints such as PD-L1 in retinal tissues has been implicated in the maintenance of immune privilege, and disruption of this balance by ICIs could predispose to immune-mediated retinal damage. This case highlights the importance of heightened vigilance for ocular adverse events in patients receiving ICIs, particularly those with pre-existing autoimmune tendencies. Prompt recognition and management of CAR are paramount to mitigating irreversible visual impairment and improving patient outcomes. Future studies elucidating the interplay between ICIs and retinal autoimmunity are warranted to optimize therapeutic strategies and minimize iatrogenic complications. Conclusions: In conclusion, we present a compelling case of CAR in a patient with microcytic lung cancer treated with atezolizumab, suggesting a potential association between ICI therapy and exacerbation of immune-mediated retinal damage. Clinicians should maintain a high index of suspicion for ocular complications in patients receiving ICIs, and further research is needed to delineate the underlying mechanisms and optimize management strategies in this population.
+ER  - 
+
+TY  - JOUR
+AU  - Fabiani, Claudia
+AU  - Spadavecchia, Giulia
+AU  - Guidetti, Giorgia
+AU  - Marigliani, Davide
+AU  - Tosi, Gian Marco
+TI  - Composing the puzzle: a case of acute unilateral vision loss
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16820
+DO  - https://doi.org/10.1111/aos.16820
+PY  - 2025
+AB  - A 75-year-old Caucasian male, with a medical history of hypertension, diabetes, and dyslipidemia, presented to the emergency department with sudden complete vision loss in his left eye (LE). Ophthalmological examination revealed absence of light perception, a relative afferent pupil defect, and mild nuclear cataract with normal intraocular pressure. Fundoscopy indicated optic disc edema, retinal arteriolar narrowing, venous tortuosity, macular whitening, a foveal cherry-red spot, and scattered hemorrhages in the peripheral retina and vitreous turbidity. Right eye (RE) had a best corrected visual acuity (BCVA) of 20/30, with mild nuclear cataract as the only anomaly. Spectral domain optical coherence tomography (SD-OCT) of the RE displayed hyperreflective inner retinal layers, intra- and subretinal fluid, hyperreflective vitreous structure, and irregular preretinal formations. Fluorescein angiography indicated retinal non-perfusion, suggesting combined central retinal artery and vein occlusion (CCRAVO). Fast-track protocol for excluding Giant Cell Arteritis was initiated, followed by extensive assessment for non-arteritic central retinal artery occlusion, which yielded unremarkable results except for preexisting medical conditions and risk factors. Two weeks later, the patient returned with reduced visual acuity in RE. BCVA was 20/40 with fundoscopy revealing creamy focal opacities at posterior pole and mid-periphery, and vitreous haze. SD-OCT of lesions showed full-thickness hyperreflectivity and disruption of retinal layers. LE exhibited mild anterior uveitis, inflammatory vitreous cells, and necrotic areas in peripheral and mid-peripheral retina. Bilateral acute retinal necrosis (ARN) was suspected, confirmed via polymerase chain reaction (PCR) analysis of aqueous humor from LE, detecting varicella-zoster virus (VZV). Hospitalized, the patient received intravenous acyclovir and intravitreal foscarnet for new peripheral lesion in RE. Oral glucocorticoids were introduced. At one-month follow-up, vitreous inflammation resolved, retinal lesions healed, and atrophy ensued in both eyes. Retinal thinning and schisis-like separations were observed in LE. Oral acyclovir and gradual tapering of glucocorticoids continued. Nine months post-onset, RE BCVA improved to 20/30, and patient received prophylactic oral acyclovir. One year later, cataract surgery was performed on the RE, resulting in a BCVA improvement to 20/20. This case highlights challenges in diagnosing herpetic ARN, evident only upon retinal necrosis. Isolated CCRAVO, though rare, may suggest VZV occlusive vasculitis. ARN's exact mechanism remains uncertain; Kyrieleis vasculitis suggests immune-mediated process. (1,2) Comorbidities may predispose to central retinal vascular events within ARN. Comprehensive ophthalmological follow-up is crucial, especially with early features like vitreous involvement and inflammatory precipitates. (3,4) Increased awareness of ARN's potential sight-threatening effects on ocular vasculature aids timely identification. References Francés-Muñoz E, Gallego-Pinazo R, López-Lizcano R, García-Delpech S, Mullor JL, Díaz-Llopis M. Kyrieleis' vasculitis in acute retinal necrosis. Clin Ophthalmol. 2010 Jul 30;4:837-8. Hayreh SS. So-called 'acute retinal necrosis syndrome'--an acute ocular panvasculitis syndrome. Dev Ophthalmol. 1985;10:40-77. PMID: 3979644. Lei B, Zhou M, Wang Z, Chang Q, Xu G, Jiang R. Ultra-wide-field fundus imaging of acute retinal necrosis: clinical characteristics and visual significance. Eye (Lond). 2020 May;34(5):864-872. Ohn MT, Vishnubala A, Hughes PW, Tun HN, Raja M, Goldsmith C et al. Pre-retinal inflammatory precipitates (PIP) in three cases of acute retinal necrosis caused by herpes zoster virus. EC Ophthalmol. 2019;10:131?5.
+ER  - 
+
+TY  - JOUR
+AU  - Salas, Ester Carreno
+TI  - Challenging case III
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16821
+DO  - https://doi.org/10.1111/aos.16821
+PY  - 2025
+AB  - The aim of this SIS id to explore intricate clinical scenarios to bridge the gap between bedside observations and bench research in the field of uveitis. This will consist in a case of a patient suffering from macular telangiectasias type 3 (MacTel Type 3). This presentation focuses on the detailed analysis of macrophage-like cells present on the surface of the retina in the context of MacTel Type 3 progression. Macrophages, known for their pivotal role in immune response and tissue homeostasis, are increasingly recognized as key players in retinal diseases. Through a multidimensional approach, we will scrutinize the dynamic behavior of these cells as the disease advances, aiming to elucidate their involvement in the pathophysiology of MacTel Type 3. This comprehensive analysis not only enhances our understanding of the disease mechanisms but also paves the way for potential therapeutic interventions targeting macrophage-mediated pathways.
+ER  - 
+
+TY  - JOUR
+AU  - Costa, Alejandro Alcaide
+TI  - Study and management of pediatric cataracts
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16822
+DO  - https://doi.org/10.1111/aos.16822
+PY  - 2025
+AB  - Setting: Childhood cataract remains an important visual impairment cause, although its prevalence in developed countries is low. Age at which secondary IOL should be implanted is still a question of debate, as different postoperative sequelae have been described, which include visual axis secondary opacification, glaucoma, amblyopia, strabismus or remaining refractive error. Effective aphakia management is essential for optimal visual potential. Contact lenses are the main corrective method, but challenges like tolerance and adaptability must be carefully monitored to prevent treatment failure. Purpose: To describe pediatric cataract management at our institution, differentiating between unilateral and bilateral cases. We evaluated visual correction methods applied in both groups between cataract extraction (CE) and secondary intraocular lens (IOL) implantation. Furthermore, we examined visual acuity improvement with these corrections and their refractive outcomes following IOL implantation. Methods: Ninety-eight medical records of 64 children with pediatric cataracts who underwent CE at <?1 year with further IOL implantation were revised. Patients with current aphakia, primary IOL implantation, or those with ≤?1 follow-up visit after CE were excluded. Fifty-three eyes were finally included and classified as unilateral or bilateral for analysis. Postoperative aphakia management was evaluated in each group, comparing contact lenses alone (Silsoft?) vs contact lens plus glasses. Best-corrected visual acuity (BCVA) was measured (decimal scale) and converted to logMAR scale for statistical analysis. Teller test was used in the youngest children and results were also converted to logMAR scale. Functional success was defined as BCVA greater than or equal to 0.05 (decimal scale) and was evaluated before and after IOL implantation. Results: 26 cases were unilateral (5 primary IOL, 15 secondary IOL and 6 aphakic) and 65 bilateral (45 secondary IOL and 20 aphakic). Secondary IOL implantation was the most common practice with a mean time of 3.6 ±?2.9?years after cataract extraction. In the secondary IOL group, All unilateral cases were corrected with contact lenses, while in the bilateral group, this percentage was of 63% (n?=?26). Fifteen bilateral cases (37%) were also treated with glasses (P?=?0.012). Functional success in these aphakic eyes was of 36% in unilateral vs 55% in bilateral eyes. In the last follow-up after IOL implantation (mean: 8.7 ±?4.6?years), this functional success improved in both groups, being 63% in unilateral eyes and 90% in bilateral. BCVA at the last follow-up visit was 1.3 ±?0.21 logMAR (mean 0.05 decimal) in the unilateral group and 0.33 ±?0.22 logMAR (mean 0.49 decimal) in the bilateral group (p <?0.001). Conclusions: Uncorrected refractive error in the early years can lead to amblyopia. In our institution, children with CE under 1 year of age are left aphakic usually four years due to their ocular growth. Contact lens adaptation is the preferred modality for their refractive management during this aphakic period but it can become a true challenge that can modify the predicted therapeutic approach and anticipate the age of IOL implantation. Therefore, BCVA, patching, and refractive correction must be carefully evaluated and optimized before IOL placement in order to achieve optimal visual development.
+ER  - 
+
+TY  - JOUR
+AU  - Gijs, Marlies
+TI  - The need for standardization in methodologies for tear fluid biomarkers
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16823
+DO  - https://doi.org/10.1111/aos.16823
+PY  - 2025
+AB  - Tear fluid is a complex mixture of proteins, lipids, and other molecules essential for maintaining ocular surface health. In recent years, tear fluid has emerged as an invaluable source of biomarkers, reflecting not only ocular health, but also providing glimpses into systemic and neurological well-being. Tears can be used to gather abundant molecular information that can be harnessed for diagnostic, monitoring, predictive, and prognostic purposes. The unique tear fluid molecular profile of each patient facilitates tailored interventions, enhancing treatment efficacy and minimizing adverse effects. Besides being continuously accessible, tear fluid can be sampled in a non-invasive and inexpensive way. This makes the sampling process patient friendly, thereby enhancing patient compliance and reducing the risk of potential complications associated with invasive sampling techniques. The non-invasive nature of tear fluid sampling makes it suitable for repeated measurements over time, allowing for longitudinal studies and monitoring of dynamic changes in biomarkers. Additionally, tear fluid requires minimal storage requirements, as it can be collected and stored using simple and readily available equipment. To date, hundreds of tear biomarkers have been discovered, but only a few have made it to the clinic. Major progress in translating newly discovered tear biomarkers into diagnostic tests is still missing because of the unique challenges that have yet to be addressed. Variability in tear fluid results poses a significant challenge in ocular research due to the lack of standardized methods for collection, analysis, interpretation, and reporting. This variation makes it difficult to draw consistent conclusions across different studies. Inconsistent research findings result from differences in methodologies and small sample sizes, leading to conflicting reports on disease-specific tear proteins and outcomes. Moreover, the lack of standardization hampers our understanding of tear fluid physiology and its role in diseases, impeding the development of diagnostic tools and therapies. This lack of consensus also hinders the clinical translation of tear-based diagnostics and therapies, potentially delaying accurate diagnoses and appropriate treatments for patients. Recognizing the importance of methodological standardization, various initiatives have been proposed to address these challenges. Collaborative efforts involving researchers, clinicians, industry partners, and regulatory agencies aim to establish consensus guidelines for sample collection, processing, and analysis. These guidelines emphasize the importance of rigorous validation studies, quality control measures, and transparent reporting practices to enhance the reliability and reproducibility of tear fluid biomarker research. Through collaborative efforts and adherence to consensus guidelines, the field can realize the full potential of tear fluid biomarkers in revolutionizing the diagnosis, monitoring, and treatment of ocular diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Messmer, Elisabeth M.
+TI  - Tear biomarkers in daily practice – where are we?
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 103
+IS  - S284
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.16824
+DO  - https://doi.org/10.1111/aos.16824
+PY  - 2025
+AB  - Dry Eye Disease (DED) and chronic ocular allergies are driven by chronic inflammation that causes measurable modifications in the tear film such as changes in osmolarity and inflammatory markers. Increased or decreased levels of protein biomarkers (eg. lactoferrin, S-100), cytokines, chemokines, metalloproteinases, growth factors, and soluble receptors are observed in DED and chronic ocular allergies. To date only tests to measure MMP-9 in the tear film, and bed side osmometers to test tear film osmolarity are available for daily patient care. The MMP-9 point-of-care test is primarily a qualitative dichotomous test that stains positive if the value is above 40 ng/ml. It may be positive in DED, allergic conjunctivitis, and infection, and thus does not allow a differential diagnosis. Increased tear film osmolarity using the Tearlab? or the I-pen?-osmometer indicates DED. Normal tear film osmolarity is defined as <?300 mOsm/l in both eyes and an inter-eye difference of <?8 mOsm/l. However, both techniques, the MMP-9-assay, and the tear film osmometry are far from being perfect tests. Their problems in daily care of ocular surface disease patients and developments for the future will be discussed.
+ER  - 

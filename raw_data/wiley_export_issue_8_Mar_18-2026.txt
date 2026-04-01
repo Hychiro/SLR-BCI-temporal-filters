@@ -1,0 +1,319 @@
+
+TY  - JOUR
+AU  - KERN, T
+TI  - Contribution of inflammation to the early stages of diabetic retinopathy
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6111.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6111.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Many biochemical and physiological abnormalities detected in retinas of diabetic animals are consistent with a potential role of inflammatory-like processes in the capillary degeneration. Methods We have used drugs and genetically modified rodents to investigate the role of inflammation in the development of early stages of diabetic retinopathy, focusing especially on the diabetes-induced degeneration of retinal capillaries. Results In animal models, vascular lesions characteristic of the early stages of diabetic retinopathy have been found to be inhibited by salicylates (which inhibit NF-?B and cyclooxygenase), a PARP inhibitor (which inhibits inflammatory responses apparently by regulating NF-?B), minocycline (which inhibits the generation of IL-1?), a topical inhibitor of cyclooxygenase, and by an inhibitor of iNOS. These studies demonstrate that inflammation plays a critical role in the development of early stages of diabetic retinopathy. Conclusion The concept that localized inflammatory processes play a role in the development of diabetic retinopathy is relatively new, but evidence that supports the hypothesis is accumulating rapidly. This new hypothesis offers new insight into the pathogenesis of diabetic retinopathy, and offers a novel target to inhibit the ocular disease.
+ER  - 
+
+TY  - JOUR
+AU  - KOWLURU, R
+TI  - Metabolic memory puzzle and progression of diabetic retinopathy
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6112.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6112.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Retinopathy is one of the most feared complications of diabetes. Good glycemic control can inhibit its development, but the effects of good glycemic control on the progression of retinopathy are not immediate. Diabetic patients may take years after re-establishment of good glycemic control to show signs of arrest of its progression. Further, good glycemic control after a profound period of poor glycemic control does not immediately benefit the progression of retinopathy, and the imprinted effects of prior glycemic control produce the long lasting benefits of good glycemic control, thus suggesting a ?metabolic memory? phenomenon. Results Animal models of diabetic retinopathy, including dogs and rats, have duplicated this metabolic memory phenomenon. In rats, histopathology associated with diabetic retinopathy does not stop for at least six months when good glycemic control is initiated six months after induction of diabetes. Increase in retinal oxidative stress and peroxynitrite levels and activation of apoptosis execution enzyme-caspase-3 resist reversal after re-institution of good glycemic control. Hyperglycemia-induced inactivation of retinal glyceraldehyde dehydrogenase that is postulated to activate some of the key pathways associated with the development of diabetic complications remains inactive and covalently modified, and pro-inflammatory markers elevated. Conclusion This suggests that the process of metabolic memory is complex, and multiple pathways contribute to this resistance of diabetic retinopathy to arrest. Understanding the mechanism responsible for the tendency of diabetic retinopathy to progress after reestablishment of good glycemic control should help reveal targets for therapies to prevent its progression.
+ER  - 
+
+TY  - JOUR
+AU  - STITT, AW
+TI  - New insights into the pathogenic role of advanced glycation in diabetic retinopathy
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6113.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6113.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Retinopathy is the most common microvascular complication of diabetes. The clinicopathology of microvascular lesions and neuroglial dysfunction in the diabetic retina have been extensively studied, although the relative contribution of various biochemical sequelae of hyperglycaemia remains ill-defined. The formation and accumulation of advanced glycation endproducts (AGEs) is an important pathogenic pathway in the progression of diabetic retinopathy although some of the cellular and molecular pathologies initiated by these adducts in retinal cells remain unknown. Methods This presentation will cover several aspects of AGE-linked retinal pathology and demonstrate opportunities for therapeutic intervention. The studies outlined will cover a wide range of molecular cell biology approaches using appropriate in vitro and in vivo model systems. Results It will be demonstrated that AGEs form in vivo in the diabetic retina through the reaction of alpha-oxaloaldehydes leading to significant modifications of retinal proteins. Evidence will be presented to demonstrate that these AGEs act as significant effectors of retinal vascular and neuroglial cell dysfunction, leading to pro-inflammatory responses, growth factor imbalance and, ultimately, neurovascular lesions such as blood retinal barrier dysfunction and microvascular degeneration. The protective role of novel AGE-inhibitors will also be shown. Conclusion Evidence now points towards a pathogenic role for advanced glycation in the initiation and progression of diabetic retinopathy and this review lecture will outline the current state of knowledge of AGE-related pathology in the retina at a cellular and molecular level.
+ER  - 
+
+TY  - JOUR
+AU  - MOHR, S
+TI  - Caspase-1/interleukin-1beta signaling in diabetic retinopathy
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6114.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6114.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose The pro-inflammatory cytokine, interleukin-1? (IL-1?), is known to induce vascular dysfunction and cell death. Previously, we have shown that caspase-1 activity is increased in retinas of diabetic and galactosemic mice, and diabetic patients. Therefore, we investigated the role of IL-1? and caspase-1 (the enzyme that produces it) in diabetes-induced degeneration of retinal capillaries. Methods First, we determined the effect of agents known to inhibit caspase-1 (minocycline and tetracycline) on IL-1? production and retinal capillary degeneration in diabetic and galactose-fed mice. Diabetic and galactose-fed mice were injected intraperitoneally with minocycline or tetracycline (5mg/kg). Second, we examined the effect of genetic deletion of the IL-1? receptor on diabetes-induced caspase activities and retinal capillary degeneration using IL-1 receptor knock-out mice. Results At 2 months of diabetes, minocycline inhibited hyperglycemia-induced caspase-1 activity and IL-1? production in the retina. Long-term administration of minocycline prevented retinal capillary degeneration in diabetic (6 months) and galactose-fed (13 months) mice. Tetracycline inhibited hyperglycemia-induced caspase-1 activity in vitro, but not in vivo. Mice deficient in the IL-1? receptor were protected from diabetes-induced caspase activation and retinal pathology at 7 months of diabetes. Conclusion These results indicate that the caspase-1/IL-1? signaling pathway plays an important role in diabetes-induced retinal pathology and its inhibition might represent a new strategy to inhibit capillary degeneration in diabetic retinopathy.
+ER  - 
+
+TY  - JOUR
+AU  - OBROSOVA, IG
+TI  - PARP, Na+/H+-exchanger-1, and early diabetes-induced retinal changes
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6115.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6115.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To evaluate the roles for PARP and Na+/H+-exchanger-1 (NHE-1) in early diabetes-induced changes in the retina and retinal capillary cells Methods Control (C) and STZ-diabetic (D) rats were treated with/without the PARP inhibitors, 1,5-isoquinolinediol (ISO, 3 mgkg-1d-1 i.p.) or 10-(4-Methyl-piperazin-1-ylmethyl)-2H-7-oxa-1,2-diaza-benzo[de]-anthracen-3-one (GPI 15427, 30 mgkg-1d-1), for 10 wks after 2 wks without treatment. Apoptosis was evaluated in flat-mounted retinas by TUNEL assay, and nitrotyrosine (NT), poly(ADP-ribose) (PAR), GFAP, BiP/GRP78 and GRP94 expressions by immunohistochemistry and Western blot analyses. Primary bovine retinal pericytes and endothelial cells were cultured with/without 0.6 mM palmitate, or in 5 mM or 30 mM glucose. Apoptosis was assessed by TUNEL and caspase-3 assays, superoxide production by ethidium fluorescence, and NT and PAR by immunocytochemistry. Results In the PARP study, the number of TUNEL-positive nuclei was increased ~4-fold in D, and this increase was prevented in D+ISO and D+GPI 15427. PARP inhibitors counteracted oxidative-nitrosative and endoplasmic reticulum stresses, and glial activation. Palmitate dose dependently increased superoxide production in cultured retinal cells. GPI 15427, 20 microM, prevented FFA-induced increase in the rate of apoptosis, and alleviated NT and PAR accumulation in both pericytes and endothelial cells. In the NHE-1 study, the specific NHE-1 inhibitor cariporide (10 microM) prevented high glucose-induced apoptosis, and alleviated oxidative-nitrosative stress and PAR accumulation in bovine retinal pericytes. In vivo studies in the STZ-diabetic rat model are in progress. Conclusion PARP and NHE-1 play an important role in early diabetes-induced changes in retina and retinal capillary cells.
+ER  - 
+
+TY  - JOUR
+AU  - GRZYBOWSKI, A
+TI  - History of amblyopia
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.4121.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.4121.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Review the history of amblyopia. Methods Analysis of original and secondary contributions in the history of amblyopia. Results Traditionally amblyopia has been classified into different subgroups according to the major disorder which is responsible for its occurrence; accordingly, we distinguish among strabismic amblyopia, anisometropic amblyopia, isoametropic amblyopia and deprivation amblyopia. Since strabismus is the most visible disorder leading to amblyopia, the history of strabismus diagnosis can be roughly included in the history of amblyopia in the clinical context. It is known that Hippocrates described strabismus and differentiated it into comitant and non-comitant. Later Paulus of Aegina and Ambroise Pare not only diagnosed the disorder, but also attempted to treat it. One of the first explanations of the amblyopia mechanisms was given by de la Hire who suggested that in strabismus the most sensitive part of the retina is eccentrically displaced to an abnormal position. This idea was later supported by Johannes Muller. The first treatment of amblyopia was attempted in 1743 by George L. de Buffon, who covered the better eye and suggested the use of glasses for the weaker eye. In the 1930s orthoptic programs were introduced and in the 1950s pleoptic techniques began to be used. Finally, the experiments carried out in the 1960s and 1970s by Hubel and Weisel suggested that the neural basis for amblyopia was related to a massive reduction in the binocular neurons and a shift in the ocular dominance of neural activity towards the unaffected eye. Conclusion Although our present understanding of the underlying mechanisms of amblyopia is much greater, our treatment methods are still rooted in history.
+ER  - 
+
+TY  - JOUR
+AU  - SJÖSTRAND, JB
+TI  - Form deprivation amblyopia - a treatable cause of blindness
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.4122.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.4122.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Form deprivation amblyopia is associated with the obstruction or deformation of the passage of light causing degraded images on the retina. This lack of normal visual experience delays or blocks the visually driven development. If the obstacle is removed within the critical period the developing visual system has the capacity to regain visual function. Left untreated the deprivation and blocked visual experience may cause severe visual impairment and blindness. Methods To review our current understanding of the pathophysiology and risk factors in form deprivation amblyopia and to evaluate the effectiveness of treatment. The main conditions obstructing light passage during early development of vision will be described. Form deprivation amblyopia and its functional consequences are defined. Factors of importance for a satisfactory long term visual outcome are evaluated. Results Valid experimental and clinical models of form deprivation amblyopia are reviewed with focus on the role of visual deprivation per se and unequal visual input to the visual cortex, the primary site of functional change. Recent clinical observations of the visual outcome following early surgery of congenital dense bilateral and unilateral cataracts are used to evaluate the factors involved. Conclusion Form deprivation amblyopia is a complex condition with a hallmark of impaired visual acuity. For a satisfactory visual outcome early detection and intervention is important.
+ER  - 
+
+TY  - JOUR
+AU  - BERK, AT
+TI  - Occlusion therapy
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.4123.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.4123.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To present recent researches regarding the efficacy of ambliyopia treatment with patching. Methods Various treatment options are reviewed, results from randomized clinical trials and controversies in the field will be discussed. Results The evidence based knowledge for ambliyopia treatment is rapidly evolving.Indications of patching, adverse effects of occlusion treatment and compliance for patching and how compliance can be maximized, treatment factors including type and dose of treatment, method of treatment termination, age effect on treatment will be covered during the panel . Conclusion Ambliyopia is still the leading cause of visual impairment in children, but it is treatable with several different treatment modalities and occlusion is one of the widely used and well known.
+ER  - 
+
+TY  - JOUR
+AU  - CAMPOS, E
+TI  - Medical treatment
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.4124.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.4124.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To present an update on medical treatment of amblyopia and to review recent progress in this field. Methods Various treatment modalities are reviewed, with particular emphasis to dopaminergic agents. The effect of cytycoline through various ways of administration will be discussed in detail. Results Evidence will be brought of improvement in visual function attributable to medical treatment alone or in association with part-time occlusion. Potential adverse effects will be discussed, as well as characteristics of visual function modifications obtained. Possible guide-lines for medical treatment of amblyopia will be offered. Conclusion It appears that medical treatment can be usefully included in the armamentarium for amblyopia therapy, particularly in difficult cases. Recently published animal experimental data on substances capable of delaying plasticity of the visual system in adults, will be hopefully transferred shortly to humans.
+ER  - 
+
+TY  - JOUR
+AU  - MENCUCCI, R
+AU  - PALADINI, I
+TI  - Corneal cross-linking for keratoconus
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5131.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5131.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose to point out the efficacy and safety of collagen cross linking of the cornea as a parasurgical treatment of keratoconus Methods corneal cross linking has been performed on 50 patients from 17 to 35 years old with topographical and clinical evolutive keratoconus Results Cross linking treatment has been proven to strengthen the weak corneal structure by increasing collagen cross links, wich are the natural anchors within the cornea.These anchors prevent the cornea from bulging out and becoming steep and irregular.Several aspects of the procedure will be considered including ultrastructural and histological behaviour of the corneal collagen after this photodynamic procedure. Conclusion The procedure seems to be safe and effective in increasing stiffness of the cornea.More studies are needed to clarify the intrinsic mechanisms of the procedure
+ER  - 
+
+TY  - JOUR
+AU  - GICQUEL, JJ
+TI  - New insights in amniotic membrane transplantation
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5132.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5132.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract The amniotic membrane (AM) has been used for almost a century in reconstructive surgery of various parts of the human body, including bladder, and vagina. More recently, it has found application for treating ocular burns and ocular surface disorders, including conjunctivital and corneal defects. One placenta can provide material sufficient for more than 20 surgeries. Limbal epithelial cells are also cultured and expanded on denuded AM. Until now there have been very few studies on the proteins present in AM and responsible for its anti-inflammatory, anti-scarring and anti-angiogenic properties. A better knowledge of the biochemical composition and function of the AM will help develop standardised AM, both for culture and surgery as well as later on synthetic membranes. Thru a review of published studies and of the research performed at the Division of Ophthalmology and Visual Sciences we will focus on the necesity of using standardized membranes for both limbal epithelial cells culture and surgery.
+ER  - 
+
+TY  - JOUR
+AU  - NUBILE, M
+TI  - The use of femtosecond laser in corneal transplantation
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5133.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5133.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Femtosecond laser (FSL) devices, based on the physical phenomena of ultrashort laser pulses in the sub-picosecond range of duration, have gained significant interest in ophthalmology thanks to their potential for high-precision microsurgery, particularly in applications involving the transparent tissue of the cornea that take the greatest advantage of these attributes. The potential advantages and limits in using FSL in the field of corneal grafts are presented Methods FSL is applied in performing deep lamellar (DALK), penetrating keratoplasty (PK) and arcuate keratotomy (AK) in human eyes. Clinical and histological analysis was performed. Results FSL technology enables multiple cut configurations and customized-shaped PK, DALK and AK are feasible techniques. PK with complex wound shapes including top-hat profile and orientation teeth and notches can be performed. FSL-deep lamellar dissection both for DALK and endothelial transplantation presents a good morphology of the dissection plane. The graft geometry in DALK for keratoconus, in contrast, shows limits related to the posterior stromal bed shape. Transmission electron microscopy revealed precise geometry and good quality of the cuts. Customised shaped paired AK can be successfully performed to treat high post-keratoplasty astigmatims. Conclusion Femtosecond laser technology may offer further promising approaches towards customized trephination, and dissection procedures in the field of corneal transplantation.
+ER  - 
+
+TY  - JOUR
+AU  - FONTANA, L
+TI  - Deep anterior lamellar keratoplasty
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5134.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5134.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Despite the long term risk of endothelial rejection, full-thickness corneal transplantation is still considered the gold standard surgery for replacing a diseased cornea. Deep anterior lamellar keratoplasty (DALK) is not a new procedure, but in the past, its use has been of limited popularity owing to the challenging, lengthy and tedious surgery involved. With the advent of newer surgical techniques and instruments for performing lamellar corneal surgery, DALK has gained in popularity. This presentation discusses the techniques for performing the procedure as well as the clinical outcomes, especially focusing on Big bubble DALK. Results will be compared with the outcomes of penetrating keratoplasty (PK). Results suggest that DALK is the logical choice in the surgical management of corneal stromal disease, in presence of a functional endothelium.
+ER  - 
+
+TY  - JOUR
+AU  - POCOBELLI, A
+AU  - AMATO, D
+AU  - DONATI, R
+AU  - AMICI, C
+AU  - COLABELLI GISOLDI, RAM
+TI  - Options in endothelial transplantation
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5135.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5135.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To reduce DSAEK surgery time using pre-cut tissues.In addition real time valuation of specific parameters like cell density,endothelial mortality rate and finally thickeness of the posterior corneal lamella. Methods Corneo scleral discs were fixed in an artificial anterior chamber AC and Moria One microkeratome (Moria S.A., Antony, France) with a 350-micron Carriazo-Barraquer-type head was used to the prepare the lamellar corneal tissues.The artificial AC was cushioned with EUSOL-C (AL.CHI.MI.A.S.r.l,Ponte S.Nicolò,Italy).The sectioned tissues were stored at 4°C;post-cut and 24 hours pachymetry was repeated.Before the cutting,post-cut,at 4 and 24 hours cell viability and the same time cell morphology was measured with an inverted microscope.Cell density was measured at beginning and at the end of time course.Following this preliminary study,40 tissues were assigned for transplantation. Results Endothelial cell mortality was observed,which was characterized by trypan blue-positive cells diffused in the whole endothelial surface and corneal folds.The pattern of damage was typically due to mechanical factors associated to the passage of the microkeratome head.Cell morphology was well preserved at the end of the storage period at 4°C in EUSOL-C. We find a regular endothelial mosaic and absence of significant pleomorphism and polymegathism. An increase (approx.20%) in corneal thickness was observed at the end of time course. Finally no cases of graft dislocation or primary graft failure were observed. Conclusion The results have demonstrated the reproducibility of the procedure.In this way is possible to provide tissues ready to use,within 24h, and at the same time to certify tissue quality to prevent the primary graft failure and graft dislocation.
+ER  - 
+
+TY  - JOUR
+AU  - VILSER, W
+AU  - SEIFERT, B
+TI  - Dynamic vessel analysis for assessing endothel dysfunction of microcirculatory vessels – method, model and results
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5311.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5311.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To access the endothel function (flow induced autoregulation) provide a unique potential for vascular risk stratification,early recognition, diagnosis and treatment of big vascular heart and brain diseases by using the eye as a diagnostic window.It is assumed that Dynamic Vessel Analysis by DVA (Dynamic Vessel Analyzer Imedos GmgH Jena,Germany) is a practical and easy test for endothel dysfunction. Methods DVA can access vessel functions by use of flickering light.Online measurements of the diameter enable a highly reproducible observation of local and temporal changes of big retinal vessels with high accuracy.For functional analysis the retina is stimulated by a 12.5 Hz monochromatic flicker light.The stimulation period amounts 20s.The vessel response before, during an after stimulöation is recorded.Vessel dialation is estimated.To understand and for clinical interpretation of the flickering vessel response model of vessel response to flickering light was developed. Results In normal subjects flickering light induces an increase in vessel diameter.Reduced diameter dilatation is caused by exhausted regulative reserve (hypotonics) or by vascular dysfunction.The interpretation of the vascular dysfunction based on the following model:Flickering light is activating the neurovascular coupling, leading to a dilation of the capillaries and small arterioles.This causes an increase in flow leading to increased velocity in the bigger vessels indirectly.The flow induced autoregulation dilates the diameter of the big vessels by increasing nitric oxid NO via eNOS.Different experimental results support this model thesis. Conclusion The vessel dilatation can be explained by eNOS.Endothel dysfunction reduces the flicker dilatation. Commercial interest
+ER  - 
+
+TY  - JOUR
+AU  - SCHWEITZER, D
+AU  - SCHENKE, S
+AU  - JENTSCH, S
+AU  - QUICK, S
+AU  - GEHLERT, S
+AU  - HAMMER, M
+AU  - BERGMANN, N
+TI  - Measurement of time-resolved autofluorescence
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5312.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5312.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Functional alterations are first signs of reversible pathologic processes. Whereas microcirculation studies metabolism globally, autofluorescence of endogenous fluorophores has the potential for description of cellular basic processes. Therefore, a discrimination of fluorophores is required in the tissue. Methods Besides excitation and emission spectra, the fluorescence lifetime after short-time excitation is a promising substance-specific mark. Using the opto-mechanical system of a HRA II (Heidelberg Engineering), a fluorescence lifetime mapper was developed. Picosecond pulse-lasers (448nm, 468nm, 100ps FWHM, 80MHz) can be used for excitation and the emission will be detected in 2 spectral ranges (490-560nm, 560-700nm). The dynamic fluorescence will be detected in time-correlated single photon counting (SPC 150, Becker/Hickl, Berlin). An on line image registration is realised by simultaneously detected infrared images during measuring time. Approximating the fluorescence decay by 3-exponential model function, images (lifetime and amplitudes), histograms, and cluster diagrams can be calculated for interpretation. Results Examples are given for healthy subjects, AMD patients (non-exudative, exudative, geographic atrophy), diabetic retinopathy, and oedema. Measurements of excitation and emission spectra as well as lifetimes are performed of expected substances and of anatomical ocular structures for comparison. Conclusion Fluorescence lifetime measurement at the eye is a new method for evaluation of functional metabolic state.
+ER  - 
+
+TY  - JOUR
+AU  - SCHMETTERER, L
+TI  - Flicker-induced retinal vasodilataion - what does a reduced response mean?
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5416.x-i1
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5416.x-i1
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose In the recent years much interest has been directed towards flicker-induced vasodilatation. Various studies were done showing reduced flicker responses in diseases such as diabetic retinopathy or glaucoma. The basis for this reduced flicker responses is, however, largely unclear. Methods Papers published on this topic in the last years were reviewed. Specific emphasis was directed towards publications that deal with potential mechanisms underlying flicker-induced vasodilatation. Results There is evidence from animal and human studies that flicker-induced vasodilatation is at least partially dependent on nitric oxide. In addition, there is evidence to assume that flicker induces changes in the retinal glucose metabolism and the ratio of cytosolic NADH/NAD+ are involved. Conclusion Flicker-induced retinal vasodilatation appears to be partially endothelium-dependent. It is, however, likely that other factors are also involved Further research is required to characterize the mechanisms underlying flicker-induced vasodilatation in more detail. From a clinical point of view studies are needed to test the hypothesis that reduced retinal flicker responses are related to the prevalence, incidence and progression of ocular vascular disease.
+ER  - 
+
+TY  - JOUR
+AU  - LANZL, IM
+AU  - SCHMIDT-TRUCKSÄSS, A
+AU  - KOTLIAR, KE
+TI  - Is there a role for dynamic retinal vessel analysis in internal medicine?
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5314.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5314.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Human retinal vessels and their reaction to stimuli change during life and in disease due to physiological, genetic and pathological influences. Using the Dynamic Vessel Analyzer (DVA, Fa. IMEDOS, Jena) it is possible to assess changes in retinal vessel diameters in response to vasoactive stimuli in real time and non-invasively. Methods Retinal arterial vessel reaction in the natural time course and to the average of 3 consecutive monochromatic flicker stimulations (530-600 nm, 12,5 Hz, 20 s) with a 80 s observation pause between stimulations was investigated in healthy volunteers of different age groups, obese patients, diabetes type 1 patients, systemic hypertensive patients and patients with lysosomal storage disease. Statistical data analysis of vessel reactions independent from the DVA program was performed. Results There is a statistically significant difference in retinal vascular behaviour in different age groups in a healthy population. The same is true between a healthy population and each of the diseases investigated. Lysosomal storage disease however demonstrated an increase in dilation following flicker stimulation compared to normal persons. Conclusion Flicker stimulation of the retina light evokes a prompt vessel reaction in all healthy subjects. We could demonstrate an age dependence of the retinal arterial reaction in medically healthy persons and in hypertension, diabetes and obese patients. From the increased reaction in lysosomal storage disease further understanding of different factors leading to the vascular reaction to stimuli may be derived. Application of flicker stimulus to retinal vessels represents a method to assess the endothelial function of vessels which is important to understand in systemic disease.
+ER  - 
+
+TY  - JOUR
+AU  - GEISER, MH
+AU  - TRUFFER, F
+AU  - KHAYI, H
+AU  - CHIQUET, C
+TI  - New optical device for functional studies of the optic nerve head
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.6442.x-i1
+DO  - https://doi.org/10.1111/j.1755-3768.2008.6442.x-i1
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose To develop a confocal ocular laser Doppler device for the recording of functional optic nerve head (ONH) blood flow responses to various physiological stimuli. Methods The flowmeter consists of a self-aligned confocal system, a fundus illumination (green light) and CCD based observation unit, a target fixation system and a CCD camera to observe the pupil. This CCD allows monitoring of the position of the probing laser beam at the pupil to insure constant entrance point in successive measurements of ONH blood flow. The Doppler signal is digitized and a dedicated software operating on a portable computer calculates the relative velocity, volume and flux of the red blood cells in the ONH microcirculation. Synchronization of theses parameters with the heart pulse allows determination of the flow pulsatility. Flicker stimulation of the macular area can be performed at 2 wavelengths. Three measurements were performed at rest in each of 29 normal subjects to determine the variability of ONH blood flow parameters. Preliminary responses of these parameters to the breathing of various gases were obtained. Results Variability of blood flow obtained from 3 successive measurements from the same site ranged from 0.5 to 33% (mean 11%, n = 29). The breathing of carbogen (95% O2, 5% CO2) for 5 min by subjects with optimal target fixation induced an increase of ONH blood flow of 28 +/- 16 (sd) % (p = 0.03, n = 11) in accordance with previously published data. Conclusion This new confocal device combined with monitoring of the entrance site of the laser beam at the pupil provides laser Doppler blood flow data at the ONH that show a variability that makes the device potentially useful for physiological and clinical investigations.
+ER  - 
+
+TY  - JOUR
+AU  - RIVA, CE
+AU  - BONAIUTI, M
+AU  - ROVATI, L
+TI  - Optic nerve reflectance variations in the near-infrared during neural function
+JO  - Acta Ophthalmologica
+VL  - 86
+IS  - s243
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2008.5316.x
+DO  - https://doi.org/10.1111/j.1755-3768.2008.5316.x
+SP  - 0
+EP  - 0
+PY  - 2008
+AB  - Abstract Purpose Diffuse luminance flicker induces optic nerve head (ONH) reflectance changes, ChRonh, in humans, when Ronh is measured at visible wavelengths (Crittin and Riva, 2004). Intrinsic signal imaging in macaque retina and ONH has revealed also flash-induced infrared (840-900 nm) reflectance changes (Hanazono et al., 2007). Our purpose was to determine a) whether flicker-induced near-infrared ChRonh are detectable from the human ONH; b) is there a spatial distribution of ChRonh. Methods Ronh was measured at 770 nm with a fundus camera based reflectometer. Neural activity was evoked by 535-nm diffuse (50 deg) flicker (various frequencies below 20Hz). 7 successive recordings were performed at 9 temporal sites, each consisting of a 20s baseline, a 60s flicker period and a 40s recovery. ChRonh (%) was defined as 100 x (Ronh,fl - Ronh,bl)/Ronh,bl, where Ronh,bl is the average response during the baseline (no flicker) and Ronh,fl is the response, averaged over time slots of 2s, during flicker. ONH regions containing visible vessels were avoided. Results Flicker induced significant decreases in Ronh at most sites. These decreases presented a strong oscillatory behavior (period of about 8s), reached a maximum in less than 40s of flicker and were more marked at the rim. ChRonh was found to be frequency-dependent. Ronh during recovery also showed marked oscillations Conclusion Flicker induces significant frequency-dependent decreases in near-infrared (770 nm) reflectance in the temporal region of the human ONH, confirming previous infrared optic nerve intrinsic signal reflectance findings in monkeys. Comparison with flicker-induced blood flow increases in the ONH, these decreases are most probably due to changes in blood volume during neural activity.
+ER  - 

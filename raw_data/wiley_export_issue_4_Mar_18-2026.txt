@@ -1,0 +1,300 @@
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9821231
+TI  - RETRACTION: A Smart Device for a Preliminary Dental Examination Based on the Internet of Things
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2024
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2024/9821231
+DO  - https://doi.org/10.1155/2024/9821231
+SP  - 9821231
+PY  - 2024
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9896565
+TI  - Retracted: Coupled Attention Framework of Convolutional Neural Network Based on Computer Intelligence
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9896565
+DO  - https://doi.org/10.1155/2023/9896565
+SP  - 9896565
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9878126
+TI  - Retracted: Intervention Effect of Group Counseling Based on Positive Psychology on Psychological Crisis of College Student
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9878126
+DO  - https://doi.org/10.1155/2023/9878126
+SP  - 9878126
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9875261
+TI  - Retracted: Therapeutic Effect of Tendon Bone Setting Technique and Sports Training on Joint Injury
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9875261
+DO  - https://doi.org/10.1155/2023/9875261
+SP  - 9875261
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9872659
+TI  - Retracted: Traditional Chinese Medicine Moxibustion in the Treatment of Infantile Diarrhea
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9872659
+DO  - https://doi.org/10.1155/2023/9872659
+SP  - 9872659
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9871698
+TI  - Retracted: Analysis of the Influence of Comprehensive Nursing Intervention on Vital Signs and Negative Emotions of Patients with Gastrointestinal Polyps Treated by Digestive Endoscopy
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9871698
+DO  - https://doi.org/10.1155/2023/9871698
+SP  - 9871698
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9870415
+TI  - Retracted: Functional Localizers for Motor Areas of the Brain Using fMRI
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9870415
+DO  - https://doi.org/10.1155/2023/9870415
+SP  - 9870415
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9867976
+TI  - Retracted: Blockchain-Based Trust Management Framework for Cloud Computing-Based Internet of Medical Things (IoMT): A Systematic Review
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9867976
+DO  - https://doi.org/10.1155/2023/9867976
+SP  - 9867976
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9865752
+TI  - Retracted: Comparative Analysis of Dynamic Characteristics between Electronic Signature and Conventional Signature Based on Computer Vision Technology
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9865752
+DO  - https://doi.org/10.1155/2023/9865752
+SP  - 9865752
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9863451
+TI  - Retracted: Biomechanics of Volleyball Players’ Run-Up and Take-Off Link under Deep Learning
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9863451
+DO  - https://doi.org/10.1155/2023/9863451
+SP  - 9863451
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9861563
+TI  - Retracted: Design for Bedridden Elderly: Presenting Pressure Ulcer Product Design Based on Anthropometric Characteristics
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9861563
+DO  - https://doi.org/10.1155/2023/9861563
+SP  - 9861563
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9860350
+TI  - Retracted: Identification of 9 Gene Signatures by WGCNA to Predict Prognosis for Colon Adenocarcinoma
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9860350
+DO  - https://doi.org/10.1155/2023/9860350
+SP  - 9860350
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9859081
+TI  - Retracted: The Influence of the Development of the Internet of Things Industry on the Optimization of the High- and New-Tech Industry Structure under the Wireless Mobile Network
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9859081
+DO  - https://doi.org/10.1155/2023/9859081
+SP  - 9859081
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9858962
+TI  - Retracted: Skill Movement Trajectory Recognition of Freestyle Skiing U-Shaped Field Based on Deep Learning and Multitarget Tracking Algorithm
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9858962
+DO  - https://doi.org/10.1155/2023/9858962
+SP  - 9858962
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9856578
+TI  - Retracted: Effect of Narrative Nursing Combined with Thinking Map Health Education on Parturient Self-Efficacy and Neonatal Nursing Ability
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9856578
+DO  - https://doi.org/10.1155/2023/9856578
+SP  - 9856578
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9856010
+TI  - Retracted: Fuzzy Algorithm Based Bionic Optimization Design of Boring Machine Column
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9856010
+DO  - https://doi.org/10.1155/2023/9856010
+SP  - 9856010
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9854674
+TI  - Retracted: Artificial Intelligence Enterprise Management Using Deep Learning
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9854674
+DO  - https://doi.org/10.1155/2023/9854674
+SP  - 9854674
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9854361
+TI  - Retracted: Preoperative 3D Reconstruction Model in Slow Mohs Surgery for Dermatofibrosarcoma Protuberans
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9854361
+DO  - https://doi.org/10.1155/2023/9854361
+SP  - 9854361
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9852045
+TI  - Retracted: Comprehensive Bioinformatics Analysis of Gasdermin Family of Glioma
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9852045
+DO  - https://doi.org/10.1155/2023/9852045
+SP  - 9852045
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Intelligence and Neuroscience, Computational
+C7  - 9851897
+TI  - Retracted: Efficient Liver Segmentation from Computed Tomography Images Using Deep Learning
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2023
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2023/9851897
+DO  - https://doi.org/10.1155/2023/9851897
+SP  - 9851897
+PY  - 2023
+ER  - 

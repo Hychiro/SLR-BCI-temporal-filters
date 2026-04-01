@@ -1,0 +1,396 @@
+
+TY  - JOUR
+AU  - Methods in Medicine, Computational and Mathematical
+C7  - 9898025
+TI  - Retracted: Tap Test Image Dynamic Tracking Study after Thyroid Cancer Surgery and after Radiotherapy and Chemotherapy
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2023
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2023/9898025
+DO  - https://doi.org/10.1155/2023/9898025
+SP  - 9898025
+PY  - 2023
+ER  - 
+
+TY  - JOUR
+AU  - Zeng, Xueqiang
+AU  - Chen, Sufen
+C7  - 5868949
+TI  - Research on Ultrasonic Image Recognition Based on Optimization Immune Algorithm
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2021
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2021/5868949
+DO  - https://doi.org/10.1155/2021/5868949
+SP  - 5868949
+PY  - 2021
+AB  - With the rapid development of science and technology, ultrasound has been paid more and more attention by people, and it is widely used in engineering, diagnosis, and detection. In this paper, an ultrasonic image recognition method based on immune algorithm is proposed for ultrasonic images, and its method is applied to medical ultrasound liver image recognition. Firstly, this paper grays out the ultrasound liver image and selects the region of interest of the image. Secondly, it extracts the feature based on spatial gray matrix independent matrix, spatial frequency decomposition, and fractal features. Then, the immune algorithm is used to classify and identify the normal liver, liver cirrhosis, and liver cancer ultrasound images. Finally, based on the deficiency of the immune algorithm, it is combined with the support vector machine to form an optimized immune algorithm, which improves the performance of ultrasonic liver image classification and recognition. The simulation shows that this paper can effectively classify the normal liver, liver cirrhosis, and liver cancer ultrasound images. Compared with the traditional immune algorithm, this paper combines the immune algorithm with the support vector machine, and the optimized immune algorithm can effectively improve the performance of ultrasonic liver image classification and recognition.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Changliang
+AU  - Gu, Yongxue
+AU  - Men, Xiaojuan
+AU  - Sun, Peng
+AU  - Chen, Meili
+C7  - 8072126
+TI  - [Retracted] TAP Test Image Dynamic Tracking Study after Thyroid Cancer Surgery and after Radiotherapy and Chemotherapy
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2021
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2021/8072126
+DO  - https://doi.org/10.1155/2021/8072126
+SP  - 8072126
+PY  - 2021
+AB  - Thyroid cancer is a relatively common endocrine gland malignant tumor; if improper treatment, there will be a high risk of recurrence or metastasis, and abnormal sugar chain glycoprotein (TAP) has a close relationship with the development of the disease; therefore, the purpose of this article is to discuss abnormal sugar chain glycoprotein (TAP) as thyroid cancer curative effect evaluation and radiation and chemotherapy after surgery clinical significance. In this paper, 95 patients with thyroid cancer diagnosed in a hospital were selected as the study objects and treated as the observation group. The clinical and follow-up data of the observation group were retrospectively analyzed. Meanwhile, 55 healthy patients were randomly selected as the control group. TAP, squamous cell carcinoma antigen (SCC) level, and carcinoembryonic antigen (CEA) level were detected in peripheral blood of 95 patients with thyroid cancer before and after treatment. The short-term efficacy was evaluated by chest CT examination, and the changes of the three markers before and after treatment and the correlation with the short-term efficacy of the patients were compared. According to the results of testing, the TAP positive expression in patients before radiotherapy can better predict the recent curative effect has certain clinical value; before radiotherapy TAP positive expression rate was significantly higher than that of healthy people, TAP positive expression quantity decreased obviously after radiation treatment, and patients with a recent radiotherapy curative effect is good or bad and negatively correlated with the degree of TAP protein positive expression; TAP high protein in patients with recent poor radiation effects, prompt the factor can be predicted in the near future curative effect of the molecular markers, and can TAP level for clinicians provide certain reference for targeted therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Zheng, Xuanci
+AU  - Li, Jie
+AU  - Ji, Hongfei
+AU  - Duan, Lili
+AU  - Li, Maozhen
+AU  - Pang, Zilong
+AU  - Zhuang, Jie
+AU  - Rongrong, Lu
+AU  - Tianhao, Gao
+C7  - 6056383
+TI  - Task Transfer Learning for EEG Classification in Motor Imagery-Based BCI System
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/6056383
+DO  - https://doi.org/10.1155/2020/6056383
+SP  - 6056383
+PY  - 2020
+AB  - The motor-imagery brain-computer interface system (MI-BCI) has a board prospect for development. However, long calibration time and lack of enough MI commands limit its use in practice. In order to enlarge the command set, we add the combinations of traditional MI commands as new commands into the command set. We also design an algorithm based on transfer learning so as to decrease the calibration time for collecting EEG signal and training model. We create feature extractor based on data from traditional commands and transfer patterns through the data from new commands. Through the comparison of the average accuracy between our algorithm and traditional algorithms and the visualization of spatial patterns in our algorithm, we find that the accuracy of our algorithm is much higher than traditional algorithms, especially as for the low-quality datasets. Besides, the visualization of spatial patterns is meaningful. The algorithm based on transfer learning takes the advantage of the information from source data. We enlarge the command set while shortening the calibration time, which is of significant importance to the MI-BCI application.
+ER  - 
+
+TY  - JOUR
+AU  - Sun, Xiaowei
+AU  - Zhu, Yi
+C7  - 3189676
+TI  - DRG-Oriented Mathematical Calculation Model and Method of Integrated Medical Service Cost
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/3189676
+DO  - https://doi.org/10.1155/2020/3189676
+SP  - 3189676
+PY  - 2020
+AB  - In the context of the new round of medical and health reform, in order to alleviate the problem of ?difficult to see a doctor and expensive to see a doctor,? the state focuses on reducing the cost of medical services, so it puts forward the calculation and method research of medical costs. The purpose of this study is to calculate and predict the cost of medical services in a DRG-oriented integrated environment. In this study, activity-based costing and weighted moving average methods are used. First, basic data of medical services are collected, then all medical activities are confirmed and all service costs are collected, then a cost database is established, and a calculation model of medical costs is designed. Finally, calculation suggestions and optimization methods are put forward by analyzing the calculated data. The experimental results show that the actual demand of drugs predicted by the general moving average method is relatively insufficient, with the maximum error of 41%, the minimum of 5%, and the average error of 19.8%; the maximum error of drug demand predicted by the weighted moving average method is 24%, the minimum is 2%, and the average is 15.4%. It can be concluded that the prediction effect of the weighted moving average method is better than that of the ordinary moving average method, which plays a good and effective role in the prediction of medical cost. The activity-based costing method is more detailed and organized for the cost calculation and classification of medical services. It provides a certain value for the effective management and control of medical service cost.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Yalan
+AU  - Yu, Yijun
+AU  - Lin, Xin
+AU  - Han, Zhenwei
+AU  - Feng, Zhe
+AU  - Hua, Xinyi
+AU  - Chen, Dongliang
+AU  - Xu, Xiaotao
+AU  - Zhang, Yuanpeng
+AU  - Wang, Guheng
+C7  - 7613569
+TI  - Intelligent Rehabilitation Assistance Tools for Distal Radius Fracture: A Systematic Review Based on Literatures and Mobile Application Stores
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/7613569
+DO  - https://doi.org/10.1155/2020/7613569
+SP  - 7613569
+PY  - 2020
+AB  - Objective. To systematically analyze the existing intelligent rehabilitation mobile applications (APPs) related to distal radius fracture (DRF) and evaluate their features and characteristics, so as to help doctors and patients to make evidence-based choice for appropriate intelligent-assisted rehabilitation. Methods. Literatures which in regard to the intelligent rehabilitation tools of DRF were systematic retrieved from the PubMed, the Cochrane library, Wan Fang, and VIP Data. The effective APPs were systematically screened out through the APP markets of iOS and Android mobile platform, and the functional characteristics of different APPs were evaluated and analyzed. Results. A total of 8 literatures and 31 APPs were included, which were divided into four categories: intelligent intervention, angle measurement, intelligent monitoring, and auxiliary rehabilitation games. These APPs provide support for the patients? home rehabilitation guidance and training and make up for the high cost and space limitations of traditional rehabilitation methods. The intelligent intervention category has the largest download ratio in the APP market. Angle measurement tools help DRF patients to measure the joint angle autonomously to judge the degree of rehabilitation, which is the most concentrated type of literature research. Some of the APPs and tools have obtained good clinical verification. However, due to the restrictions of cost, geographic authority, and applicable population, a large number of APPs still lack effective evidence to support popularization. Conclusion. Patients with DRF could draw support from different kinds of APPs in order to fulfill personal need and promote self-management. Intelligent rehabilitation APPs play a positive role in the rehabilitation of patients, but the acceptance of the utilization for intelligent rehabilitation APPs is relatively low, which might need follow-up research to address the conundrum.
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Yufeng
+AU  - Ding, Yan
+AU  - Zhong, Shan
+AU  - Cui, Zhiming
+C7  - 7980249
+TI  - EEG-Based Epilepsy Recognition via Multiple Kernel Learning
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/7980249
+DO  - https://doi.org/10.1155/2020/7980249
+SP  - 7980249
+PY  - 2020
+AB  - In the field of brain-computer interfaces, it is very common to use EEG signals for disease diagnosis. In this study, a style regularized least squares support vector machine based on multikernel learning is proposed and applied to the recognition of epilepsy abnormal signals. The algorithm uses the style conversion matrix to represent the style information contained in the sample, regularizes it in the objective function, optimizes the objective function through the commonly used alternative optimization method, and simultaneously updates the style conversion matrix and classifier during the iteration process parameter. In order to use the learned style information in the prediction process, two new rules are added to the traditional prediction method, and the style conversion matrix is used to standardize the sample style before classification.
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, Xiaolu
+AU  - Zeng, Yanqiu
+AU  - Xiao, Shixiao
+AU  - He, Shaojie
+AU  - Ye, Caizhi
+AU  - Qi, Yu
+AU  - Zhao, Jiangsheng
+AU  - Wei, Dezhi
+AU  - Hu, Muhua
+AU  - Chen, Fei
+C7  - 1793517
+TI  - Automatic Detection of Coronary Metallic Stent Struts Based on YOLOv3 and R-FCN
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/1793517
+DO  - https://doi.org/10.1155/2020/1793517
+SP  - 1793517
+PY  - 2020
+AB  - An artificial stent implantation is one of the most effective ways to treat coronary artery diseases. It is vital in vascular medical imaging, such as intravascular optical coherence tomography (IVOCT), to be able to track the position of stents in blood vessels effectively. We trained two models, the ?You Only Look Once? version 3 (YOLOv3) and the Region-based Fully Convolutional Network (R-FCN), to detect metal support struts in IVOCT, respectively. After rotating the original images in the training set for data augmentation, and modifying the scale of the conventional anchor box in both two algorithms to fit the size of the target strut, YOLOv3 and R-FCN achieved precision, recall, and AP all above 95% in 0.4 IoU threshold. And R-FCN performs better than YOLOv3 in all relevant indicators.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Kai
+AU  - Xu, Guanghua
+AU  - Chen, Longtin
+AU  - Tian, Peiyuan
+AU  - Han, ChengCheng
+AU  - Zhang, Sicong
+AU  - Duan, Nan
+C7  - 1683013
+TI  - Instance Transfer Subject-Dependent Strategy for Motor Imagery Signal Classification Using Deep Convolutional Neural Networks
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/1683013
+DO  - https://doi.org/10.1155/2020/1683013
+SP  - 1683013
+PY  - 2020
+AB  - In the process of brain-computer interface (BCI), variations across sessions/subjects result in differences in the properties of potential of the brain. This issue may lead to variations in feature distribution of electroencephalogram (EEG) across subjects, which greatly reduces the generalization ability of a classifier. Although subject-dependent (SD) strategy provides a promising way to solve the problem of personalized classification, it cannot achieve expected performance due to the limitation of the amount of data especially for a deep neural network (DNN) classification model. Herein, we propose an instance transfer subject-independent (ITSD) framework combined with a convolutional neural network (CNN) to improve the classification accuracy of the model during motor imagery (MI) task. The proposed framework consists of the following steps. Firstly, an instance transfer learning based on the perceptive Hash algorithm is proposed to measure similarity of spectrogram EEG signals between different subjects. Then, we develop a CNN to decode these signals after instance transfer learning. Next, the performance of classifications by different training strategies (subject-independent- (SI-) CNN, SD-CNN, and ITSD-CNN) are compared. To verify the effectiveness of the algorithm, we evaluate it on the dataset of BCI competition IV-2b. Experiments show that the instance transfer learning can achieve positive instance transfer using a CNN classification model. Among the three different training strategies, the average classification accuracy of ITSD-CNN can achieve 94.7 ± 2.6 and obtain obvious improvement compared with a contrast model (p < 0.01). Compared with other methods proposed in previous research, the framework of ITSD-CNN outperforms the state-of-the-art classification methods with a mean kappa value of 0.664.
+ER  - 
+
+TY  - JOUR
+AU  - Cong, Xu
+AU  - Li, Tingting
+C7  - 7108147
+TI  - Design and Development of Virtual Medical System Interface Based on VR-AR Hybrid Technology
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/7108147
+DO  - https://doi.org/10.1155/2020/7108147
+SP  - 7108147
+PY  - 2020
+AB  - With the continuous development of information technology and digital medicine, computer-assisted virtual medicine has become the development trend of a new generation of clinical surgery, which aims to improve the accuracy of surgery, reduce the risk of surgery, and achieve precise and minimally invasive treatment. The interface design in the computer-aided virtual medical system is a medium for transmitting and exchanging information between humans and machines. This article uses virtual reality technology and augmented reality technology to develop a virtual medical system interface, which aims to solve the interaction problem between users and virtual medical systems and satisfy users. The multidemand psychology is an effective way of interaction. It provides users with a multichannel and comprehensive communication method, which truly meets the design goals that meet the user?s psychological needs. It also expands applications for virtual reality technology and augmented reality technology.
+ER  - 
+
+TY  - JOUR
+AU  - Zuo, Heng
+AU  - Ling, Yunfei
+AU  - Li, Peng
+AU  - An, Qi
+AU  - Zhou, Xiaobo
+C7  - 4568509
+TI  - Patient-Specific CT-Based Fluid-Structure-Interaction Aorta Model to Quantify Mechanical Conditions for the Investigation of Ascending Aortic Dilation in TOF Patients
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/4568509
+DO  - https://doi.org/10.1155/2020/4568509
+SP  - 4568509
+PY  - 2020
+AB  - Background. Some adult patients with Tetralogy of Fallot (TOF) were found to simultaneously develop ascending aortic dilation. Severe aortic dilation would lead to several aortic diseases, including aortic aneurysm and dissection, which seriously affect patients? living quality and even cause patients? death. Current practice guidelines of aortic-dilation-related diseases mainly focus on aortic diameter, which has been found not always a good indicator. Therefore, it may be clinically useful to identify some other factors that can potentially better predict aortic response to dilation. Methods. 20 TOF patients scheduled for TOF repair surgery were recruited in this study and were divided into dilated and nondilated groups according to the Z scores of ascending aorta diameters. Patient-specific aortic CT images, pressure, and flow rates were used in the construction of computational biomechanical models. Results. Simulation results demonstrated a good coincidence between numerical mean flow rate at inlet and the one obtained from color Doppler ultrasonography, which implied that computational models were able to simulate the movement of the aorta and blood inside accurately. Our results indicated that aortic stress can effectively differentiate patients of the dilated group from the ones of the nondilated group. Mean ascending aortic stress-P1 (maximal principal stress) from the dilated group was 54% higher than that from the nondilated group (97.97?kPa vs. 63.47?kPa, p value = 0.044) under systolic pressure. Velocity magnitude in the aorta and aortic wall displacement of the dilated group were also greater than those of the nondilated group with p value < 0.1. Conclusion. Computational modeling and ascending aortic biomechanical factors may be used as a potential tool to identify and analyze aortic response to dilation. Large-scale clinical studies are needed to validate these preliminary findings.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Yingdong
+AU  - Wu, Qingfeng
+AU  - Wang, Chen
+AU  - Ruan, Qunsheng
+C7  - 7574531
+TI  - DE-CNN: An Improved Identity Recognition Algorithm Based on the Emotional Electroencephalography
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/7574531
+DO  - https://doi.org/10.1155/2020/7574531
+SP  - 7574531
+PY  - 2020
+AB  - In the past few decades, identification recognition based on electroencephalography (EEG) has received extensive attention to resolve the security problems of conventional biometric systems. In the present study, a novel EEG-based identification system with different entropy and a continuous convolution neural network (CNN) classifier is proposed. The performance of the proposed method is experimentally evaluated through the emotional EEG data. The conducted experiment shows that the proposed method approaches the stunning accuracy (ACC) of 99.7% on average and can rapidly train and update the DE-CNN model. Then, the effects of different emotions and the impact of different time intervals on the identification performance are investigated. Obtained results show that different emotions affect the identification accuracy, where the negative and neutral mood EEG has a better robustness than positive emotions. For a video signal as the EEG stimulant, it is found that the proposed method with 0?75?Hz is more robust than a single band, while the 15?32?Hz band presents overfitting and reduces the accuracy of the cross-emotion test. It is concluded that time interval reduces the accuracy and the 15?32?Hz band has the best compatibility in terms of the attenuation.
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Yufeng
+AU  - Cui, Zhiming
+C7  - 5046315
+TI  - An Automatic Epilepsy Detection Method Based on Improved Inductive Transfer Learning
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/5046315
+DO  - https://doi.org/10.1155/2020/5046315
+SP  - 5046315
+PY  - 2020
+AB  - Epilepsy is a chronic disease caused by sudden abnormal discharge of brain neurons, causing transient brain dysfunction. The seizures of epilepsy have the characteristics of being sudden and repetitive, which has seriously endangered patients? health, cognition, etc. In the current condition, EEG plays a vital role in the diagnosis, judgment, and qualitative location of epilepsy among the clinical diagnosis of various epileptic seizures and is an indispensable means of detection. The study of the EEG signals of patients with epilepsy can provide a strong basis and useful information for in-depth understanding of its pathogenesis. Although, intelligent classification technologies based on machine learning have been widely used to the classification of epilepsy EEG signals and show the effectiveness. In fact, it is difficult to ensure that there is always enough EEG data available for training the model in real life, which will affect the performance of the algorithms. In view of this, to reduce the impact of insufficient data on the detection performance of the algorithms, a novel discriminate least squares regression- (DLSR-) based inductive transfer learning method was introduced which is on the basis of DLSR and the inductive transfer learning. And, it is applied to promote the adaptability and accuracy of the epilepsy EEG signal recognition. The proposed method inherits the advantages of DLSR; it can be more suitable for classification scenarios by expanding the interval between different classes. Meanwhile, it can simultaneously use the data of the target domain and the knowledge of the source domain, which is helpful for getting better performance. The results show that the improved method has more advantages in EEG signal recognition comparing to several other representative methods.
+ER  - 
+
+TY  - JOUR
+AU  - Seal, Ayan
+AU  - Reddy, Puthi Prem Nivesh
+AU  - Chaithanya, Pingali
+AU  - Meghana, Arramada
+AU  - Jahnavi, Kamireddy
+AU  - Krejcar, Ondrej
+AU  - Hudak, Radovan
+C7  - 8303465
+TI  - An EEG Database and Its Initial Benchmark Emotion Classification Performance
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/8303465
+DO  - https://doi.org/10.1155/2020/8303465
+SP  - 8303465
+PY  - 2020
+AB  - Human emotion recognition has been a major field of research in the last decades owing to its noteworthy academic and industrial applications. However, most of the state-of-the-art methods identified emotions after analyzing facial images. Emotion recognition using electroencephalogram (EEG) signals has got less attention. However, the advantage of using EEG signals is that it can capture real emotion. However, very few EEG signals databases are publicly available for affective computing. In this work, we present a database consisting of EEG signals of 44 volunteers. Twenty-three out of forty-four are females. A 32 channels CLARITY EEG traveler sensor is used to record four emotional states namely, happy, fear, sad, and neutral of subjects by showing 12 videos. So, 3 video files are devoted to each emotion. Participants are mapped with the emotion that they had felt after watching each video. The recorded EEG signals are considered further to classify four types of emotions based on discrete wavelet transform and extreme learning machine (ELM) for reporting the initial benchmark classification performance. The ELM algorithm is used for channel selection followed by subband selection. The proposed method performs the best when features are captured from the gamma subband of the FP1-F7 channel with 94.72% accuracy. The presented database would be available to the researchers for affective recognition applications.
+ER  - 
+
+TY  - JOUR
+AU  - Xu, Shipu
+AU  - Li, Runlong
+AU  - Wang, Yunsheng
+AU  - Liu, Yong
+AU  - Hu, Wenwen
+AU  - Wu, Yingjing
+AU  - Zhang, Chenxi
+AU  - Liu, Chang
+AU  - Ma, Chao
+C7  - 5916818
+TI  - Research and Verification of Convolutional Neural Network Lightweight in BCI
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/5916818
+DO  - https://doi.org/10.1155/2020/5916818
+SP  - 5916818
+PY  - 2020
+AB  - With the increasing of depth and complexity of the convolutional neural network, parameter dimensionality and volume of computing have greatly restricted its applications. Based on the SqueezeNet network structure, this study introduces a block convolution and uses channel shuffle between blocks to alleviate the information jam. The method is aimed at reducing the dimensionality of parameters of in an original network structure and improving the efficiency of network operation. The verification performance of the ORL dataset shows that the classification accuracy and convergence efficiency are not reduced or even slightly improved when the network parameters are reduced, which supports the validity of block convolution in structure lightweight. Moreover, using a classic CIFAR-10 dataset, this network decreases parameter dimensionality while accelerating computational processing, with excellent convergence stability and efficiency when the network accuracy is only reduced by 1.3%.
+ER  - 
+
+TY  - JOUR
+AU  - Zhan, Qianyi
+AU  - Hu, Wei
+C7  - 5128729
+TI  - An Epilepsy Detection Method Using Multiview Clustering Algorithm and Deep Features
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/5128729
+DO  - https://doi.org/10.1155/2020/5128729
+SP  - 5128729
+PY  - 2020
+AB  - The automatic detection of epilepsy is essentially the classification of EEG signals of seizures and nonseizures, and its purpose is to distinguish the different characteristics of seizure brain electrical signals and normal brain electrical signals. In order to improve the effect of automatic detection, this study proposes a new classification method based on unsupervised multiview clustering results. In addition, considering the high-dimensional characteristics of the original data samples, a deep convolutional neural network (DCNN) is introduced to extract the sample features to obtain deep features. The deep feature reduces the sample dimension and increases the sample separability. The main steps of our proposed novel EEG detection method contain the following three steps: first, a multiview FCM clustering algorithm is introduced, and the training samples are used to train the center and weight of each view. Then, the class center and weight of each view obtained by training are used to calculate the view-weighted membership value of the new prediction sample. Finally, the classification label of the new prediction sample is obtained. Experimental results show that the proposed method can effectively detect seizures.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Wendong
+C7  - 3641745
+TI  - Research of Epidemic Big Data Based on Improved Deep Convolutional Neural Network
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/3641745
+DO  - https://doi.org/10.1155/2020/3641745
+SP  - 3641745
+PY  - 2020
+AB  - In recent years, with the acceleration of the aging process and the aggravation of life pressure, the proportion of chronic epidemics has gradually increased. A large amount of medical data will be generated during the hospitalization of diabetics. It will have important practical significance and social value to discover potential medical laws and valuable information among medical data. In view of this, an improved deep convolutional neural network (?CNN+? for short) algorithm was proposed to predict the changes of diabetes. Firstly, the bagging integrated classification algorithm was used instead of the output layer function of the deep CNN, which can help the improved deep CNN algorithm constructed for the data set of diabetic patients and improve the accuracy of classification. In this way, the ?CNN+? algorithm can take the advantages of both the deep CNN and the bagging algorithm. On the one hand, it can extract the potential features of the data set by using the powerful feature extraction ability of deep CNN. On the other hand, the bagging integrated classification algorithm can be used for feature classification, so as to improve the classification accuracy and obtain better disease prediction effect to assist doctors in diagnosis and treatment. Experimental results show that compared with the traditional convolutional neural network and other classification algorithm, the ?CNN+? model can get more reliable prediction results.
+ER  - 
+
+TY  - JOUR
+AU  - Miao, Minmin
+AU  - Hu, Wenjun
+AU  - Yin, Hongwei
+AU  - Zhang, Ke
+C7  - 1981728
+TI  - Spatial-Frequency Feature Learning and Classification of Motor Imagery EEG Based on Deep Convolution Neural Network
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/1981728
+DO  - https://doi.org/10.1155/2020/1981728
+SP  - 1981728
+PY  - 2020
+AB  - EEG pattern recognition is an important part of motor imagery- (MI-) based brain computer interface (BCI) system. Traditional EEG pattern recognition algorithm usually includes two steps, namely, feature extraction and feature classification. In feature extraction, common spatial pattern (CSP) is one of the most frequently used algorithms. However, in order to extract the optimal CSP features, prior knowledge and complex parameter adjustment are often required. Convolutional neural network (CNN) is one of the most popular deep learning models at present. Within CNN, feature learning and pattern classification are carried out simultaneously during the procedure of iterative updating of network parameters; thus, it can remove the complicated manual feature engineering. In this paper, we propose a novel deep learning methodology which can be used for spatial-frequency feature learning and classification of motor imagery EEG. Specifically, a multilayer CNN model is designed according to the spatial-frequency characteristics of MI EEG signals. An experimental study is carried out on two MI EEG datasets (BCI competition III dataset IVa and a self-collected right index finger MI dataset) to validate the effectiveness of our algorithm in comparison with several closely related competing methods. Superior classification performance indicates that our proposed method is a promising pattern recognition algorithm for MI-based BCI system.
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Wentao
+AU  - Li, Daning
+AU  - Du, Jiaoyang
+AU  - Gao, Xiangyu
+AU  - Gu, Wen
+AU  - Zhao, Fanfan
+AU  - Feng, Xiaojie
+AU  - Yan, Hong
+C7  - 6789306
+TI  - An Intelligent Diagnosis Method of Brain MRI Tumor Segmentation Using Deep Convolutional Neural Network and SVM Algorithm
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/6789306
+DO  - https://doi.org/10.1155/2020/6789306
+SP  - 6789306
+PY  - 2020
+AB  - Among the currently proposed brain segmentation methods, brain tumor segmentation methods based on traditional image processing and machine learning are not ideal enough. Therefore, deep learning-based brain segmentation methods are widely used. In the brain tumor segmentation method based on deep learning, the convolutional network model has a good brain segmentation effect. The deep convolutional network model has the problems of a large number of parameters and large loss of information in the encoding and decoding process. This paper proposes a deep convolutional neural network fusion support vector machine algorithm (DCNN-F-SVM). The proposed brain tumor segmentation model is mainly divided into three stages. In the first stage, a deep convolutional neural network is trained to learn the mapping from image space to tumor marker space. In the second stage, the predicted labels obtained from the deep convolutional neural network training are input into the integrated support vector machine classifier together with the test images. In the third stage, a deep convolutional neural network and an integrated support vector machine are connected in series to train a deep classifier. Run each model on the BraTS dataset and the self-made dataset to segment brain tumors. The segmentation results show that the performance of the proposed model is significantly better than the deep convolutional neural network and the integrated SVM classifier.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Li
+AU  - Kuang, Liang
+AU  - Ji, Yunfeng
+C7  - 8620403
+TI  - Multimodal MRI Brain Tumor Image Segmentation Using Sparse Subspace Clustering Algorithm
+JO  - Computational and Mathematical Methods in Medicine
+JA  - Computa and Math Meth in Med
+VL  - 2020
+IS  - 1
+SN  - 1748-670X
+UR  - https://doi.org/10.1155/2020/8620403
+DO  - https://doi.org/10.1155/2020/8620403
+SP  - 8620403
+PY  - 2020
+AB  - Brain tumors are one of the most deadly diseases with a high mortality rate. The shape and size of the tumor are random during the growth process. Brain tumor segmentation is a brain tumor assisted diagnosis technology that separates different brain tumor structures such as edema and active and tumor necrosis tissues from normal brain tissue. Magnetic resonance imaging (MRI) technology has the advantages of no radiation impact on the human body, good imaging effect on structural tissues, and an ability to realize tomographic imaging of any orientation. Therefore, doctors often use MRI brain tumor images to analyze and process brain tumors. In these images, the tumor structure is only characterized by grayscale changes, and the developed images obtained by different equipment and different conditions may also be different. This makes it difficult for traditional image segmentation methods to deal well with the segmentation of brain tumor images. Considering that the traditional single-mode MRI brain tumor images contain incomplete brain tumor information, it is difficult to segment the single-mode brain tumor images to meet clinical needs. In this paper, a sparse subspace clustering (SSC) algorithm is introduced to process the diagnosis of multimodal MRI brain tumor images. In the absence of added noise, the proposed algorithm has better advantages than traditional methods. Compared with the top 15 in the Brats 2015 competition, the accuracy is not much different, being basically stable between 10 and 15. In order to verify the noise resistance of the proposed algorithm, this paper adds 5%, 10%, 15%, and 20% Gaussian noise to the test image. Experimental results show that the proposed algorithm has better noise immunity than a comparable algorithm.
+ER  - 

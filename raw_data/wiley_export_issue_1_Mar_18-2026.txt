@@ -1,0 +1,234 @@
+
+TY  - JOUR
+AU  - Babiloni, Fabio
+AU  - Cichocki, Andrzej
+AU  - Sanei, Saeid
+AU  - Astolfi, Laura
+AU  - Cincotti, Febo
+AU  - Gonzalez Andino, Sara
+C7  - 913040
+TI  - Selected Papers from the 4th International Conference on Bioinspired Systems and Cognitive Signal Processing
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/913040
+DO  - https://doi.org/10.1155/2011/913040
+SP  - 913040
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Ebner, Marc
+AU  - Hameroff, Stuart
+C7  - 247879
+TI  - Lateral Information Processing by Spiking Neurons: A Theoretical Model of the Neural Correlate of Consciousness
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/247879
+DO  - https://doi.org/10.1155/2011/247879
+SP  - 247879
+PY  - 2011
+AB  - Cognitive brain functions, for example, sensory perception, motor control and learning, are understood as computation by axonal-dendritic chemical synapses in networks of integrate-and-fire neurons. Cognitive brain functions may occur either consciously or nonconsciously (on ?autopilot?). Conscious cognition is marked by gamma synchrony EEG, mediated largely by dendritic-dendritic gap junctions, sideways connections in input/integration layers. Gap-junction-connected neurons define a sub-network within a larger neural network. A theoretical model (the ?conscious pilot?) suggests that as gap junctions open and close, a gamma-synchronized subnetwork, or zone moves through the brain as an executive agent, converting nonconscious ?auto-pilot? cognition to consciousness, and enhancing computation by coherent processing and collective integration. In this study we implemented sideways ?gap junctions? in a single-layer artificial neural network to perform figure/ground separation. The set of neurons connected through gap junctions form a reconfigurable resistive grid or sub-network zone. In the model, outgoing spikes are temporally integrated and spatially averaged using the fixed resistive grid set up by neurons of similar function which are connected through gap-junctions. This spatial average, essentially a feedback signal from the neuron?s output, determines whether particular gap junctions between neurons will open or close. Neurons connected through open gap junctions synchronize their output spikes. We have tested our gap-junction-defined sub-network in a one-layer neural network on artificial retinal inputs using real-world images. Our system is able to perform figure/ground separation where the laterally connected sub-network of neurons represents a perceived object. Even though we only show results for visual stimuli, our approach should generalize to other modalities. The system demonstrates a moving sub-network zone of synchrony, within which the contents of perception are represented and contained. This mobile zone can be viewed as a model of the neural correlate of consciousness in the brain.
+ER  - 
+
+TY  - JOUR
+AU  - Hinze, Thomas
+AU  - Schumann, Mathias
+AU  - Bodenstein, Christian
+AU  - Heiland, Ines
+AU  - Schuster, Stefan
+C7  - 262189
+TI  - Biochemical Frequency Control by Synchronisation of Coupled Repressilators: An In Silico Study of Modules for Circadian Clock Systems
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/262189
+DO  - https://doi.org/10.1155/2011/262189
+SP  - 262189
+PY  - 2011
+AB  - Exploration of chronobiological systems emerges as a growing research field within bioinformatics focusing on various applications in medicine, agriculture, and material sciences. From a systems biological perspective, the question arises whether biological control systems for regulation of oscillatory signals and their technical counterparts utilise similar mechanisms. If so, modelling approaches and parameterisation adopted from building blocks can help to identify general components for frequency control in circadian clocks along with gaining insight into mechanisms of clock synchronisation to external stimuli like the daily rhythm of sunlight and darkness. Phase-locked loops could be an interesting candidate in this context. Both, biology and engineering, can benefit from a unified view resulting from systems modularisation. In a first experimental study, we analyse a model of coupled repressilators. We demonstrate its ability to synchronise clock signals in a monofrequential manner. Several oscillators initially deviate in phase difference and frequency with respect to explicit reaction and diffusion rates. Accordingly, the duration of the synchronisation process depends on dedicated reaction and diffusion parameters whose settings still lack to be sufficiently captured analytically.
+ER  - 
+
+TY  - JOUR
+AU  - Bhuiyan, Alauddin
+AU  - Lamoureux, Ecosse
+AU  - Nath, Baikunth
+AU  - Ramamohanarao, Kotagiri
+AU  - Wong, Tien Y.
+C7  - 749054
+TI  - Retinal Image Matching Using Hierarchical Vascular Features
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/749054
+DO  - https://doi.org/10.1155/2011/749054
+SP  - 749054
+PY  - 2011
+AB  - We propose a method for retinal image matching that can be used in image matching for person identification or patient longitudinal study. Vascular invariant features are extracted from the retinal image, and a feature vector is constructed for each of the vessel segments in the retinal blood vessels. The feature vectors are represented in a tree structure with maintaining the vessel segments actual hierarchical positions. Using these feature vectors, corresponding images are matched. The method identifies the same vessel in the corresponding images for comparing the desired feature(s). Initial results are encouraging and demonstrate that the proposed method is suitable for image matching and patient longitudinal study.
+ER  - 
+
+TY  - JOUR
+AU  - Devlaminck, Dieter
+AU  - Wyns, Bart
+AU  - Grosse-Wentrup, Moritz
+AU  - Otte, Georges
+AU  - Santens, Patrick
+C7  - 217987
+TI  - Multisubject Learning for Common Spatial Patterns in Motor-Imagery BCI
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/217987
+DO  - https://doi.org/10.1155/2011/217987
+SP  - 217987
+PY  - 2011
+AB  - Motor-imagery-based brain-computer interfaces (BCIs) commonly use the common spatial pattern filter (CSP) as preprocessing step before feature extraction and classification. The CSP method is a supervised algorithm and therefore needs subject-specific training data for calibration, which is very time consuming to collect. In order to reduce the amount of calibration data that is needed for a new subject, one can apply multitask (from now on called multisubject) machine learning techniques to the preprocessing phase. Here, the goal of multisubject learning is to learn a spatial filter for a new subject based on its own data and that of other subjects. This paper outlines the details of the multitask CSP algorithm and shows results on two data sets. In certain subjects a clear improvement can be seen, especially when the number of training trials is relatively low.
+ER  - 
+
+TY  - JOUR
+AU  - Szkoła, Jarosław
+AU  - Pancerz, Krzysztof
+AU  - Warchoł, Jan
+C7  - 289398
+TI  - Recurrent Neural Networks in Computer-Based Clinical Decision Support for Laryngopathies: An Experimental Study
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/289398
+DO  - https://doi.org/10.1155/2011/289398
+SP  - 289398
+PY  - 2011
+AB  - The main goal of this paper is to give the basis for creating a computer-based clinical decision support (CDS) system for laryngopathies. One of approaches which can be used in the proposed CDS is based on the speech signal analysis using recurrent neural networks (RNNs). RNNs can be used for pattern recognition in time series data due to their ability of memorizing some information from the past. The Elman networks (ENs) are a classical representative of RNNs. To improve learning ability of ENs, we may modify and combine them with another kind of RNNs, namely, with the Jordan networks. The modified Elman-Jordan networks (EJNs) manifest a faster and more exact achievement of the target pattern. Validation experiments were carried out on speech signals of patients from the control group and with two kinds of laryngopathies.
+ER  - 
+
+TY  - JOUR
+AU  - Vecchiato, Giovanni
+AU  - Astolfi, Laura
+AU  - De Vico Fallani, Fabrizio
+AU  - Toppi, Jlenia
+AU  - Aloise, Fabio
+AU  - Bez, Francesco
+AU  - Wei, Daming
+AU  - Kong, Wanzeng
+AU  - Dai, Jounging
+AU  - Cincotti, Febo
+AU  - Mattia, Donatella
+AU  - Babiloni, Fabio
+C7  - 643489
+TI  - On the Use of EEG or MEG Brain Imaging Tools in Neuromarketing Research
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/643489
+DO  - https://doi.org/10.1155/2011/643489
+SP  - 643489
+PY  - 2011
+AB  - Here we present an overview of some published papers of interest for the marketing research employing electroencephalogram (EEG) and magnetoencephalogram (MEG) methods. The interest for these methodologies relies in their high-temporal resolution as opposed to the investigation of such problem with the functional Magnetic Resonance Imaging (fMRI) methodology, also largely used in the marketing research. In addition, EEG and MEG technologies have greatly improved their spatial resolution in the last decades with the introduction of advanced signal processing methodologies. By presenting data gathered through MEG and high resolution EEG we will show which kind of information it is possible to gather with these methodologies while the persons are watching marketing relevant stimuli. Such information will be related to the memorization and pleasantness related to such stimuli. We noted that temporal and frequency patterns of brain signals are able to provide possible descriptors conveying information about the cognitive and emotional processes in subjects observing commercial advertisements. These information could be unobtainable through common tools used in standard marketing research. We also show an example of how an EEG methodology could be used to analyze cultural differences between fruition of video commercials of carbonated beverages in Western and Eastern countries.
+ER  - 
+
+TY  - JOUR
+AU  - Manyakov, Nikolay V.
+AU  - Chumerin, Nikolay
+AU  - Combaz, Adrien
+AU  - Van Hulle, Marc M.
+C7  - 519868
+TI  - Comparison of Classification Methods for P300 Brain-Computer Interface on Disabled Subjects
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/519868
+DO  - https://doi.org/10.1155/2011/519868
+SP  - 519868
+PY  - 2011
+AB  - We report on tests with a mind typing paradigm based on a P300 brain-computer interface (BCI) on a group of amyotrophic lateral sclerosis (ALS), middle cerebral artery (MCA) stroke, and subarachnoid hemorrhage (SAH) patients, suffering from motor and speech disabilities. We investigate the achieved typing accuracy given the individual patient?s disorder, and how it correlates with the type of classifier used. We considered 7 types of classifiers, linear as well as nonlinear ones, and found that, overall, one type of linear classifier yielded a higher classification accuracy. In addition to the selection of the classifier, we also suggest and discuss a number of recommendations to be considered when building a P300-based typing system for disabled subjects.
+ER  - 
+
+TY  - JOUR
+AU  - Watanabe, Takashi
+AU  - Saito, Hiroki
+AU  - Koike, Eri
+AU  - Nitta, Kazuki
+C7  - 975193
+TI  - A Preliminary Test of Measurement of Joint Angles and Stride Length with Wireless Inertial Sensors for Wearable Gait Evaluation System
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/975193
+DO  - https://doi.org/10.1155/2011/975193
+SP  - 975193
+PY  - 2011
+AB  - The purpose of this study is to develop wearable sensor system for gait evaluation using gyroscopes and accelerometers for application to rehabilitation, healthcare and so on. In this paper, simultaneous measurement of joint angles of lower limbs and stride length was tested with a prototype of wearable sensor system. The system measured the joint angles using the Kalman filter. Signals from the sensor attached on the foot were used in the stride length estimation detecting foot movement automatically. Joint angles of the lower limbs were measured with stable and reasonable accuracy compared to those values measured with optical motion measurement system with healthy subjects. It was expected that the stride length measurement with the wearable sensor system would be practical by realizing more stable measurement accuracy. Sensor attachment position was suggested not to affect significantly measurement of slow and normal speed movements in a test with the rigid body model. Joint angle patterns measured in 10?m walking with a healthy subject were similar to common patterns. High correlation between joint angles at some characteristic points and stride velocity were also found adequately. These results suggested that the wireless wearable inertial sensor system could detect characteristics of gait.
+ER  - 
+
+TY  - JOUR
+AU  - Mannini, Andrea
+AU  - Sabatini, Angelo Maria
+C7  - 647858
+TI  - Accelerometry-Based Classification of Human Activities Using Markov Modeling
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/647858
+DO  - https://doi.org/10.1155/2011/647858
+SP  - 647858
+PY  - 2011
+AB  - Accelerometers are a popular choice as body-motion sensors: the reason is partly in their capability of extracting information that is useful for automatically inferring the physical activity in which the human subject is involved, beside their role in feeding biomechanical parameters estimators. Automatic classification of human physical activities is highly attractive for pervasive computing systems, whereas contextual awareness may ease the human-machine interaction, and in biomedicine, whereas wearable sensor systems are proposed for long-term monitoring. This paper is concerned with the machine learning algorithms needed to perform the classification task. Hidden Markov Model (HMM) classifiers are studied by contrasting them with Gaussian Mixture Model (GMM) classifiers. HMMs incorporate the statistical information available on movement dynamics into the classification process, without discarding the time history of previous outcomes as GMMs do. An example of the benefits of the obtained statistical leverage is illustrated and discussed by analyzing two datasets of accelerometer time series.
+ER  - 
+
+TY  - JOUR
+AU  - Lourenço, André
+AU  - Silva, Hugo
+AU  - Fred, Ana
+C7  - 720971
+TI  - Unveiling the Biometric Potential of Finger-Based ECG Signals
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/720971
+DO  - https://doi.org/10.1155/2011/720971
+SP  - 720971
+PY  - 2011
+AB  - The ECG signal has been shown to contain relevant information for human identification. Even though results validate the potential of these signals, data acquisition methods and apparatus explored so far compromise user acceptability, requiring the acquisition of ECG at the chest. In this paper, we propose a finger-based ECG biometric system, that uses signals collected at the fingers, through a minimally intrusive 1-lead ECG setup recurring to Ag/AgCl electrodes without gel as interface with the skin. The collected signal is significantly more noisy than the ECG acquired at the chest, motivating the application of feature extraction and signal processing techniques to the problem. Time domain ECG signal processing is performed, which comprises the usual steps of filtering, peak detection, heartbeat waveform segmentation, and amplitude normalization, plus an additional step of time normalization. Through a simple minimum distance criterion between the test patterns and the enrollment database, results have revealed this to be a promising technique for biometric applications.
+ER  - 
+
+TY  - JOUR
+AU  - Doquire, G.
+AU  - de Lannoy, G.
+AU  - François, D.
+AU  - Verleysen, M.
+C7  - 643816
+TI  - Feature Selection for Interpatient Supervised Heart Beat Classification
+JO  - Computational Intelligence and Neuroscience
+JA  - Comput Intell and Neurosc
+VL  - 2011
+IS  - 1
+SN  - 1687-5265
+UR  - https://doi.org/10.1155/2011/643816
+DO  - https://doi.org/10.1155/2011/643816
+SP  - 643816
+PY  - 2011
+AB  - Supervised and interpatient classification of heart beats is primordial in many applications requiring long-term monitoring of the cardiac function. Several classification models able to cope with the strong class unbalance and a large variety of feature sets have been proposed for this task. In practice, over 200 features are often considered, and the features retained in the final model are either chosen using domain knowledge or an exhaustive search in the feature sets without evaluating the relevance of each individual feature included in the classifier. As a consequence, the results obtained by these models can be suboptimal and difficult to interpret. In this work, feature selection techniques are considered to extract optimal feature subsets for state-of-the-art ECG classification models. The performances are evaluated on real ambulatory recordings and compared to previously reported feature choices using the same models. Results indicate that a small number of individual features actually serve the classification and that better performances can be achieved by removing useless features.
+ER  - 

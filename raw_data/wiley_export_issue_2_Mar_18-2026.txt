@@ -1,0 +1,349 @@
+
+TY  - JOUR
+AU  - Lee, Seong-Whan
+TI  - Guest editorial: Special issue on pattern recognition in neuroimaging
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20289
+DO  - https://doi.org/10.1002/ima.20289
+SP  - 121
+EP  - 122
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Suk, Heung-Il
+AU  - Lee, Seong-Whan
+TI  - Subject and class specific frequency bands selection for multiclass motor imagery classification
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20283
+DO  - https://doi.org/10.1002/ima.20283
+SP  - 123
+EP  - 130
+KW  - brain-computer interface
+KW  - frequency bands selection
+KW  - motor imagery classification
+KW  - ERD/ERS
+KW  - electroencephalography
+PY  - 2011
+AB  - Abstract EEG-based discrimination among motor imagery states has been widely studied for brain-computer interfaces (BCIs) due to the great potential for real-life applications. However, in terms of designing a motor imagery-based BCI system, a lot of research in the literature either uses a frequency band of interest selected manually based on the visual analysis of EEG data or is set to a general broad band, causing performance degradation in classification. In this article, we propose a novel method of selecting subject and class specific frequency bands based on the analysis of a channel-frequency matrix, which we call a channel-frequency map. We operate the classification process for each frequency band individually, i.e., spatial filtering, feature extraction, and classification, and determine a class label for an input EEG by considering the outputs from multiple classifiers together at the end. From our experiments on a public dataset of BCI Competition IV (2008) II-a that includes four motor imagery tasks from nine subjects, the proposed algorithm outperformed the common spatial pattern (CSP) algorithm in a broad band and a filter bank CSP algorithm on average in terms of cross-validation and session-to-session transfer rate. Furthermore, a considerable increase of classification accuracy has been achieved for certain subjects. We also would like to note that the proposed data-driven frequency bands selection method is applicable to other kinds of single-trial EEG classifications that are based on modulations of brain rhythms, by no means limited to motor imagery-based BCI applications. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 123?130, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Tae-Hoon
+AU  - Kam, Tae-Eui
+AU  - Kim, Sung-Phil
+TI  - A hierarchical stimulus presentation paradigm for a P300-based Hangul speller
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20282
+DO  - https://doi.org/10.1002/ima.20282
+SP  - 131
+EP  - 138
+KW  - brain-computer interface
+KW  - electroencephalography
+KW  - P300
+KW  - Hangul speller
+KW  - hierarchical stimulus presentation paradigm
+PY  - 2011
+AB  - Abstract We propose a hierarchical stimulus presentation paradigm for a P300-based Hangul (Korean script) input system. A P300-based input system (or speller) is one of the most promising noninvasive brain-computer interface (BCI) applications based on its direct applicability in many computer programs. Although the previous row/column stimulus presentation paradigm has been well-suited to the English input, it may not be optimal for a Hangul input because Hangul has a distinct hierarchical structure. To overcome the limitation of the previous paradigms, we developed a new P300-based Hangul input system by taking the unique hierarchical structure of Hangul into account for creating a hierarchical stimulus presentation paradigm. By using the hierarchical structure, we can effectively reduce the window size of the interface without loss of classification accuracy. A performance comparison shows that the hierarchical paradigm exhibits higher classification accuracy than the row/column paradigm even with a smaller window size. Thus, the proposed hierarchical paradigm is more efficient to spell Hangul and will be more useful for BCI-based Hangul input for a text messenger, e-mail program, word processor and other similar applications. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 131?138, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Nezamfar, Hooman
+AU  - Orhan, Umut
+AU  - Purwar, Shalini
+AU  - Hild, Kenneth
+AU  - Oken, Barry
+AU  - Erdogmus, Deniz
+TI  - Decoding of multichannel EEG activity from the visual cortex in response to pseudorandom binary sequences of visual stimuli
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20288
+DO  - https://doi.org/10.1002/ima.20288
+SP  - 139
+EP  - 147
+KW  - steady state visual evoked potential
+KW  - brain computer interface
+KW  - m-sequence
+PY  - 2011
+AB  - Abstract Electroencephalography (EEG) signals have been an attractive choice to build noninvasive brain computer interfaces (BCIs) for nearly three decades. Depending on the stimuli, there are different responses which one could get from EEG signals. One of them is the P300 response which is a visually evoked response that has been widely studied. Steady state visually evoked potential (SSVEP) is the response to an oscillating stimulus with fixed frequency, which is detectable from the visual cortex. However, there exists some work on using an m-sequence with different lags as the control sequence of the flickering stimuli. In this study, we used several m-sequences instead of one with the intent of increasing the number of possible command options in a BCI setting. We also tested two different classifiers to decide between the m-sequences and study the performance of multi channel classifiers versus single channel classifiers. The study is done over two different flickering frequencies, 15 and 30 Hz to investigate the effect of flickering frequency on the accuracy of the classification methods. Our study shows that the EEG channels are correlated, and although all the channels contain some useful information, but combining them with a multi channel classifier based on the assumption of having conditional independence will not improve the classification accuracy. In addition, we were able to get reasonably good results using the 30 Hz flickering frequency comparing with 15 Hz flickering frequency that will give us the ability of having a shorter training and decision making time. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 139?147, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Gouy-Pailler, Cédric
+AU  - Sebag, Michèle
+AU  - Larue, Anthony
+AU  - Souloumiac, Antoine
+TI  - Single trial variability in brain–computer interfaces based on motor imagery: Learning in the presence of labeling noise
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20285
+DO  - https://doi.org/10.1002/ima.20285
+SP  - 148
+EP  - 157
+KW  - brain–computer interfaces
+KW  - single trial variability
+KW  - spatial filtering
+KW  - classification
+KW  - motor imagery
+PY  - 2011
+AB  - Abstract This article addresses the issue of learning efficient linear spatial filters and a classification function to match noninvasive electroencephalographic (EEG) signals to motor imagery tasks voluntarily performed by the subjects. The new perspective used in this article consists in releasing the widely accepted hypothesis stating that motor tasks-related brain activities should have similar time course across trials. This work proposes a learning model that takes into account two previously unconsidered sources of variability. First, the time course of the subject's brain activity, while performing a motor imagery task, will be considered as a trial-dependent variable. This means that the optimal time, defined as an amount of time after the trial cue, chosen to determine the task performed by the subject might be different between distinct trials. The second released hypothesis deals with the spectral discriminative brain response. Although usual learning methods do not allow any dependency between the optimal discriminative time and frequency bands, our model takes into account this possible source of variability. Therefore, the brain response in distinct frequency bands, e.g., in the mu band or beta band, could be used by the decision function at distinct instants. Based on this underlying enhanced model, we propose a two-step procedure. In the first step, the algorithm carefully analyzes, using cross-validation techniques, the training data to identify previously mentioned sources of variability. In the second step, the enhanced frequency-dependent linear spatial filters and the classification function are determined. As by-products of this analysis, substantial piece of knowledge about motor imagery is provided. First, the method allows the identification and quantification of labeling noise in brain?computer interfaces (BCIs) based on motor imagery. Second, the algorithm gives a comparative estimation of the spectral time courses during motor imagery. This article makes an extensive use of the dataset I of BCI Competition IV, which took place in 2008. It consists of a training set and a test set of 59 EEG signals recording on four subjects while performing an asynchronous BCI experiment. The two-step procedure presented in this article is shown to significantly outperform a comparative naive approach. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 148?157, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Shaomin
+AU  - Liao, Yuxi
+AU  - Zheng, Xiaoxiang
+AU  - Chen, Weidong
+AU  - Wang, Yiwen
+TI  - Decoding the nonstationary neural activity in motor cortex for brain machine interfaces
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20281
+DO  - https://doi.org/10.1002/ima.20281
+SP  - 158
+EP  - 164
+KW  - brain machine interfaces (BMIs)
+KW  - motor cortex
+KW  - non-stationary
+KW  - general regression neural network (GRNN)
+PY  - 2011
+AB  - Abstract Previous decoding algorithms used in brain machine interfaces (BMIs) usually seek a static functional mapping between the spatio-temporal neural activity and behavior and assume that the neural spike statistics do not change over time. However, recent work indicates the significant variance in neural activities, which suggests the nonfeasibility of the stationary assumptions on the neural signal sequences. To track the time-changing neural activity during the nonlinear decoding process, we developed a time-varying approach based on general regression neural network (GRNN) with a dynamic pattern layer. Applied on both simulated neural activity and in vivo BMI data extracted from rat's motor cortex, the proposed method reconstructs the movement signals better than the original GRNN algorithm with static pattern layer, which raises the promise of successfully tracking the time-varying neural activity for BMIs decoding. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 158?164, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Shaomin
+AU  - Jiang, Bo
+AU  - Zhu, Junming
+AU  - Zhang, Qiaosheng
+AU  - Chen, Weidong
+AU  - Zheng, Xiaoxiang
+AU  - Zhao, Ting
+TI  - A study on combining local field potential and single unit activity for better neural decoding
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20287
+DO  - https://doi.org/10.1002/ima.20287
+SP  - 165
+EP  - 172
+KW  - brain-machine interface
+KW  - local field potential
+KW  - single-unit activity
+KW  - neural decoding
+KW  - time-frequency domain
+PY  - 2011
+AB  - Abstract Recent studies showed that the local field potential (LFP) in motor cortex carries information about parameters of limb movements and could be used as a candidate neural signal in brain-machine interfaces to control external devices. However, it is yet to be clear how much information LFP can offer and how it can be effectively used in BMIs. In this article, we systematically evaluated the decoding performance of combining LFP and single-unit activity (SUA) from the primary motor cortex of rats performing the lever-pressing task. The results showed that the decoding power could be significantly improved by combining SUA and LFP in the time-frequency mode, which is based on the separation of LFP into multiple frequency bands. Furthermore, we found that using all frequency bands might be the best choice because it yielded better or no significantly worse results than using low or high frequency bands only. This implies that different frequency components of LFP carry different information. Moreover, we demonstrated that the combination could stabilize the decoding performance even if SUA disappears over time. These results suggest that the different frequency components in the LFP play different roles in kinematics decoding and the combination of LFPs and SUA could be a promising strategy for improving neural decoding in brain-machine interfaces.? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 165?172, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Filipovych, Roman
+AU  - Wang, Ying
+AU  - Davatzikos, Christos
+TI  - Pattern analysis in neuroimaging: Beyond two-class categorization
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20280
+DO  - https://doi.org/10.1002/ima.20280
+SP  - 173
+EP  - 178
+KW  - high-dimensional pattern analysis
+KW  - clustering
+KW  - pattern regression
+KW  - MRI
+KW  - aging
+KW  - MCI
+KW  - Alzheimer's disease
+PY  - 2011
+AB  - Abstract One of the many advantages of multivariate pattern recognition approaches over conventional mass-univariate group analysis using voxel-wise statistical tests is their potential to provide highly sensitive and specific markers of diseases on an individual basis. However, a vast majority of imaging problems addressed by pattern recognition are viewed from the perspective of a two-class classification. In this article, we provide a summary of selected works that propose solutions to biomedical problems where the widely-accepted classification paradigm is not appropriate. These pattern recognition approaches address common challenges in many imaging studies: high heterogeneity of populations and continuous progression of diseases. We focus on diseases associated with aging and propose that clustering-based approaches may be more suitable for disentanglement of the underlying heterogeneity, while high-dimensional pattern regression methodology is appropriate for prediction of continuous and gradual clinical progression from magnetic resonance brain images. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 173?178, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Ulaş, Aydın
+AU  - Duin, Robert P.W.
+AU  - Castellani, Umberto
+AU  - Loog, Marco
+AU  - Mirtuono, Pasquale
+AU  - Bicego, Manuele
+AU  - Murino, Vittorio
+AU  - Bellani, Marcella
+AU  - Cerruti, Stefania
+AU  - Tansella, Michele
+AU  - Brambilla, Paolo
+TI  - Dissimilarity-based detection of schizophrenia
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20279
+DO  - https://doi.org/10.1002/ima.20279
+SP  - 179
+EP  - 192
+KW  - schizophrenia detection
+KW  - dissimilarity-based classification
+KW  - structural MRI
+KW  - diffusion-weighted imaging
+PY  - 2011
+AB  - Abstract In this article, a novel approach to schizophrenia classification using magnetic resonance images (MRI) is proposed. The presented method is based on dissimilarity-based classification techniques applied to morphological MRIs and diffusion-weighted images (DWI). Instead of working with features directly, pairwise dissimilarities between expert delineated regions of interest (ROIs) are considered as representations based on which learning and classification can be performed. Experiments are carried out on a set of 59 patients and 55 controls and several pairwise dissimilarity measurements are analyzed. We demonstrate that significant improvements can be obtained when combining over different ROIs and different dissimilarity measures. We show that combining ROIs using the dissimilarity-based representation, we achieve higher accuracies. The dissimilarity-based representation outperforms the feature-based representation in all cases. Best results are obtained by combining the two modalities. In summary, our contribution is threefold: (i) We introduce the usage of dissimilarity-based classification to schizophrenia detection and show that dissimilarity-based classification achieves better results than normal features, (ii) We use dissimilarity combination to achieve better accuracies when carefully selected ROIs and dissimilarity measures are considered, and (iii) We show that by combining multiple modalities we can achieve even better results. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 179?192, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Jeon, Seun
+AU  - Yoon, Uicheul
+AU  - Park, Jun-Sung
+AU  - Seo, Sang Won
+AU  - Kim, Jung-Hyun
+AU  - Kim, Sung Tae
+AU  - Kim, Sun I.
+AU  - Na, Duk L.
+AU  - Lee, Jong-Min
+TI  - Fully automated pipeline for quantification and localization of white matter hyperintensity in brain magnetic resonance image
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20277
+DO  - https://doi.org/10.1002/ima.20277
+SP  - 193
+EP  - 200
+KW  - magnetic resonance imaging
+KW  - white matter hyperintensity segmentation
+KW  - regional parcellation
+KW  - intensity-substitution
+PY  - 2011
+AB  - Abstract Automated white matter hyperintensity (WMH) segmentation on magnetic resonance imaging is greatly advantageous for various clinical studies using large-sample data. Accurate localization of WMH can provide more beneficial information for clinical studies, as differences of regional WMH existence may be linked to clinical symptoms. We suggest a fully automated method for WMH quantification and localization without human interaction using T1-weighted and fluid-attenuated inversion-recovery (FLAIR) images. The known sources of false-positive results in the subarachnoid space and brain-cerebrospinal fluid (CSF) interface were removed by applying a WMH candidate-region mask. WMH segmentation was performed based on the Markov random field model. The intensity-substitution method was developed for the accurate localization of WMH, with proper tissue classification and nonlinear registration. The performance of the method was evaluated via comparison with manual delineation; the similarity index and the overlap ratio were 89.94 and 81.90, respectively. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 193?200, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Kalberlah, Christian
+AU  - Chen, Yi
+AU  - Heinzle, Jakob
+AU  - Haynes, John-Dylan
+TI  - Beyond topographic representation: Decoding visuospatial attention from local activity patterns in the human frontal cortex
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20278
+DO  - https://doi.org/10.1002/ima.20278
+SP  - 201
+EP  - 210
+KW  - fMRI
+KW  - multivoxel pattern analysis
+KW  - visuospatial attention
+KW  - human frontal cortex
+PY  - 2011
+AB  - Abstract The ability to detect where a person is attending is fundamental for brain-computer-interfaces. We explore how the attentional focus can be decoded from brain signals noninvasively acquired with functional magnetic resonance imaging (fMRI). Several cortical regions have previously been reported to have topographic maps reflecting the focus of visual attention. Interestingly, attentional maps were observed to be gradually less topographic when moving from early visual areas toward extra-occipital areas. Recent studies suggested that this might indicate a shift from topographically represented local processing to a global processing dominated by laterality. However, it remains unclear, to which extent the topographical representation of a region characterizes its quality to encode visuospatial attention. Here we addressed this problem by applying multivoxel pattern analysis to fMRI signals. In combination with a cortical surface-based mapping of spatial preference, our analysis revealed a broad cortical network that locally contains information about the locus of visual attention. The informative regions are not restricted to topographic areas, but even in frontal areas, where topographic organization is almost indiscernible, the attentional locus can be decoded from brain activity. Specifically, we find attentional information in the right middle frontal gyrus and the right ventrolateral prefrontal cortex. Furthermore, in these two areas information is sufficient to distinguish attentional loci within the ipsi- as well as the contra-lateral visual hemifields. The laterality dominance decreases when moving from occipital to frontal areas. Our results suggest that information about visuospatial attention is encoded beyond topographically organized regions by local patterns of brain activity. VVC 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 201?210, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Jong-Hwan
+AU  - Hashimoto, Ryuichiro
+AU  - Wible, Cynthia G.
+AU  - Yoo, Seung-Schik
+TI  - Investigation of spectrally coherent resting-state networks using non-negative matrix factorization for functional MRI data
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20276
+DO  - https://doi.org/10.1002/ima.20276
+SP  - 211
+EP  - 222
+KW  - resting-state networks
+KW  - default-mode network
+KW  - effective connectivity
+KW  - functional connectivity
+KW  - fMRI
+KW  - nonnegative matrix factorization
+KW  - spontaneous brain activity
+PY  - 2011
+AB  - Abstract Spontaneous fluctuations of the functional magnetic resonance imaging (fMRI) signal during the resting state have been characterized by the dominant spectral components in the low-frequency (<0.1 Hz) range. Although previous studies have reported the spatial patterns of activity of the resting-state network (RSN), the frequency-dependent characteristics (i.e., spectral coherence) of the resting state activity have not been fully investigated. This article describes the novel application of a non-negative matrix factorization (NMF) algorithm to the decomposition of the magnitude spectra of fMRI time-series into distinct spectral components. From the fMRI data of healthy volunteers during the resting state, the frequency-specific components were decomposed into five basis functions. Group analysis revealed five different spatial patterns associated with these basis functions, in which each of the spatial patterns may correspond to a distinct spectrally coherent RSN. The RSN with the lowest center frequency showed a similar spatial pattern to the ?default-mode? network, which involves the medial superior and middle frontal cortex along with the posterior cingulate cortex. On the other hand, RSNs with higher frequencies were observed mainly in several posterior regions of the brain including the precuneus and lingual gyrus. Subsequent Granger causality analysis demonstrated that these posterior regions may function as the ?hubs? of the RSNs, whereas the anterior regions, including the medial superior and middle frontal cortex, may be characterized as ?peripheries? of the network. Our proposed analysis scheme provides supplemental information on both spectral and temporal characteristics of the RSNs, which might be used in a range of applications, including those involving clinical populations. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 2117?222, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Anderson, Ariana
+AU  - Bramen, Jennifer
+AU  - Douglas, Pamela K.
+AU  - Lenartowicz, Agatha
+AU  - Cho, Andrew
+AU  - Culbertson, Chris
+AU  - Brody, Arthur L.
+AU  - Yuille, Alan L.
+AU  - Cohen, Mark S.
+TI  - Large sample group independent component analysis of functional magnetic resonance imaging using anatomical atlas-based reduction and bootstrapped clustering
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20286
+DO  - https://doi.org/10.1002/ima.20286
+SP  - 223
+EP  - 231
+KW  - fMRI
+KW  - group ICA
+KW  - bagging
+KW  - clustering
+KW  - bootstrap
+PY  - 2011
+AB  - Abstract Independent component analysis (ICA) is a popular method for the analysis of functional magnetic resonance imaging (fMRI) signals that is capable of revealing connected brain systems of functional significance. To be computationally tractable, estimating the independent components (ICs) inevitably requires one or more dimension reduction steps. Whereas most algorithms perform such reductions in the time domain, the input data are much more extensive in the spatial domain, and there is broad consensus that the brain obeys rules of localization of function into regions that are smaller in number than the number of voxels in a brain image. These functional units apparently reorganize dynamically into networks under different task conditions. Here we develop a new approach to ICA, producing group results by bagging and clustering over hundreds of pooled single-subject ICA results that have been projected to a lower-dimensional subspace. Averages of anatomically based regions are used to compress the single subject-ICA results prior to clustering and resampling via bagging. The computational advantages of this approach make it possible to perform group-level analyses on datasets consisting of hundreds of scan sessions by combining the results of within-subject analysis, while retaining the theoretical advantage of mimicking what is known of the functional organization of the brain. The result is a compact set of spatial activity patterns that are common and stable across scan sessions and across individuals. Such representations may be used in the context of statistical pattern recognition supporting real-time state classification. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 223?231, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Min, Byoung-Kyong
+AU  - Yang, Po Song
+AU  - Bohlke, Mark
+AU  - Park, Shinsuk
+AU  - R.Vago, David
+AU  - Maher, Timothy J.
+AU  - Yoo, Seung-Schik
+TI  - Focused ultrasound modulates the level of cortical neurotransmitters: Potential as a new functional brain mapping technique
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 21
+IS  - 2
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.20284
+DO  - https://doi.org/10.1002/ima.20284
+SP  - 232
+EP  - 240
+KW  - ultrasound
+KW  - sonication
+KW  - microdialysis
+KW  - high-performance liquid chromatography
+KW  - neuromodulation
+KW  - dopamine
+KW  - serotonin
+PY  - 2011
+AB  - Abstract Regional modulation of the level of cortical neurotransmitters in the brain would serve as a new functional brain mapping technique to interrogate the neurochemical actions of the brain. We investigated the utility of the application of low-intensity, pulsed sonication of focused ultrasound (FUS) to the brain to modulate the extracellular level of dopamine (DA) and serotonin (5-HT). FUS was delivered to the thalamic areas of rats, and extracellular DA and 5-HT were sampled from the frontal lobe using the microdialysis technique. The concentration changes of the sampled DA and 5-HT were measured through high-performance liquid chromatography. We observed a significant increase of the extracellular concentrations of DA and 5-HT in the FUS-treated group as compared with those in the unsonicated group. Our results provide the first direct evidence that FUS sonication alters the level of extracellular concentration of these monoamine neurotransmitters and has a potential modulatory effect on their local release, uptake, or degradation. Our findings suggest that the pulsed application of FUS offers new perspectives for a possible noninvasive modulation of neurotransmitters and may have diagnostic as well as therapeutic implications for DA/5-HT-mediated neurological and psychiatric disorders. ? 2011 Wiley Periodicals, Inc. Int J Imaging Syst Technol, 21, 232?240, 2011
+ER  - 
