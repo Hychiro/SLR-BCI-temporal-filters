@@ -11,14 +11,17 @@ o processo posteriormente, se necessário.
 import pandas as pd
 import os
 
-REFERENCE_FILE = "C:/Users/Hychiro/Documents/Mestrado/Mestrado/Mestrado/Review/SLR-BCI-temporal-filters/structured_data/dataframe_completo_sem_duplicatas.csv"
-OUTPUT_FILE = "C:/Users/Hychiro/Documents/Mestrado/Mestrado/Mestrado/Review/SLR-BCI-temporal-filters/structured_data/firstStepOutput.csv"
+REFERENCE_FILE = "C:/Users/Hychiro/Documents/Mestrado/Mestrado/Mestrado/Review/SLR-BCI-temporal-filters/structured_data/firstStepOutput.csv"
+OUTPUT_FILE = "C:/Users/Hychiro/Documents/Mestrado/Mestrado/Mestrado/Review/SLR-BCI-temporal-filters/structured_data/secondStepOutput.csv"
 
 
 def load_data():
     print("Carregando dados...")
     ref_df = pd.read_csv(REFERENCE_FILE)
-
+    # pegar apenas aqueles cujo statos seja "passou" ou "depende"
+    ref_df = ref_df[ref_df["Status"].isin(["passou", "depende"])]
+    # ordenar por status, dando prioridade para os "depende"
+    ref_df = ref_df.sort_values(by="Status", ascending=True)
     if os.path.exists(OUTPUT_FILE):
         out_df = pd.read_csv(OUTPUT_FILE)
     else:
@@ -42,12 +45,11 @@ def get_pending_articles(ref_df, out_df):
     pending = ref_df[~ref_df["Titulo"].isin(processed_titles)]
     return pending
 
-def ask_user(len_pending, title, source, columns):
+def ask_user(title, source, columns):
     
     result = ""
     anotation = ""
     print("\n==============================")
-    print(f"Artigos pendentes: {len_pending}")
     print(f"Título do artigo:\n{title}")
     print(f"Fonte: {source}")
     print("==============================")
@@ -85,17 +87,16 @@ def ask_user(len_pending, title, source, columns):
     status = ""
     if responseList[0] == "nao_passou" and responseList[1] == "nao_passou" and responseList[2] == "nao_passou":
         status = "nao_passou"
-    elif responseList[0] == "passou" and responseList[1] == "passou" and (responseList[2] == "passou" or responseList[2] == "depende"):
+    elif responseList[0] == "passou" and responseList[1] == "passou" and responseList[2] == "passou":
         if responseList[3] == "nao_passou" or responseList[4] == "nao_passou" or responseList[5] == "nao_passou":
             status = "depende"
         elif responseList[3] == "depende" or responseList[4] == "depende" or responseList[5] == "depende":
             status = "depende"
         else:
             status = "passou"
-    status2 = input("Artigo em inglês? (s/n/d): ").strip().lower()
-    if status2 in ["n", "nao", "não"]:
+    status = input("Artigo em inglês? (s/n/d): ").strip().lower()
+    if status in ["n", "nao", "não"]:
         status = "nao_passou"
-
     anotation = input("Anotação (opcional): ").strip()
     return status, responseList, anotation
 
@@ -105,17 +106,16 @@ def save_progress(out_df):
 def main():
     ref_df, out_df = load_data()
     pending = get_pending_articles(ref_df, out_df)
-    len_pending = len(pending)
-    print(f"{len_pending} artigos pendentes.\n")
-    
+
+    print(f"{len(pending)} artigos pendentes.\n")
     columns = out_df.columns.to_list()
     columns = [col for col in columns if col not in ["Titulo", "Fonte","Status","Anotation","Autores","Ano de Publicacao"]]
     for _, row in pending.iterrows():
         title = row["Titulo"]
         source = row["Fonte"]
         
-        status, responseList, anotation = ask_user(len_pending,title, source, columns)
-        len_pending -= 1
+        status, responseList, anotation = ask_user(title, source, columns)
+
 
         new_row = ref_df.loc[ref_df["Titulo"] == title].iloc[0].to_dict()
 
