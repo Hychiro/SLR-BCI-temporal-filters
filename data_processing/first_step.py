@@ -83,15 +83,18 @@ def ask_user(len_pending, title, source, columns):
                 print("Resposta inválida. Digite 's', 'n' ou 'd'.")
         responseList.append(result)
     status = ""
-    if responseList[0] == "nao_passou" and responseList[1] == "nao_passou" and responseList[2] == "nao_passou":
+    if responseList[0] == "nao_passou" or responseList[1] == "nao_passou" or responseList[2] == "nao_passou":
         status = "nao_passou"
-    elif responseList[0] == "passou" and responseList[1] == "passou" and (responseList[2] == "passou" or responseList[2] == "depende"):
+    elif responseList[0] == "passou" and responseList[1] == "passou" and responseList[2] == "passou":
         if responseList[3] == "nao_passou" or responseList[4] == "nao_passou" or responseList[5] == "nao_passou":
             status = "depende"
         elif responseList[3] == "depende" or responseList[4] == "depende" or responseList[5] == "depende":
             status = "depende"
         else:
             status = "passou"
+    elif responseList[0] == "depende" or responseList[1] == "depende" or responseList[2] == "depende":
+            status = "depende"
+    
     status2 = input("Artigo em inglês? (s/n/d): ").strip().lower()
     if status2 in ["n", "nao", "não"]:
         status = "nao_passou"
