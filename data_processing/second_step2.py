@@ -65,12 +65,18 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
             elif criteria == "MI" :
                 string = "O artigo envolve o paradigma de MI?"
             elif criteria == "Classification" :
-                string = "O artigo envolve paradigma de classificação ?"
+                string = "O artigo envolve paradigma de classificação?"
             elif criteria == "Model/pipeline" :
                 string = "O artigo envolve o uso de um modelo/pipeline completo de ML?"
             elif criteria == "Temporal_filter" :
                 string = "O artigo aparenta explicitamente ter o uso de" \
-                " filtros temporais como filtros temporais?"
+                " filtros temporais como filtros temporais?\n" \
+                "Ou seja, atua: " \
+                "\n- Removing noise and unwanted fluctuations" \
+                "\n- Smoothing the signal" \
+                "\n- Selecting important frequency ranges (1 or more, thus including filterbank types)" \
+                "\n- Reducing errors and artifacts" \
+                "\n- Highlighting relevant temporal patterns or changes" 
             print(f"\n{string}")
             response = input("Passou? (s/n/d): ").strip().lower()
             if response in ["s", "sim"]:
@@ -85,25 +91,16 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
             else:
                 print("Resposta inválida. Digite 's', 'n' ou 'd'.")
         responseList.append(result)
-    status = ""
-    if responseList[0] == "nao_passou" or responseList[1] == "nao_passou" or responseList[2] == "nao_passou":
-        status = "nao_passou"
-    elif responseList[0] == "passou" and responseList[1] == "passou" and responseList[2] == "passou":
-        if responseList[3] == "nao_passou" or responseList[4] == "nao_passou" or responseList[5] == "nao_passou":
-            status = "depende"
-        elif responseList[3] == "depende" or responseList[4] == "depende" or responseList[5] == "depende":
-            status = "depende"
-        else:
-            status = "passou"
-    elif responseList[0] == "depende" or responseList[1] == "depende" or responseList[2] == "depende":
-            status = "depende"
-    
+    new_status = ""
+    status2 = ""
+    if responseList[0] == "nao_passou" or responseList[1] == "nao_passou" or responseList[2] == "nao_passou" or responseList[3] == "nao_passou" or responseList[4] == "nao_passou" or responseList[5] == "nao_passou":
+        new_status = "nao_passou"
     status2 = input("Artigo em inglês? (s/n/d): ").strip().lower()
     if status2 in ["n", "nao", "não"]:
-        status = "nao_passou"
+        new_status = "nao_passou"
 
     new_anotation = input("Anotação (opcional): ").strip()
-    return status, responseList, new_anotation
+    return new_status, responseList, new_anotation
 
 def save_progress(out_df):
     out_df.to_csv(OUTPUT_FILE, index=False)

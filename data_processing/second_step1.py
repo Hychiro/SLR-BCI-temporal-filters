@@ -35,19 +35,35 @@ def get_pending_articles(ref_df, out_df):
     pending = ref_df[~ref_df["Titulo"].isin(processed_titles)]
     return pending
 
-def ask_user(title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter):
+def verifiy_pdf(title):
+    while True:
+        response = input("Baixou? (s/n/d): ").strip().lower()
+        if response in ["s", "sim"]:
+            return "passou"
+        elif response in ["n", "nao", "não"]:
+            return "nao_passou"
+        elif response in ["d", "duvida"]:
+            return "duvida"
+        else:
+            print("Resposta inválida. Digite 's', 'n' ou 'd'.")
+
+def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter):
     
     result = ""
     while True:
         print("\n==============================")
+        print(f"Artigos pendentes: {len_pending}")
         print(f"Título do artigo:\n{title}")
         print(f"Fonte: {source}")
         print("Classificação atual:")
         print(f"Status: {status} | EEG: {eeg} | BCI: {bci} | MI: {mi} | Classification: {classification} | Model/pipeline: {model_pipeline} | Temporal_filter: {temporal_filter}")
         print("==============================")
-        response = input("Baixou? (s/n/d): ").strip().lower()
+        response = input("Baixou? (s/n): ").strip().lower()
         if response in ["s", "sim"]:
                 result = "passou"
+                break
+        elif response in ["n", "nao", "não"]:
+                result = "nao_passou"
                 break
         
     return result
@@ -58,8 +74,9 @@ def save_progress(out_df):
 def main():
     ref_df, out_df = load_data()
     pending = get_pending_articles(ref_df, out_df)
+    len_pending = len(pending)
+    print(f"{len_pending} artigos pendentes.\n")
 
-    print(f"{len(pending)} artigos pendentes.\n")
     columns = out_df.columns.to_list()
     columns = [col for col in columns if col not in ["Titulo", "Fonte","Status","Anotation","Autores","Ano de Publicacao"]]
     for _, row in pending.iterrows():
@@ -72,8 +89,8 @@ def main():
         classification = row["Classification"]
         model_pipeline = row["Model/pipeline"]
         temporal_filter = row["Temporal_filter"]
-        
-        result = ask_user(title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter)
+        len_pending -= 1
+        result = ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter)
 
 
         new_row = ref_df.loc[ref_df["Titulo"] == title].iloc[0].to_dict()
