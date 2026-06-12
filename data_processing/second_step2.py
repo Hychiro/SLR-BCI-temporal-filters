@@ -31,6 +31,10 @@ def load_data():
         columns.append("Model/pipeline")
         columns.append("Temporal_filter")
         columns.append("Anotation")
+        columns.append("Objective")
+        columns.append("Model_used")
+        columns.append("Temporal_filters_used")
+        columns.append("Datasets_used")
         out_df = pd.DataFrame(columns=columns)
 
 
@@ -102,6 +106,36 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
     new_anotation = input("Anotação (opcional): ").strip()
     return new_status, responseList, new_anotation
 
+def second_ask_user(title, columns):
+    
+    
+    print("\n==============================")
+    print("Continuando classificação do artigo")
+    print(f"Título do artigo:\n{title}")
+    print("==============================")
+    responseList = []
+    for criteria in columns:
+        string = ""
+        result = ""
+        while True:
+            if criteria == "Objective" :
+                string = "Qual o objetivo do artigo?"
+            elif criteria == "Model_used" :
+                string = "Qual o modelo usado no artigo?"
+            elif criteria == "Temporal_filters_used" :
+                string = "Quais os filtros temporais utilizados (separar por virgula)?"
+            elif criteria == "Datasets_used" :
+                string = "Quais os datasets utilizados (separar por virgula)?"
+            print(f"\n{string}")
+            result = input().strip().lower()
+            if result is not "":
+                break
+            elif result == "":
+                print("Resposta inválida.")
+        responseList.append(result)
+    return responseList
+
+
 def save_progress(out_df):
     out_df.to_csv(OUTPUT_FILE, index=False)
 
@@ -113,6 +147,9 @@ def main():
     
     columns = out_df.columns.to_list()
     columns = [col for col in columns if col not in ["Titulo", "Fonte","Status","Anotation","Autores","Ano de Publicacao"]]
+    # separar as ultimas 4 colunas para a segunda etapa
+    columns1 = columns[:6]
+    columns2 = columns[6:]
     for _, row in pending.iterrows():
         title = row["Titulo"]
         source = row["Fonte"]
@@ -124,10 +161,14 @@ def main():
         model_pipeline = row["Model/pipeline"]
         temporal_filter = row["Temporal_filter"]
         anotation = row["Anotation"]
-        
-        status, responseList, new_anotation = ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter, anotation, columns)
+        responseList = []
+        responseList2 = []
+        status, responseList, new_anotation = ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter, anotation, columns1)
         len_pending -= 1
-
+        if status == "passou":
+            responseList2 = second_ask_user(title, columns2)
+        else:
+            responseList2 = ["-"] * 4
         new_row = ref_df.loc[ref_df["Titulo"] == title].iloc[0].to_dict()
 
         new_row["Status"] = status
@@ -138,6 +179,10 @@ def main():
         new_row["Classification"] = responseList[3]
         new_row["Model/pipeline"] = responseList[4]
         new_row["Temporal_filter"] = responseList[5]
+        new_row["Objective"] = responseList2[0]
+        new_row["Model_used"] = responseList2[1]
+        new_row["Temporal_filters_used"] = responseList2[2]
+        new_row["Datasets_used"] = responseList2[3]
 
         new_row = pd.DataFrame([new_row])
 

@@ -48,7 +48,6 @@ def verifiy_pdf(title):
             print("Resposta inválida. Digite 's', 'n' ou 'd'.")
 
 def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter):
-    
     result = ""
     while True:
         print("\n==============================")
@@ -60,12 +59,12 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
         print("==============================")
         response = input("Baixou? (s/n): ").strip().lower()
         if response in ["s", "sim"]:
-                result = "passou"
-                break
+            result = "passou"
+            break
         elif response in ["n", "nao", "não"]:
-                result = "nao_passou"
-                break
-        
+            result = "nao_passou"
+            break
+
     return result
 
 def save_progress(out_df):
