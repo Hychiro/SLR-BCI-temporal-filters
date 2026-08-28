@@ -23,14 +23,11 @@ def load_data():
         out_df = pd.read_csv(OUTPUT_FILE)
     else:
         columns = ref_df.columns.to_list()
-        columns.append("Status")
-        columns.append("EEG")
-        columns.append("BCI")
-        columns.append("MI")
-        columns.append("Classification")
-        columns.append("Model/pipeline")
-        columns.append("Temporal_filter")
-        columns.append("Anotation")
+        #put colum review_survey after status
+        columns.append("Review_Survey")
+        change_index = columns.index("Status")
+        columns.insert(change_index + 1, columns.pop(columns.index("Review_Survey")))
+        print(columns)
         columns.append("Objective")
         columns.append("Model_used")
         columns.append("Temporal_filters_used")
@@ -62,19 +59,33 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
     for criteria in columns:
         string = ""
         while True:
+            if criteria == "Review_Survey" :
+                string = "O artigo é uma review ou survey da area? Se for, vale a pena considerar."\
+                "O que caracteriza como survey ou review da área? Fala de EEG,BCI,MI ou muitas " \
+                "areas ao mesmo tempo desde que tenha MI, Metodos/Modelos) (focar na ideologia)"
             if criteria == "EEG" :
-                string = "O artigo envolve o uso de EEG?"
+                string = "os dados coletados ou o dataset desses dados é de origem de EEG? Os dados " \
+                "devem ser puros na classificação, ou seja não ser dado hybrido de EEG+outra fonte de coleta."
             elif criteria == "BCI" :
-                string = "O artigo envolve o uso de BCI?"
+                string = "é uma aplicação de BCI ou só usa isso de referencia pra outro trabalho?"
             elif criteria == "MI" :
-                string = "O artigo envolve o paradigma de MI?"
+                string = "o artigo fala sobre motor imagery como proposito de paradigma a ser trabalhado?" \
+                " É um paradigma misto que envolve MI ? Se for misto verificar se existe uma separação clara " \
+                "dos paradigmas em datasets pois ai ao menos um dos datasets poderá ser trabalhado como MI." \
+                " Verificar se a classificação permanece pura também para comparação na SLR."
             elif criteria == "Classification" :
-                string = "O artigo envolve paradigma de classificação?"
+                string = "ocorre a classificação  das tarefas obtidas da coleta? Os dados são só de BCI MI?" \
+                " Está claro como foi feita a comparação das classes? Se o artigo não explicita com o que é feita " \
+                "a comparação e nem como é feita a comparação pode cortar o artigo."
             elif criteria == "Model/pipeline" :
-                string = "O artigo envolve o uso de um modelo/pipeline completo de ML?"
+                string = "Existem metodos ou etapas a serem aplicados para o processamento dos dado (como por exemplo sequencia de camadas de redes neurais)?"
             elif criteria == "Temporal_filter" :
-                string = "O artigo aparenta explicitamente ter o uso de" \
-                " filtros temporais como filtros temporais?\n" \
+                string = "existe algum filtro temporal presente na sequencia do pipeline?"\
+                "O modelo tem integrado um filtro temporal? É possivel separar o filtro do modelo?"\
+                "Saber o filtro é o mais importante para poder depois discutir na SLR sua funcionalidade,"\
+                "classificação e proposito. Não ficando clara, seja por não especificação do autor, seja por"\
+                "dificuldade interpretativa do revisor (eu) separar esse paper a parte com um depende e depois" \
+                "voltar revisão os artigos daqui 1 a 1.\n" \
                 "Ou seja, atua: " \
                 "\n- Removing noise and unwanted fluctuations" \
                 "\n- Smoothing the signal" \
@@ -82,12 +93,12 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
                 "\n- Reducing errors and artifacts" \
                 "\n- Highlighting relevant temporal patterns or changes" 
             print(f"\n{string}")
-            response = input("Passou? (s/n/d): ").strip().lower()
+            response = input("Passou? (s/n): ").strip().lower()
             if response in ["s", "sim"]:
-                result = "passou"
+                result = "sim"
                 break
             elif response in ["n", "nao", "não"]:
-                result = "nao_passou"
+                result = "nao"
                 break
             elif response in ["d", "depende"]:
                 result = "depende"
@@ -97,11 +108,13 @@ def ask_user(len_pending, title, source, status, eeg, bci, mi, classification, m
         responseList.append(result)
     new_status = ""
     status2 = ""
-    if responseList[0] == "nao_passou" or responseList[1] == "nao_passou" or responseList[2] == "nao_passou" or responseList[3] == "nao_passou" or responseList[4] == "nao_passou" or responseList[5] == "nao_passou":
-        new_status = "nao_passou"
-    status2 = input("Artigo em inglês? (s/n/d): ").strip().lower()
+    if  responseList[1] == "nao" or responseList[2] == "nao" or responseList[3] == "nao" or responseList[4] == "nao" or responseList[5] == "nao" or responseList[6] == "nao":
+        new_status = "nao"
+    else:
+        new_status = "sim"
+    status2 = input("Artigo em inglês? (s/n): ").strip().lower()
     if status2 in ["n", "nao", "não"]:
-        new_status = "nao_passou"
+        new_status = "nao"
 
     new_anotation = input("Anotação (opcional): ").strip()
     return new_status, responseList, new_anotation
@@ -125,13 +138,13 @@ def second_ask_user(title, columns):
             elif criteria == "Temporal_filters_used" :
                 string = "Quais os filtros temporais utilizados (separar por virgula)?"
             elif criteria == "Datasets_used" :
-                string = "Quais os datasets utilizados (separar por virgula)?"
+                string = "Quais os datasets utilizados (separar por virgula e colocar a media para cada um)?"
             print(f"\n{string}")
             result = input().strip().lower()
-            if result is not "":
-                break
-            elif result == "":
+            if result == "":
                 print("Resposta inválida.")
+            else:
+                break
         responseList.append(result)
     return responseList
 
@@ -147,9 +160,8 @@ def main():
     
     columns = out_df.columns.to_list()
     columns = [col for col in columns if col not in ["Titulo", "Fonte","Status","Anotation","Autores","Ano de Publicacao"]]
-    # separar as ultimas 4 colunas para a segunda etapa
-    columns1 = columns[:6]
-    columns2 = columns[6:]
+    columns1 = columns[:7]
+    columns2 = columns[-4:]
     for _, row in pending.iterrows():
         title = row["Titulo"]
         source = row["Fonte"]
@@ -165,7 +177,7 @@ def main():
         responseList2 = []
         status, responseList, new_anotation = ask_user(len_pending, title, source, status, eeg, bci, mi, classification, model_pipeline, temporal_filter, anotation, columns1)
         len_pending -= 1
-        if status == "passou":
+        if status == "sim":
             responseList2 = second_ask_user(title, columns2)
         else:
             responseList2 = ["-"] * 4
@@ -173,19 +185,20 @@ def main():
 
         new_row["Status"] = status
         new_row["Anotation"] = new_anotation
-        new_row["EEG"] = responseList[0]
-        new_row["BCI"] = responseList[1]
-        new_row["MI"] = responseList[2]
-        new_row["Classification"] = responseList[3]
-        new_row["Model/pipeline"] = responseList[4]
-        new_row["Temporal_filter"] = responseList[5]
+        new_row["Review_Survey"] = responseList[0]
+        new_row["EEG"] = responseList[1]
+        new_row["BCI"] = responseList[2]
+        new_row["MI"] = responseList[3]
+        new_row["Classification"] = responseList[4]
+        new_row["Model/pipeline"] = responseList[5]
+        new_row["Temporal_filter"] = responseList[6]
         new_row["Objective"] = responseList2[0]
         new_row["Model_used"] = responseList2[1]
         new_row["Temporal_filters_used"] = responseList2[2]
         new_row["Datasets_used"] = responseList2[3]
-
+  
         new_row = pd.DataFrame([new_row])
-
+  
         out_df = pd.concat([out_df, new_row], ignore_index=True)
 
         save_progress(out_df)
