@@ -15,10 +15,11 @@ OUTPUT_FILE2 = r"C:/Users/Hychiro/Documents/Mestrado/Mestrado/Mestrado/Review/SL
 
 
 COLUNAS1 = [
-    "Filter_type",
+    "Filter_type", # tipo e nome do filtro
     "Frequency",
     "Titulo",
     "Ano de Publicacao",
+    "Country"
 ]
 COLUNAS2 = [
     "Titulo",
@@ -27,6 +28,7 @@ COLUNAS2 = [
     "Ano de Publicacao",
     "Classes",
     "Resultados",
+    "Metrics_used"
 ]
 
 
@@ -83,6 +85,7 @@ def add_linha_F(
     df,
     filter_type,
     frequency,
+    country,
     article_name,
     tempo
 ):
@@ -90,6 +93,7 @@ def add_linha_F(
     nova_linha = {
         "Filter_type": filter_type,
         "Frequency": frequency,
+        "Country": country,
         "Titulo": article_name,
         "Ano de Publicacao": tempo
     }
@@ -100,9 +104,8 @@ def add_linha_F(
         [df, nova_linha_df],
         ignore_index=True
     )
-    print(len(df))
-    save_progress(df, OUTPUT_FILE1)
-    return df
+    df_final = save_progress(df, OUTPUT_FILE1)
+    return df_final
 
 def add_linha_D(
     df,
@@ -111,8 +114,8 @@ def add_linha_D(
     datasets_used,
     ano_publicacao,
     classes,
-    forma_treino_teste,
-    resultados
+    resultados,
+    metrics_used
 ):
     
     nova_linha = {
@@ -121,8 +124,8 @@ def add_linha_D(
         "Datasets_used": datasets_used,
         "Ano de Publicacao": ano_publicacao,
         "Classes": classes,
-        "Forma de Treino teste": forma_treino_teste,
         "Resultados": resultados,
+        "Metrics_used": metrics_used
     }
 
     nova_linha_df = pd.DataFrame([nova_linha])
@@ -131,8 +134,8 @@ def add_linha_D(
         [df, nova_linha_df],
         ignore_index=True
     )
-    save_progress(df, OUTPUT_FILE2)
-    return df
+    df_final = save_progress(df, OUTPUT_FILE2)
+    return df_final
 
 def get_pending_articles(ref_df, out_df_D, out_df_F):
     print("Verificando artigos pendentes...")
@@ -164,13 +167,15 @@ def ask_user(out_df_D, out_df_F, len_pending, anotation, title, source, year, te
         result = input().strip().lower()
         response = []
         if result in ["sim", "s"]:
-            for criteria in ["Filter_type","Frequency"]:
+            for criteria in ["Filter_type","Frequency","Country"]:
                 while True:
                     result2 = ""
                     if criteria == "Filter_type" :
                         string = "Qual o filtro do artigo?"
                     elif criteria == "Frequency" :
                         string = "Qual/is a/s frequencia/s usada/s?"
+                    elif criteria == "Country" :
+                        string = "Qual o país de origem do artigo?"
                     print(f"\n{string}")
                     result2 = input().strip().lower()
                     if result2 == "":
@@ -178,21 +183,18 @@ def ask_user(out_df_D, out_df_F, len_pending, anotation, title, source, year, te
                     else:
                         response.append(result2)
                         break
-            print("\n informações")
-            print(f"Filter_type: {response[0]}")
-            print(f"Frequency: {response[1]}")
-            print(f"Titulo: {title}")
-            print(f"Ano de Publicacao: {year}")
+            out_df_F = add_linha_F(
+                                out_df_F,
+                                filter_type=response[0],
+                                frequency=response[1],
+                                country=response[2],
+                                article_name=title,
+                                tempo=year
+                                )
+                    
         else:
             flag = False
 
-        out_df_F = add_linha_F(
-                    out_df_F,
-                    filter_type=response[0],
-                    frequency=response[1],
-                    article_name=title,
-                    tempo=year
-                    )
         
     ###################################################################################
 
@@ -202,16 +204,15 @@ def ask_user(out_df_D, out_df_F, len_pending, anotation, title, source, year, te
         result = input().strip().lower()
         response = []
         if result in ["sim", "s"]:
-            for criteria in ["Datasets_used","Classes","Resultados"]:
+            for criteria in ["Datasets_used","Classes","Metrics_used"]:
                 while True:
                     result2 = ""
                     if criteria == "Datasets_used":
                         string = "Qual o dataset utilizado?"
                     elif criteria == "Classes":
                         string = "Qual a quantidade de classes?"
-
-                    elif criteria == "Resultados":
-                        string = "Quais os resultados obtidos?" 
+                    elif criteria == "Metrics_used":
+                        string = "Qual(is) a(s) métrica(s) utilizada(s)?"
                     print(f"\n{string}")
                     result2 = input().strip().lower()
                     if result2 == "":
@@ -226,29 +227,25 @@ def ask_user(out_df_D, out_df_F, len_pending, anotation, title, source, year, te
                 datasets_used=response[0],
                 ano_publicacao=year,
                 classes=response[1],
-                forma_treino_teste=response[2],
-                resultados=response[3]
+                metrics_used=response[2],
+                resultados=datasets
             )
         else:
             flag = False
 
-        
-
-
-    print("\n informações")
-    add_linha_F
-    add_linha_D 
+    return out_df_D, out_df_F
 
 
 def save_progress(out_df, OUTPUT_FILE):
     out_df.to_csv(OUTPUT_FILE, index=False)
+    print("\n Progresso salvo.\n")
+    return out_df
 
 def main():
     ref_df, out_df_D, out_df_F = load_data()
     pending = get_pending_articles(ref_df, out_df_D, out_df_F)
     len_pending = len(pending)
     print(f"{len_pending} artigos pendentes.\n")
-    
     for _, row in pending.iterrows():
         title = row["Titulo"]
         source = row["Fonte"]
@@ -257,8 +254,9 @@ def main():
         temporal_filters  = row["Temporal_filters_used"]
         datasets = row["Datasets_used"]
         
-        ask_user(out_df_D, out_df_F,len_pending, anotation, title, source, year, temporal_filters, datasets)
-
+        out_df_D, out_df_F = ask_user(out_df_D, out_df_F,len_pending, anotation, title, source, year, temporal_filters, datasets)
+        len_pending -= 1
+    
     print("\n✔ Todos os artigos foram processados!")
 
 if __name__ == "__main__":
