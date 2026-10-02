@@ -1,5 +1,5 @@
 Filter_type,Frequency,Titulo,Ano de Publicacao,Country
-"hibrido (espaço-temporal, fir)",nao se aplica,Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,2013,japan
+"hibrido (espaco-temporal, fir)",nao se aplica,Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,2013,japan
 bandpass (butterworth),7-30,Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,2013,japan
 low-pass (butterworth 4th ordem),50,Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,2013,japan
 "bandpass (butterworth, busca exaustiva)",nao se aplica,Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,2013,japan
@@ -21,7 +21,7 @@ wavelet (dwt),8 levels,Wavelet analysis of EEG signals during motor imagery,2008
 morphological multiresolution analysis (haar-type morphology),8 levels,Wavelet analysis of EEG signals during motor imagery,2008,"japan, austria"
 integrado (kalman filter+tensor),nao se aplica,iTa-DFiE: An Innovative Tensor Algebra-Based Detection Framework for Incomplete Noninvasive Electroencephalography,2024,"vietnam, south korea"
 wavelet (wt),1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
-sftf,1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
+stft,1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 bandstop (indeterminado),59-61,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 low-pass (indeterminado),40,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 high-pass (indeterminado),1.6,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
@@ -75,7 +75,7 @@ bandpass (indeterminado),1-40,State-of-the-Art Versus Deep Learning: A Comparati
 filterbank (indeterminado),"4-16, 16-40",Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
 integrado (convolucao temporal),nao se aplica,Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
-"hibrido (espaço-temporal,fir)",nao se aplica,Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japao
+"hibrido (espaco-temporal,fir)",nao se aplica,Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japao
 bandpass (indeterminado),"7-30,11-16, 12-16, 21-26, 11-18, 9-12",Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japao
 bandpass (indeterminado),"8-14, 19-24, 24-30",Smart thoughts: BCI based system implementation to detect motor imagery movements,2018,pakistan
 bandpass (indeterminado),7-30,Smart thoughts: BCI based system implementation to detect motor imagery movements,2018,pakistan
@@ -92,7 +92,7 @@ stft,nao se aplica,Comparative analysis of spectral approaches to feature extrac
 low-pass (indeterminado),indeterminado,EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system,2016,mexico
 stft,nao se aplica,EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system,2016,mexico
 filterbank (indeterminado),"4-8, 6-10, 8-12, 10-14, 12-16, 14-18, 16-20, 18-22, 20-24, 22-26, 24-28, 26-30, 28-32, 30-34, 32-36, 34-38, 36-40",Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks,2019,colombia
-"hibrido (espaço-temporal,msk)",nao se aplica,Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks,2019,colombia
+"hibrido (espaco-temporal,msk)",nao se aplica,Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks,2019,colombia
 wavelet (soft-threshold denoise),nao se aplica,Classification of imagery motor EEG data with wavelet denoising and features selection,2016,china
 bandpass (butterworth 4th ordem),"8-13, 14-30",Classification of imagery motor EEG data with wavelet denoising and features selection,2016,china
 bandpass (indeterminado),7-30h,EEG classification of different imaginary movements within the same limb,2015,usa
@@ -269,7 +269,7 @@ wavelet (morlet),indeterminado,Classification of Left and Right Hand Motor Image
 matching pursuit,nao se aplica,Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection,2008,china
 filterbank (constant-q scheme),13 dentro de 6-30,Classification of motor imagery EEG patterns and their topographic representation,2004,usa
 hilbert (ht),defasagem de 90 graus na fase do sinal,Classification of motor imagery EEG patterns and their topographic representation,2004,usa
-"memd (masking, nao espaco temporal)",2 imfs,Masking empirical mode decomposition-based hybrid features for recognition of motor imagery in EEG,2017,china
+memd (masking),2 imfs,Masking empirical mode decomposition-based hybrid features for recognition of motor imagery in EEG,2017,china
 bandpass (indeterminado),2-40,Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task,2006,"usa, turkey"
 decomposition (local cosine packets),nao se aplica,Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task,2006,"usa, turkey"
 bandpass (indeterminado),2-40,Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling,2006,"usa, turkey"
@@ -340,7 +340,7 @@ integrado (convolucao temporal),nao se aplica,Effect of EOG Artifact Removal on 
 wavelet (wpt),indeterminado,Multi-class Motor Imagery Classification Method Using One-dimensional Convolutional Neural Networks,2022,china
 bandpass (butterworth 10th ordem),1.5-40,An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion,2022,china
 filterbank (indeterminado),indeterminado,An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion,2022,china
-"hibrido (integrado, tfcsp, espaco temporal)",indeterminado,An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion,2022,china
+"hibrido (integrado, tfcsp, espaco-temporal)",indeterminado,An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion,2022,china
 "tvar (mwbf-rols, wavelet, tempo frequencia)",nao se aplica,Time-frequency analysis and spiking neural network for motor imagery EEG classification,2022,china
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding,2023,china
 integrado (convolucao temporal),nao se aplica,FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding,2023,china
@@ -349,7 +349,7 @@ filterbank (indeterminado),"8-16, 16-24, 24-32, 8-24, 16-32, 8-32",Motor Imagery
 bandpass (butterworth 4th ordem),5-40,Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System,2023,china
 bandstop (comb notch),indeterminado,Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System,2023,china
 stft,nao se aplica,Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System,2023,china
-integrado (etapa fhn do fhn-sftf/psd),nao se aplica,Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System,2023,china
+integrado (etapa fhn do fhn-stft/psd),nao se aplica,Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System,2023,china
 integrado (convolucao temporal),nao se aplica,Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model,2025,china
 filterbank (chebshev ii),indeterminado,Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model,2025,china
 integrado (convolucao temporal),nao se aplica,EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,2023,taiwan
@@ -360,7 +360,7 @@ wavelet (sst),nao se aplica,Motor Imagery BCI Classification Using Synchrosqueez
 bandpass (butterworth 6th ordem),7-30,Sparse Bayesian Learning for End-to-End EEG Decoding,2023,"china, usa"
 filterbank (butterworth 6th ordem),"7-11, 11-15, 15-19, 19-23, 23-27, 27-30",Sparse Bayesian Learning for End-to-End EEG Decoding,2023,"china, usa"
 integrado (convolucao temporal),nao se aplica,Sparse Bayesian Learning for End-to-End EEG Decoding,2023,"china, usa"
-"hibrido (espaco temporal, fir)",nao se aplica,Sparse Bayesian Learning for End-to-End EEG Decoding,2023,"china, usa"
+"hibrido (espaco-temporal, fir)",nao se aplica,Sparse Bayesian Learning for End-to-End EEG Decoding,2023,"china, usa"
 bandpass (indeterminado),7-35,EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding,2023,"china, usa"
 integrado (convolucao temporal),nao se aplica,EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding,2023,"china, usa"
 filterbank (indeterminado),indeterminado,EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding,2023,"china, usa"
@@ -463,7 +463,7 @@ hilbert (ht),nao se aplica,Motor Imagery EEG Signals Classification Based on Mod
 stft,nao se aplica,Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery,2019,italy
 bandpass (indeterminado),5-30,Enhancing Mu-based BCI Performance with Rhythmic Electrical Stimulation at Alpha Frequency,2019,china
 wavelet (cwt),nao se aplica,Classification of EEG Motor Imagery Tasks Using Convolution Neural Networks,2019,australia
-hibrido (espaco temporal),nao se aplica,Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification,2020,"china, canada"
+hibrido (espaco-temporal),nao se aplica,Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification,2020,"china, canada"
 wavelet (dwt),3 levels,Wavelet transform based approach for EEG feature selection of motor imagery data for braincomputer interfaces,2019,india
 emd,5 imfs,A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface,2019,india
 memd (espaco-temporal),8 imfs,A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface,2019,india
@@ -675,7 +675,7 @@ st (stockwell transform),nao se aplica,Motor Imagery Classification in EEG signa
 bandpass (butterworth 6th ordem),8-30,Enhancing Four-Class Motor Imagery Detection Through Advanced Feature Extraction Techniques,2024,"uae, tunisia"
 bandpass (indeterminado),8-30,Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,2025,thailand
 bandstop (notch),60,Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,2025,thailand
-filterbank (butteworth),"8-12, 12-16, 16-20, 20-24, 24-30",Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,2025,thailand
+filterbank (butterworth),"8-12, 12-16, 16-20, 20-24, 24-30",Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,2025,thailand
 bandpass (indeterminado),3-40,TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,2025,china
 integrado (convolucao temporal),nao se aplica,TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,2025,china
 filterbank (indeterminado),indeterminado,TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,2025,china
@@ -713,11 +713,11 @@ bandpass (butterworth 5th ordem),8-35,A Comparative Study of Different Feature E
 bandstop (indeterminado),50-60,A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity,2018,"china, new zealand"
 wavelet (dwt),2 levels,A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity,2018,"china, new zealand"
 filterbank (indeterminado),"8-16, 17-25, 26-32",A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity,2018,"china, new zealand"
-filterbank (butteworth 5th ordem),indeterminado,A High Performance Approach for Classification of Motor Imagery EEG,2018,pakistan
+filterbank (butterworth 5th ordem),indeterminado,A High Performance Approach for Classification of Motor Imagery EEG,2018,pakistan
 "smoothing (iir, media movel)",nao se aplica,A High Performance Approach for Classification of Motor Imagery EEG,2018,pakistan
 filterbank (chebyshev),"1-4, 4-7, 8-18, 18-25, 30-70",An Experimental Analysis of Motor Imagery EEG Signals Using Feature Extraction and Classification Methodologies,2018,india
 wavelet (dwt),5 levels,An Experimental Analysis of Motor Imagery EEG Signals Using Feature Extraction and Classification Methodologies,2018,india
-filterbank (butteworth 5th ordem),indeterminado,FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,2018,pakistan
+filterbank (butterworth 5th ordem),indeterminado,FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,2018,pakistan
 smoothing (iir),nao se aplica,FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,2018,pakistan
 filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",EEG Channel Selection Based on Correlation Coefficient for Motor Imagery Classification: A Study on Healthy Subjects and ALS Patient,2018,ssingapore
 bandpass (savitzky-golay 5th ordem),0.5-60,A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance,2021,india

@@ -1,9 +1,17 @@
 Artigo do Scopus: "Research of brain-computer interface system based on motor imagery" <- Sem Acesso
 Artigo do Scopus: "A system of motor imaging brain-computer interface based on labVIEW" <- Sem Acesso
 Artigo do Scopus: "Feature extraction and classification of EEG in online brain-computer interface"<- Chines
-Artigo do Scopus: "EEG Feature Extraction and Pattern Classification Based on Motor Imagery in Brain Computer Interface" <- Parece que tem duplicata de 2012 num livro
+Artigo do Scopus: "EEG Feature Extraction and Pattern Classification Based on Motor Imagery in Brain Computer Interface" <- Parece que tem duplicata de 2012 num livro sem Acesso
 Artigo do Scopus: "Designing robust spatial filter for motor imagery electroencephalography signal classification in brain-computer interface systems" <- Sem Acesso
 Artigo do IEEE: "The feature extraction of motor imagery EEG based on the time-frequency correction" <- Chines
 Artigo do PubMed: "[Research of classification about BCI based on the signals energy]"<- Chines
-Artigo do Scopus: "A ternary hybrid EEG-NIRS brain-computer interface for the classification of brain activation patterns during mental arithmetic, motor imagery, and idle state" <- Sem Acesso
+
+
 Artigo do Scopus: "Beyond Full Electrode Arrays: Optimizing Channel Selection for Motor Imagery BCIs via Individual Channel Classifiers and Ensembles" <- Falar com os Criadores.
+
+
+
+a new discriminative common spatial pattern method for motor imagery brain-computer interfaces (tem baixado)
+a space-time-frequency analysis approach for the classification motor imagery eeg recordings in a brain computer interface task (tem baixado)
+
+Artigo do Scopus: "A ternary hybrid EEG-NIRS brain-computer interface for the classification of brain activation patterns during mental arithmetic, motor imagery, and idle state" <- Sem Acesso
