@@ -1,0 +1,76 @@
+﻿Titulo,Filter_type,Metric,Valor
+A bacterial foraging optimization and learning automata based feature selection for motor imagery EEG classification,bandpass (elliptic),Accuracy,[80.291]
+A bacterial foraging optimization and learning automata based feature selection for motor imagery EEG classification,wavelet (dwt),Accuracy,[80.291]
+A Bayesian Framework to Optimize Double Band Spectra Spatial Filters for Motor Imagery Classification,filterbank (butterworth),Kappa,[0.491]
+A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,bandpass (butterworth),Accuracy,"[87.74, 88.54, 95.64]"
+A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,wavelet (wt),Accuracy,"[87.74, 88.54, 95.64]"
+A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis,bandpass (butterworth),Accuracy,[98.25]
+A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis,wavelet (wt),Accuracy,[98.25]
+A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD,wavelet (wpd),Accuracy,[84.45]
+A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD,wavelet (wpd),Kappa,[0.8102]
+A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems,wavelet (cwt),Accuracy,"[94.4 , 97.67]"
+A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems,bandpass (butterworth),Accuracy,"[94.4 , 97.67]"
+A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface,hilbert (ht),Accuracy,[99.94]
+A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity,wavelet (dwt),Accuracy,[64.86]
+A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity,bandpass (butterworth),Accuracy,[68.63]
+A Comparative Study of Wavelet and CSP Features Classified Using LDA,wavelet (dwt),Accuracy,[82.57]
+A Comparative Study of Wavelet and CSP Features Classified Using LDA,bandpass (butterworth),Accuracy,[82.57]
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery,stft,Kappa,[0.52]
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery,bandpass (butterworth),Kappa,[0.52]
+A convolution neural networks scheme for classification of motor imagery EEG based on wavelet time-frequecy image,wavelet (cwt),Accuracy,[78.93]
+A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI,hilbert (ht),Accuracy,[89.29]
+A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI,emd,Accuracy,[72.14]
+A Deep Learning Scheme for Motor Imagery Classification based on Restricted Boltzmann Machines,bandpass (butterworth),Accuracy,[84.]
+A Deep Transfer Convolutional Neural Network Framework for EEG Signal Classification,stft,Accuracy,[74.2]
+A Feature Extraction Method for Binary Motor Imagery Classification,stft,Accuracy,[83.8]
+A feature extraction technique of EEG based on EMD-BP for motor imagery classification in BCI,emd,Kappa,[0.54]
+A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface,emd,Accuracy,[88.78]
+A Hardware/Software Prototype of EEG-based BCI System for Home Device Control,bandpass (butterworth),Accuracy,"[83.33, 86.35]"
+A Hardware/Software Prototype of EEG-based BCI System for Home Device Control,bandpass (elliptic),Accuracy,"[90.64, 83.32]"
+A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG,filterbank (chebyshev ii),Accuracy,[75.45]
+A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG,integrado,Accuracy,[81.75]
+A High Performance Approach for Classification of Motor Imagery EEG,filterbank (butterworth),Kappa,[0.59]
+A Lightweight End-to-End Three-domain Feature Fusion Network for Motor Imagery Decoding,integrado,Accuracy,"[76.89, 85.22]"
+A Long Short-Term Memory Autoencoder Approach for EEG Motor Imagery Classification,bandpass (butterworth),Accuracy,[81.]
+A Multi-Band Self-Attention Network for Motor Imagery Classification,wavelet (wpd),Accuracy,"[80.72, 60.1 ]"
+A Multi-Band Self-Attention Network for Motor Imagery Classification,filterbank (butterworth),Accuracy,"[84.04, 71.67]"
+A Multi-Band Self-Attention Network for Motor Imagery Classification,integrado,Accuracy,"[80.69, 70.58]"
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,integrado,Kappa,"[0.7695, 0.7324]"
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,integrado,Accuracy,"[82.72, 86.39]"
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,filterbank (chebyshev ii),Kappa,"[0.7695, 0.7324]"
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,filterbank (chebyshev ii),Accuracy,"[82.72, 86.39]"
+A multi-modal BCI system based on motor imagery,wavelet (wpd),Accuracy,[85.42]
+A New Channel Selection Method using Autoencoder for Motor Imagery based Brain Computer Interface,bandstop (notch),Accuracy,[74.3]
+A New Motor Imagery EEG Classification Method FB-TRCSP+RF Based on CSP and Random Forest,filterbank (butterworth),Accuracy,"[85.24, 77.62]"
+A Novel BCI System Based on Hybrid Features for Classifying Motor Imagery Tasks,bandstop (notch),Accuracy,[91.72]
+A Novel BCI System Based on Hybrid Features for Classifying Motor Imagery Tasks,wavelet (wpd),Accuracy,[91.72]
+A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network,filterbank (chebyshev ii),Accuracy,[81.46]
+A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network,integrado,Accuracy,[80.85]
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,bandpass (butterworth),Accuracy,[96.43]
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,wavelet (dwt),F1-score,[96.57]
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,bandpass (butterworth),F1-score,[96.57]
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,wavelet (dwt),Accuracy,[96.43]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,wavelet (cwt),F1-score,[87.14]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,bandstop (notch),Kappa,[86.26]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,wavelet (cwt),Kappa,[86.26]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,wavelet (cwt),Accuracy,[98.25]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,bandstop (notch),Accuracy,[98.25]
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,bandstop (notch),F1-score,[87.14]
+A novel EMD-based Common Spatial Pattern for motor imagery brain-computer interface,emd,Accuracy,[82.14]
+A novel EMD-based Common Spatial Pattern for motor imagery brain-computer interface,bandpass (butterworth),Accuracy,[82.14]
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,bandpass (butterworth),Kappa,[0.71]
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,integrado,Accuracy,[78.7]
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,bandpass (butterworth),Accuracy,[78.7]
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,integrado,Kappa,[0.71]
+A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry,hilbert (ht),Kappa,[0.71]
+A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry,hilbert (ht),Accuracy,[85.6]
+A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning,wavelet (cwt),Kappa,[0.657]
+A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning,wavelet (cwt),Accuracy,[83.2]
+A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification,stft,Accuracy,"[83.69, 85.32, 84.1 ]"
+A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification,bandpass (butterworth),Accuracy,"[83.69, 85.32, 84.1 ]"
+A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification,filterbank (butterworth),Accuracy,"[83.69, 85.32, 84.1 ]"
+A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals,bandpass (butterworth),Accuracy,[96.71]
+A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals,filterbank (chebyshev ii),Accuracy,[96.71]
+A self produced mother wavelet feature extraction method for motor imagery brain-computer interface,wavelet (cwt),Accuracy,[65.]
+A self produced mother wavelet feature extraction method for motor imagery brain-computer interface,bandpass (butterworth),Accuracy,[65.]
+A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition,filterbank (butterworth),Accuracy,"[78.78, 74.88]"

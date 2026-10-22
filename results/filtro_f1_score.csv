@@ -1,0 +1,83 @@
+﻿Titulo,Filter_type,Datasets_used
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,wavelet (dwt),privado
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals,bandpass (butterworth),privado
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,bandstop (notch),hgd
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,wavelet (cwt),hgd
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,zhou2016
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv i
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv iia
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv iib
+BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks,wavelet (cwt),mi-bmpi dataset
+BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks,stft,mi-bmpi dataset
+BCI-Based Robotic Arm for Medical Rehabilitation,bandstop (notch),eegmmidb-physionet
+BCI-Based Robotic Arm for Medical Rehabilitation,stft,eegmmidb-physionet
+BCI-Based Robotic Arm for Medical Rehabilitation,bandpass (butterworth),eegmmidb-physionet
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification,integrado,bci c iv iib
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification,bandpass (butterworth),bci c iv iia
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification,integrado,bci c iv iia
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification,bandpass (butterworth),bci c iv iib
+Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal,bandpass (butterworth),bci c iv iia
+Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal,wavelet (cwt),bci c iv iia
+Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers,emd,bci c iv iib
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks,wavelet (cwt),bci c iv iia
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks,integrado,bci c iv iia
+Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,filterbank (butterworth),eegmmidb-physionet
+Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,bandstop (notch),eegmmidb-physionet
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification,stft,bci c iii iva
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification,wavelet (cwt),bci c iii iva
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network,integrado,privado
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network,filterbank (chebyshev ii),privado
+EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning,bandpass (fir),bci c iii iva
+EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning,wavelet (dwt),bci c iii iva
+EEG based Motor Imagery BCI using Four Class Iterative Filtering & Four Class Filter Bank Common Spatial Pattern,filterbank (chebyshev ii),bci c iv iia
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,hilbert (ht),openbmi
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,bandstop (notch),openbmi
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,filterbank (chebyshev ii),openbmi
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,integrado,openbmi
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,bandpass (butterworth),openbmi
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,integrado,2020 international bci competition dataset track#1
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,integrado,bci c iv iia
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,wavelet (cwt),2020 international bci competition dataset track#1
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,wavelet (cwt),bci c iv iia
+Efficient EEG-Based Motor Imagery Classification via Wavelet Genetic Optimization and Machine Learning,wavelet (dwt),bci c iii iva
+Efficient EEG-Based Motor Imagery Classification via Wavelet Genetic Optimization and Machine Learning,bandpass (fir),bci c iii iva
+Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model,integrado,bci c iv iib
+Enhancing Four-Class Motor Imagery Detection Through Advanced Feature Extraction Techniques,bandpass (butterworth),bci c iv iia
+Enhancing Motor Imagery Classification in Brain–Computer Interfaces Using Deep Learning and Continuous Wavelet Transform,wavelet (cwt),bci c iv iib
+Feature Extraction Techniques for the Classification of Four-Class Motor Imagery Based EEG Data: A Comparison,bandpass (butterworth),bci c iv iia
+Feature Extraction Techniques for the Classification of Four-Class Motor Imagery Based EEG Data: A Comparison,wavelet (dwt),bci c iv iia
+Hybrid CNN-LSTM Model for EEG-Based Motor Imagery Classification,bandpass (fir),bci c iv iia
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding,integrado,sci patient dataset
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding,wavelet (cwt),sci patient dataset
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding,bandpass (butterworth),sci patient dataset
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,integrado,hgd
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,integrado,bci c iv iia
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,wavelet (dwt),hgd
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,wavelet (dwt),bci c iv iia
+Motor Imagery EEG Classification Using Fine-Tuned Deep Convolutional EfficientNetB0 Model,stft,bci c iv iib
+Optimal Fuzzy Logic Enabled EEG Motor Imagery Classification for Brain Computer Interface,wavelet (cwt),bci c ii iii
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification,integrado,bci c iv iib
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification,integrado,bci c iv iia
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification,emd,bci c iv iib
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification,emd,bci c iv iia
+Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding,integrado,bci c iii iiib
+Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding,integrado,bci c iv iia
+Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding,integrado,bci c iv iib
+Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,wavelet (wpd),eegmmidb-physionet
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,stft,bci c iv iia
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,bandpass (butterworth),eegmmidb-physionet
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,bandstop (notch),eegmmidb-physionet
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,stft,eegmmidb-physionet
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,integrado,bci c iv iia
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,integrado,eegmmidb-physionet
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,bandpass (butterworth),bci c iv iia
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification,bandstop (notch),bci c iv iia
+Statistical Wavelets With Harmony Search- Based Optimal Feature Selection of EEG Signals for Motor Imagery Classification,bandpass (butterworth),bnci2020-002-2014
+Statistical Wavelets With Harmony Search- Based Optimal Feature Selection of EEG Signals for Motor Imagery Classification,wavelet (dwt),bnci2020-002-2014
+The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature,wavelet (wpd),bci c ii iii
+The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature,bandpass (butterworth),bci c ii iii
+The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature,wavelet (dwt),bci c ii iii
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,integrado,bci c iv iia
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,integrado,bci c iv iib
+Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,wavelet (dwt),privado
+Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,bandpass (butterworth),privado

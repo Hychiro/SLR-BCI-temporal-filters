@@ -1,0 +1,24 @@
+Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces
+Simultaneous design of FIR filter banks and spatial patterns for EEG signal classification
+Optimal design of a bank of spatio-temporal filters for EEG signal classification
+Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks
+Joint spatial-temporal filter design for analysis of motor imagery EEG
+Novel feature generation and classification for a 2-state Self-paced Brain Computer Interface system
+Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery
+Classification of motor imagery BCI using multivariate empirical mode decomposition
+Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification
+Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI
+Motor imagery movements classification using multivariate EMD and short time Fourier transform
+A multivariate empirical mode decomposition based filtering for subject independent BCI
+Deep Neural Network-Based Empirical Mode Decomposition for Motor Imagery EEG Classification
+An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion
+Sparse Bayesian Learning for End-to-End EEG Decoding
+TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements
+Spatiotemporal Filtering Bank for Decoding Motor Imagery EEG Signals
+Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification
+A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface
+A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI
+Subject dependent feature extraction method for motor imagery based BCI using multivariate empirical mode decomposition
+Sparse CSP Algorithm via Joint Spatio-Temporal Filtering
+Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification
+A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance

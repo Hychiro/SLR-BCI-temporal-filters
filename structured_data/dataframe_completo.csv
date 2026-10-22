@@ -46,7 +46,7 @@ A Study on the Classification Method of Motor Imagery EEG Signals Based on Band 
 EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning,S. M. Qaisar; M. Nadeem; A. Eleyan; S. Oueida,2025,IEEE
 Monte Carlo-Based Strategy for Assessing the Impact of EEG Data Uncertainty on Confidence in Convolutional Neural Network Classification,P. Sedi Nzakuna; V. Gallo; V. Paciello; A. Lay-Ekuakille; A. Kuti Lusala,2025,IEEE
 BCI based EEG Signals classification using Machine Learning Approach,Y. Narayan; D. Gautam; D. Lakhwani; R. Kakkar,2025,IEEE
-"SMANet: A Model Combining SincNet, Multi-Branch Spatial—Temporal CNN, and Attention Mechanism for Motor Imagery BCI",D. Wang; Q. Wei,2025,IEEE
+"SMANet: A Model Combining SincNet, Multi-Branch Spatial-Temporal CNN, and Attention Mechanism for Motor Imagery BCI",D. Wang; Q. Wei,2025,IEEE
 Non-Invasive EEG-Driven Brain-Computer Interface for Motion Control of Assistive Robotics,S. E. Fatima; S. A. Rahman; W. Mumtaz; M. S. Nazeer,2025,IEEE
 MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification,Q. Zhou; Y. Zhao; S. Zhang; J. Song; Q. Du; L. Ke,2025,IEEE
 AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,Y. Song; H. Zhang; J. Man; X. Jin; Q. Li,2025,IEEE
@@ -508,7 +508,7 @@ Relevance of filter bank common spatial patterns using multiple kernel learning 
 EEG feature extraction method based on wavelet packet energy,Xu B.; Song A.; Wang A.,2010,Scopus
 An Adaptive CSP and Clustering Classification for Online Motor Imagery EEG,Jiang Q.; Zhang Y.; Ge G.; Xie Z.,2020,Scopus
 Pattern recognition method of motor imagery tasks,Xu B.; Song A.; Fei S.,2011,Scopus
-A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain—Computer Interfaces,Thomas K.P.; Lau C.T.; Vinod A.P.; Guan C.; Ang K.K.,2009,Scopus
+A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain-Computer Interfaces,Thomas K.P.; Lau C.T.; Vinod A.P.; Guan C.; Ang K.K.,2009,Scopus
 A system of motor imaging brain-computer interface based on labVIEW,Zhou Y.; He Q.-h.; Jiao X.-b.,2011,Scopus
 Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,Luo J.; Wang J.; Xu R.; Xu K.,2019,Scopus
 Wavelet analysis of EEG signals during motor imagery,Yamaguchi T.; Fujio M.; Inoue K.; Pfurtscheller G.,2008,Scopus
@@ -550,7 +550,7 @@ System based on subject-specific bands to recognize pedaling motor imagery: Towa
 Adaptive spiking convolutional network for decoding motor imagery patterns,Zhu Z.; Liu F.; Mu S.; Tao K.,2025,Scopus
 A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training,Liu Y.; Zhang H.; Chen M.; Zhang L.,2016,Scopus
 Auditory and spatial navigation imagery in Brain-Computer Interface using optimized wavelets,Cabrera A.F.; Dremstrup K.,2008,Scopus
-A space-time-frequency analysis approach for the classification motor imagery EGG recordings in a Brain Computer Interface Task,Ince N.F.; Tewfik A.H.; Arica S.,2006,Scopus
+A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task,Ince N.F.; Tewfik A.H.; Arica S.,2006,Scopus
 Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,Yang L.; Wu J.,2024,Scopus
 A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition,Li D.; Zhang H.; Khan M.S.; Mi F.,2018,Scopus
 Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,Higashi H.; Tanaka T.,2013,Scopus

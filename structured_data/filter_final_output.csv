@@ -20,7 +20,7 @@ filterbank (indeterminado),indeterminado,Hybrid mental tasks based human compute
 wavelet (dwt),8 levels,Wavelet analysis of EEG signals during motor imagery,2008,"japan, austria"
 morphological multiresolution analysis (haar-type morphology),8 levels,Wavelet analysis of EEG signals during motor imagery,2008,"japan, austria"
 integrado (kalman filter+tensor),nao se aplica,iTa-DFiE: An Innovative Tensor Algebra-Based Detection Framework for Incomplete Noninvasive Electroencephalography,2024,"vietnam, south korea"
-wavelet (wt),1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
+wavelet (cwt),1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 stft,1-30,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 bandstop (indeterminado),59-61,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
 low-pass (indeterminado),40,Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery,2013,mexico
@@ -61,8 +61,8 @@ filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 
 high-pass (intederminado),1,Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,2024,china
 low-pass (indeterminado),50,Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,2024,china
 wavelet (wpd),3 levels,Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,2024,china
-bandpass (butterworth 4th ordem),8-30,Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,2025,"iraq, autralia, kuwait, türkiye, azerbaijan, egypt, southkorea, jordan"
-wavelet (dwt),5 levels,Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,2025,"iraq, autralia, kuwait, türkiye, azerbaijan, egypt, south korea, jordan"
+bandpass (butterworth 4th ordem),8-30,Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,2025,"iraq, australia, kuwait, turkey, azerbaijan, egypt, south korea, jordan"
+wavelet (dwt),5 levels,Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution,2025,"iraq, australia, kuwait, turkey, azerbaijan, egypt, south korea, jordan"
 bandpass (butterworth 4th ordem),8-30,A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals,2023,china
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals,2023,china
 filterbank (indeterminado),"0-8, 8-16, 16-24, 24-32, 32-40,0-4, 4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40, 0-2, 2-4, 4-6, 6-8, 8-10, 10-12, 12-14, 14-16, 16-18, 18-20, 20-22, 22-24, 24-26, 26-28, 28-30, 30-32, 32-34, 34-36, 36-38, 38-40, 0-1, 1-2, 2-3, 3-4, 4-5, 5-6, 6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-24, 24-25, 25-26, 26-27, 27-28, 28-29, 29-30, 30-31, 31-32, 32-33, 33-34, 34-35, 35-36, 36-37, 37-38, 38-39, 39-40",Feature bands study of MI signals based on FBCSP for CNN,2022,china
@@ -75,8 +75,8 @@ bandpass (indeterminado),1-40,State-of-the-Art Versus Deep Learning: A Comparati
 filterbank (indeterminado),"4-16, 16-40",Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
 integrado (convolucao temporal),nao se aplica,Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding,2025,china
-"hibrido (espaco-temporal,fir)",nao se aplica,Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japao
-bandpass (indeterminado),"7-30,11-16, 12-16, 21-26, 11-18, 9-12",Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japao
+"hibrido (espaco-temporal,fir)",nao se aplica,Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japan
+bandpass (indeterminado),"7-30,11-16, 12-16, 21-26, 11-18, 9-12",Optimal design of a bank of spatio-temporal filters for EEG signal classification,2011,japan
 bandpass (indeterminado),"8-14, 19-24, 24-30",Smart thoughts: BCI based system implementation to detect motor imagery movements,2018,pakistan
 bandpass (indeterminado),7-30,Smart thoughts: BCI based system implementation to detect motor imagery movements,2018,pakistan
 bandpass (indeterminado),8-30,Discrimination of motor imagery patterns by electroencephalogram phase synchronization combined with frequency band energy,2017,china
@@ -85,7 +85,7 @@ bandpass (butterworth 5th ordem),8-12,Classification of motor imagery by means o
 low-pass (indeterminado),30,Research on Movement Intentions of Human's Left and Right Legs Based on Electro-Encephalogram Signals,2022,china
 bandstop (notch),50-60,Research on Movement Intentions of Human's Left and Right Legs Based on Electro-Encephalogram Signals,2022,china
 wavelet (wpd),indeterminado,Adaptive subject-based feature extraction in brain-computer interfaces using wavelet packet best basis decomposition,2007,china
-wavelet (morlet),"10, 20",BCI Competition 2003 - Data set III: Modeling of sensorimotor μ rhythms for classification of imaginary hand movements,2004,germany
+wavelet (indeterminado),"10, 20",BCI Competition 2003 - Data set III: Modeling of sensorimotor μ rhythms for classification of imaginary hand movements,2004,germany
 wavelet (wpt),"8-12, 18-25",Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification,2008,uk
 wavelet (cwt),nao se aplica,Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification,2008,uk
 stft,nao se aplica,Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification,2008,uk
@@ -133,7 +133,7 @@ low-pass (indeterminado),30,Novel feature generation and classification for a 2-
 memd (espaco-temporal),indeterminado,Novel feature generation and classification for a 2-state Self-paced Brain Computer Interface system,2012,canada
 wavelet (dwt),3 levels,A motor imagery BCI experiment using wavelet analysis and spatial patterns feature extraction,2012,"mexico, usa"
 filterbank (butterworth 5th ordem),"4-5, 4.5-5.5, 5-6, 5.5-6.5, 6-7, 6.5-7.5, 7-8, 7.5-8.5, 8-9, 8.5-9.5, 9-10, 9.5-10.5, 10-11, 10.5-11.5, 11-12, 11.5-12.5, 12-13, 12.5-13.5, 13-14, 13.5-14.5, 14-15, 14.5-15.5, 15-16, 15.5-16.5, 16-17, 16.5-17.5, 17-18, 17.5-18.5, 18-19, 18.5-19.5, 19-20, 19.5-20.5, 20-21, 20.5-21.5, 21-22, 21.5-22.5, 22-23, 22.5-23.5, 23-24, 23.5-24.5, 24-25, 24.5-25.5, 25-26, 25.5-26.5, 26-27, 26.5-27.5, 27-28, 27.5-28.5, 28-29, 28.5-29.5, 29-30, 4-6, 5-7, 6-8, 7-9, 8-10, 9-11, 10-12, 11-13, 12-14, 13-15, 14-16, 15-17, 16-18, 17-19, 18-20, 19-21, 20-22, 21-23, 22-24, 23-25, 24-26, 25-27, 26-28, 27-29, 28-30, 4-7, 5.5-8.5, 7-10, 8.5-11.5, 10-13, 11.5-14.5, 13-16, 14.5-17.5, 16-19, 17.5-20.5, 19-22, 20.5-23.5, 22-25, 23.5-26.5, 25-28, 26.5-29.5, 4-8, 6-10, 8-12, 10-14, 12-16, 14-18, 16-20, 18-22, 20-24, 22-26, 24-28, 26-30",A motor imagery BCI experiment using wavelet analysis and spatial patterns feature extraction,2012,"mexico, usa"
-wavelet (dwt),3 levels,Optimal segments selection for EEG classification,2012,tunisie
+wavelet (dwt),3 levels,Optimal segments selection for EEG classification,2012,tunisia
 integrado (rqnn),nao se aplica,EEG denoising with a recurrent quantum neural network for a brain-computer interface,2011,"india, uk"
 bandpass (fir 50th ordem),8-30,Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery,2023,china
 "hibrido (espaco-temporal, iterativo, 100th ordem)",nao se aplica,Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery,2023,china
@@ -201,15 +201,15 @@ decomposition (local cosine packets),nao se aplica,Classification of single tria
 bandpass (butterworth),8-30,Recognition of motor imagery tasks for BCI using CSP and chaotic PSO twin SVM,2017,china
 wavelet (dwt),6 levels,EEG feature extraction and pattern classification based on motor imagery in brain-computer interface,2010,china
 wavelet (dwt),6 levels,EEG feature extraction and pattern recognition during right and left hands motor imagery in brain-computer interface,2012,china
-wavelet (wt),"8-13.9, 14-30, 30-45",An adjustment strategy on multi-session EEG data for online left/right hand imagery classification,2016,thailand
+wavelet (indeterminado),"8-13.9, 14-30, 30-45",An adjustment strategy on multi-session EEG data for online left/right hand imagery classification,2016,thailand
 filterbank (butterworth 4th ordem),indeterminado,An adjustment strategy on multi-session EEG data for online left/right hand imagery classification,2016,thailand
 wavelet (wpt),4 levels,Classification of EEG with structural feature dictionaries in a brain computer interface,2008,usa
 "filterbank (chebyshev ii, seleciona bandpass)","6.68-9.32, 8.14-11.36, 9.93-13.85, 12.10-16.88, 14.75-20.59, 17.98-25.08, 21.92-30.58, 26.72-37.28",Optimum spatio-spectral filtering network for brain-computer interface,2011,singapore
 bandpass (chebyshev ii),8-30,Optimum spatio-spectral filtering network for brain-computer interface,2011,singapore
 filterbank (chebyshev ii),"6.68-9.32, 8.14-11.36, 9.93-13.85, 12.10-16.88, 14.75-20.59, 17.98-25.08, 21.92-30.58, 26.72-37.28",Optimum spatio-spectral filtering network for brain-computer interface,2011,singapore
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Separable common spatio-spectral patterns for motor imagery BCI systems,2016,canada
-bandpass (indeterminado),2-40,A space-time-frequency analysis approach for the classification motor imagery EGG recordings in a Brain Computer Interface Task,2006,"usa, turkey"
-decomposition (local cosine packets),nao se aplica,A space-time-frequency analysis approach for the classification motor imagery EGG recordings in a Brain Computer Interface Task,2006,"usa, turkey"
+bandpass (indeterminado),2-40,A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task,2006,"usa, turkey"
+decomposition (local cosine packets),nao se aplica,A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task,2006,"usa, turkey"
 bandpass (indeterminado),8-30,A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training,2016,china
 bandpass (indeterminado),5-40,A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training,2016,china
 "filterbank (indeterminado, seleciona bandpass)",indeterminado,A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training,2016,china
@@ -220,13 +220,13 @@ bandpass (fir),7-30,Data-efficient motor imagery decoding in real-time for the c
 wavelet (wpd),4-7 levels,Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,2019,china
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,2019,china
 bandpass (indeterminado),8-30,Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification,2019,china
-wavelet (wt),nao se aplica,Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification,2019,china
+wavelet (cwt),nao se aplica,Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification,2019,china
 bandpass (equiripple),6-30,Spatiotemporal source tuning filter bank for multiclass EEG based brain computer interfaces,2006,usa
 wavelet (dt-cwt),4 levels,EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization,2016,china
 wavelet (dwt),4 levels,EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization,2016,china
 bandpass (butterworth 5th ordem),8-16,EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization,2016,china
 wavelet (dt-cwt),3 levels,Feature extraction method of motor imagery EEG based on DTCWT sample entropy,2015,china
-wavelet (wt),7 levels,Discrimination of EEG related to motor imagery by combined wavelet energy feature with phase synchronization feature,2015,china
+wavelet (dwt),7 levels,Discrimination of EEG related to motor imagery by combined wavelet energy feature with phase synchronization feature,2015,china
 wavelet (cwt),nao se aplica,Kernel-based relevant feature extraction to support Motor Imagery classification,2015,colombia
 wavelet (dwt),indeterminado,Kernel-based relevant feature extraction to support Motor Imagery classification,2015,colombia
 emd,indeterminado,Kernel-based relevant feature extraction to support Motor Imagery classification,2015,colombia
@@ -236,7 +236,7 @@ emd,8 imfs,Motor imagery EEG signal classification scheme based on entropy of in
 bandpass (butterworth 5th ordem),0.5-30,Applying Kalman filter in EEG-Based Brain Computer Interface for Motor Imagery classification,2013,south korea
 wavelet (dt-cwt),3 levels,Dual tree complex wavelet transform domain based motor imagery movements classification scheme from EEG signals,2015,bangladesh
 wavelet (dwt),5 levels,Characterization of EEG signals using wavelet transform for motor imagination tasks in BCI systems,2013,colombia
-wavelet (wt),4 levels,The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP,2014,china
+wavelet (dwt),4 levels,The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP,2014,china
 bandpass (iir),8-30,The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP,2014,china
 bandpass (butterworth 6th ordem),7-30,Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification,2014,china
 "hibrido (espaco-temporal, integrado, fir, str-csp)",nao se aplica,Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification,2014,china
@@ -250,22 +250,22 @@ wavelet (dwt),5 levels,Multiclass motor imagery classification for BCI applicati
 bandpass (indeterminado),4-40,A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization,2017,"uk, singapore"
 filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization,2017,"uk, singapore"
 bandpass (indeterminado),7-30,Feature extraction by common spatial pattern in frequency domain for motor imagery tasks classification,2017,china
-wavelet (wt),5 levels,Classification of motor imagery EEG signals based on wavelet transform and sample entropy,2017,china
+wavelet (dwt),5 levels,Classification of motor imagery EEG signals based on wavelet transform and sample entropy,2017,china
 bandpass (butterworth 5th ordem),7-30,Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI,2016,bangladesh
 memd (espaco-temporal),indeterminado,Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI,2016,bangladesh
 bandpass (butterworth 10th ordem),4-32,Wavelet coherence based channel selection for classifying single trial motor imagery,2016,bangladesh
 emd,10 imfs,A feature extraction technique of EEG based on EMD-BP for motor imagery classification in BCI,2015,"tunisia, france"
 wavelet (dt-cwt),3 levels,Automatic feature selection based motor imagery movements detection scheme from EEG signals in the Dual Tree Complex Wavelet Transform domain,2015,bangladesh
-emd,8 imfs,Motor imagery movements classification using multivariate EMD and short time Fourier transform,2015,bangladesh
+memd (espaco-temporal),8 imfs,Motor imagery movements classification using multivariate EMD and short time Fourier transform,2015,bangladesh
 stft,nao se aplica,Motor imagery movements classification using multivariate EMD and short time Fourier transform,2015,bangladesh
 memd (espaco-temporal),9 imfs,A multivariate empirical mode decomposition based filtering for subject independent BCI,2016,"uk, india"
 wavelet (dwt),6 levels,Combined long short-term memory based network employing wavelet coefficients for MI-EEG recognition,2016,china
 bandpass (butterworth 8th ordem),5-40,A self produced mother wavelet feature extraction method for motor imagery brain-computer interface,2013,taiwan
 wavelet (cwt),nao se aplica,A self produced mother wavelet feature extraction method for motor imagery brain-computer interface,2013,taiwan
-wavelet (complex-morlet),"10, 22",Classification of the Imagination of the Left and Right Hand Movements using EEG,2008,egypt
+wavelet (indeterminado),"10, 22",Classification of the Imagination of the Left and Right Hand Movements using EEG,2008,egypt
 bandpass (indeterminado),1-45,Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification,2008,china
 stft,nao se aplica,Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification,2008,china
-wavelet (morlet),indeterminado,Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection,2008,china
+wavelet (indeterminado),indeterminado,Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection,2008,china
 matching pursuit,nao se aplica,Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection,2008,china
 filterbank (constant-q scheme),13 dentro de 6-30,Classification of motor imagery EEG patterns and their topographic representation,2004,usa
 hilbert (ht),defasagem de 90 graus na fase do sinal,Classification of motor imagery EEG patterns and their topographic representation,2004,usa
@@ -304,7 +304,7 @@ bandpass (indeterminado),1-50,Common Spatial Pattern and Riemannian Manifold-Bas
 integrado (convolucao temporal),nao se aplica,SAT-Net: SincNet-Based Attentive Temporal Convolutional Network for Motor Imagery Classification,2023,south korea
 "integrado (filterbank, sinc-conv)","0-8, 4-12, 8-16, 12-20, 16-24, 20-28, 24-32, 28-36",SAT-Net: SincNet-Based Attentive Temporal Convolutional Network for Motor Imagery Classification,2023,south korea
 wavelet (cwt),nao se aplica,Optimal Fuzzy Logic Enabled EEG Motor Imagery Classification for Brain Computer Interface,2024,"india, south korea"
-wavelet (wt),5 levels,MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,2024,"china, malaysia"
+wavelet (dwt),5 levels,MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,2024,"china, malaysia"
 integrado (convolucao temporal),nao se aplica,MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,2024,"china, malaysia"
 bandpass (indeterminado),4-40,Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers,2024,india
 emd,indeterminado,Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers,2024,india
@@ -333,7 +333,7 @@ bandpass (butterworth),indeterminado,Brain-Computer Interface Based Control for 
 bandstop (notch),indeterminado,Brain-Computer Interface Based Control for Disabled,2022,india
 wavelet (cwt),nao se aplica,Brain-Computer Interface Based Control for Disabled,2022,india
 bandpass (indeterminado),6-25,Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network,2022,china
-wavelet (wt),8-25,Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network,2022,china
+wavelet (cwt),8-25,Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network,2022,china
 high-pass (indeterminado),indeterminado,Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System,2022,iran
 wavelet (dwt),4 levels,Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System,2022,iran
 integrado (convolucao temporal),nao se aplica,Effect of EOG Artifact Removal on EEG Motor-Imagery Classification,2022,bangladesh
@@ -484,17 +484,17 @@ wavelet (modwt),4 levels,EEG motor imagery signals classification using maximum 
 wavelet (dwt),4 levels,EEG motor imagery signals classification using maximum overlap wavelet transform and support vector machine,2017,mexico
 bandpass (indeterminado),0.5-35,EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition,2017,jordan
 emd,3 imfs,EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition,2017,jordan
-wavelet (wt),6 levels,Study of electroencephalogram feature extraction and classification of three tasks of motor imagery,2017,china
+wavelet (dwt),6 levels,Study of electroencephalogram feature extraction and classification of three tasks of motor imagery,2017,china
 wavelet (dwt),5 levels,Time frequency analysis of non-stationary motor imagery EEG signals,2017,india
 bandpass (butterworth 4th ordem),10-30,"A Comparative Study of Wavelet and CSP Features Classified Using LDA, SVM and ANN in EEG Based Motor Imagery",2017,saudi arabia
 wavelet (dwt),3 levels,"A Comparative Study of Wavelet and CSP Features Classified Using LDA, SVM and ANN in EEG Based Motor Imagery",2017,saudi arabia
 "bandpass (fir, constrained least squares)","0.5-3, 7-14, 18-38, 45-95",Study of wavelet-based performance enhancement for motor imagery brain-computer interface,2018,saudi arabia
-wavelet (wt),indeterminado,Study of wavelet-based performance enhancement for motor imagery brain-computer interface,2018,saudi arabia
+wavelet (indeterminado),indeterminado,Study of wavelet-based performance enhancement for motor imagery brain-computer interface,2018,saudi arabia
 wavelet (cwt),"6-13, 17-23",A convolution neural networks scheme for classification of motor imagery EEG based on wavelet time-frequecy image,2018,south korea
 wavelet (dwt),5 levels,Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks,2018,china
 hilbert (ht),defasagem de 90 graus na fase do sinal,Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks,2018,china
 bandpass (butterworth),"8-12, 13-30",Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition,2018,pakistan
-wavelet (wt),indeterminado,Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition,2018,pakistan
+wavelet (wpt),indeterminado,Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition,2018,pakistan
 bandpass (indeterminado),indeterminado,Deep Fusion Feature Learning Network for MI-EEG Classification,2018,china
 wavelet (dwt),indeterminado,Deep Fusion Feature Learning Network for MI-EEG Classification,2018,china
 bandpass (butterworth 5th ordem),"8-13, 13-30",DeepMI: Deep Learning for Multiclass Motor Imagery Classification,2018,pakistan
@@ -517,7 +517,7 @@ stft,nao se aplica,A Transfer Learning Method based on VGG-16 Convolutional Neur
 stft,nao se aplica,Motor Imagery Signal Classification Using Constant-Q Transform for BCI Applications,2021,turkey
 "cqt (tempo frequencia, constant-q transform)",nao se aplica,Motor Imagery Signal Classification Using Constant-Q Transform for BCI Applications,2021,turkey
 stft,nao se aplica,Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks,2021,"usa, bangladesh"
-wavelet (wt),indeterminado,Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks,2021,"usa, bangladesh"
+wavelet (indeterminado),indeterminado,Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks,2021,"usa, bangladesh"
 wavelet (wpd),5 level,Artificial Intelligence in Brain Computer Interface,2022,"finland, saudi arabia"
 bandpass (indeterminado),0.5-50,Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation,2022,china
 wavelet (cwt),nao se aplica,Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation,2022,china
@@ -543,11 +543,11 @@ wavelet (wpd),4 levels,Chaotic Quantum-inspired Evolutionary Algorithm: enhancin
 wavelet (dwt),4 levels,EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising,2020,bulgaria
 bandpass (chebyshev ii),3-30,EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising,2020,bulgaria
 "hht (tempo frequencia, emd+ht)",nao se aplica,S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation,2020,china
-integrado (convolucao temporal),nao se aplica,S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation,2020,n
+integrado (convolucao temporal),nao se aplica,S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation,2020,china
 eemd (ensamble),2 imfs,EEG-based Motor Imagery Classification through Transfer Learning of the CNN,2020,iran
 bandpass (butterworth 5th ordem),7-30,Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI,2020,china
 filterbank (indeterminado),"7-11, 11-15, 15-19, 19-23, 23-27, 27-31",Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI,2020,china
-wavelet (wt),nao se aplica,Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI,2020,china
+wavelet (cwt),nao se aplica,Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI,2020,china
 wavelet (dwt),indeterminado,Automated Ocular Artifacts Identification and Removal from EEG Data Using Hybrid Machine Learning Methods,2020,india
 emd,indeterminado,Automated Ocular Artifacts Identification and Removal from EEG Data Using Hybrid Machine Learning Methods,2020,india
 bandpass (chebyshev ii),2-40,Canonical correlation analysis of EEG for classification of motor imagery,2017,singapore
@@ -557,7 +557,7 @@ bandpass (butterworth 5th ordem),8-30,Learning Common Time-Frequency-Spatial Pat
 filterbank (butterworth 5th ordem),"8-13, 8-10, 10-13, 13-30, 13-18, 18-23, 23-30",Learning Common Time-Frequency-Spatial Patterns for Motor Imagery Classification,2021,"uk, usa, poland, china"
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Learning Common Time-Frequency-Spatial Patterns for Motor Imagery Classification,2021,"uk, usa, poland, china"
 bandpass (butterworth),indeterminado,A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis,2020,china
-wavelet (wt),3 levels,A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis,2020,china
+wavelet (dwt),3 levels,A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis,2020,china
 "wavelet (mwt, espaco-temporal)",3 levels,Trial Regeneration With Subband Signals for Motor Imagery Classification in BCI Paradigm,2021,"japan, bangladesh"
 bandpass (butterworth),8-30,Trial Regeneration With Subband Signals for Motor Imagery Classification in BCI Paradigm,2021,"japan, bangladesh"
 hibrido (espaco-temporal),nao se aplica,Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification,2021,china
@@ -597,7 +597,7 @@ integrado (convolucao temporal),nao se aplica,Motor imagery classification metho
 filterbank (butterworth 5th ordem),"8-16, 8-24, 8-32, 8-40, 16-24, 16-32, 16-40, 24-32, 24-40, 32-40",A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition,2018,china
 bandpass (butterworth 2th ordem),"8-30, 0-30",System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation,2019,"brazil, cuba, canada"
 stft,nao se aplica,System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation,2019,"brazil, cuba, canada"
-wavelet (wt),nao se aplica,A wavelet-based time-frequency analysis approach for classification of motor imagery for brain-computer interface applications,2005,usa
+wavelet (cwt),nao se aplica,A wavelet-based time-frequency analysis approach for classification of motor imagery for brain-computer interface applications,2005,usa
 filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Motor Imagery Analysis Based on Filter Bank Common Spatial Pattern,2021,china
 wavelet (dwt),indeterminado,Motor Imagery Analysis Based on Filter Bank Common Spatial Pattern,2021,china
 filterbank (chebyshev ii),"8-12, 13-25, 28-32",Classification of left and right foot kinaesthetic motor imagery using common spatial pattern,2020,australia
@@ -644,7 +644,7 @@ filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 
 filterbank (chebyshev ii),"8-16, 16-24, 24-32, 32-40, 40-45",Optimizing EEG Signal Classification for Motor Imagery BCIs: FilterBank CSP with Riemannian Manifolds and Ensemble Learning Models,2023,iran
 bandpass (butterworth 3th ordem),4-40,Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery,2023,iran
 bandstop (indeterminado),49-51,Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery,2023,iran
-filterbank (chebyshev ii),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery,2023,iran
+filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery,2023,iran
 wavelet (cwt),nao se aplica,A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination,2023,china
 filterbank (indeterminado),indeterminado,A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination,2023,china
 filterbank (butterworth 4th ordem),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",Channel-optimized Local Region Riemannian Approach for Motor Imagery Classification,2024,south korea
@@ -664,6 +664,7 @@ bandpass (butterworth 4th ordem),8-30,EEG based Motor Imagery of Hands Classific
 bandstop (notch),50,EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,2025,india
 filterbank (chebyshev ii),"8-12, 12-16, 16-20, 20-24, 24-28, 28-30",EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,2025,india
 integrado (convolucao temporal),nao se aplica,EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,2025,india
+hilbert (ht),defasagem de 90 graus na fase do sinal,EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern,2025,india
 bandpass (indeterminado),8-15,Adaptive Spatial Filtering and Linear Discriminant Learning for Robust Motor Imagery EEG Classification,2025,india
 bandpass (indeterminado),8-30,Enhanced Brain-Computer Interface for EEG Motor Imagery Using DC-GCN and Evolutionary Optimization,2025,india
 filterbank (chebyshev ii),indeterminado,Motor Imagery Recognition Using Filter Bank Common Spatial Pattern and Recurrent Neural Networks,2024,indonesia
@@ -692,7 +693,7 @@ wavelet (ewt),6 levels,Motor-imagery EEG signal decoding using multichannel-empi
 bandpass (butterworth 1th ordem),indeterminado,Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems,2022,"sweden, china"
 bandpass (elliptic),indeterminado,Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems,2022,"sweden, china"
 bandpass (fir),indeterminado,Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems,2022,"sweden, china"
-wavelet (wt),indeterminado,Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems,2022,"sweden, china"
+wavelet (dwt),indeterminado,Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems,2022,"sweden, china"
 bandpass (indeterminado),4-40,Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation,2019,singapore
 filterbank (indeterminado),indeterminado,Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation,2019,singapore
 integrado (convolucao temporal),nao se aplica,Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation,2019,singapore
@@ -719,7 +720,7 @@ filterbank (chebyshev),"1-4, 4-7, 8-18, 18-25, 30-70",An Experimental Analysis o
 wavelet (dwt),5 levels,An Experimental Analysis of Motor Imagery EEG Signals Using Feature Extraction and Classification Methodologies,2018,india
 filterbank (butterworth 5th ordem),indeterminado,FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,2018,pakistan
 smoothing (iir),nao se aplica,FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,2018,pakistan
-filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",EEG Channel Selection Based on Correlation Coefficient for Motor Imagery Classification: A Study on Healthy Subjects and ALS Patient,2018,ssingapore
+filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36, 36-40",EEG Channel Selection Based on Correlation Coefficient for Motor Imagery Classification: A Study on Healthy Subjects and ALS Patient,2018,singapore
 bandpass (savitzky-golay 5th ordem),0.5-60,A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance,2021,india
 bandpass (indeterminado),8-30,A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance,2021,india
 memd (espaco-temporal),9 imfs,A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance,2021,india
@@ -734,7 +735,7 @@ bandpass (butterworth 3th ordem),4-40,Filter Bank Sinc-ShallowNet with EMD-based
 filterbank (butterworth 2th ordem),"6-12, 7-13, 8-14, 9-15, 10-16, 11-17, 12-18, 13-19, 14-20, 15-21, 16-22, 17-23, 18-24, 19-25, 20-26, 21-27, 22-28, 23-29, 24-30, 25-31, 26-32, 27-33",Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification,2021,china
 filterbank (chebyshev ii),indeterminado,Multi-class MI-EEG Classification: Using FBCSP and Ensemble Learning Based on Majority Voting,2021,china
 bandpass (butterworth 3th ordem),mu e beta,A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,2022,"india, usa"
-wavelet (wt),indeterminado,A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,2022,"india, usa"
+wavelet (indeterminado),indeterminado,A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,2022,"india, usa"
 filterbank (indeterminado),indeterminado,A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal,2022,"india, usa"
 filterbank (butterworth 7th ordem),indeterminado,Application of Transfer Learning in Optimized Filter-Bank Regularized CSP to Classification of EEG Signals with Small Dataset,2022,iran
 bandpass (butterworth 7th ordem),indeterminado,Application of Transfer Learning in Optimized Filter-Bank Regularized CSP to Classification of EEG Signals with Small Dataset,2022,iran
@@ -762,7 +763,7 @@ bandpass (indeterminado),"0–4, 4–7, 7–13, 13–30, 30–42, 0-42",Attentio
 filterbank (indeterminado),"4-8, 8-12, 12-16, 16-20, 20-24, 24-28, 28-32, 32-36",Multi-task recognition motor imagery based on deep learning,2020,china
 bandpass (indeterminado),4-38,Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces,2021,china
 integrado (convolucao temporal),nao se aplica,Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces,2021,china
-wavelet (wt),3 levels,Improving the performance of brain-computer interface through meditation practicing,2008,iran
+wavelet (indeterminado),3 levels,Improving the performance of brain-computer interface through meditation practicing,2008,iran
 wavelet (cwt),nao se aplica,An Approach to EEG based BCI for Motor Imagery using Explainable Transfer Learning,2023,slovakia
 stft,nao se aplica,An Approach to EEG based BCI for Motor Imagery using Explainable Transfer Learning,2023,slovakia
 stft,nao se aplica,Performance Evaluation of Xception Networks and Short-Time Fourier Transform Spectrograms for Motor Imagery Classification,2023,turkey

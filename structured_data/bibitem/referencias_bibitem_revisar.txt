@@ -1,0 +1,47 @@
+\bibitem{Yamaguchi2011Design}
+Yamaguchi T.; Fujio M.; Inoue K.
+Design method of morphological structuring function for pattern recognition of EEG signals during motor imagery and cognition.
+X, 2011.
+DOI: X.
+
+\bibitem{S2011Feature}
+S. Prasad; Zheng-Hua Tan; R. Prasad; A. F. Cabrera; Y. Gu; K. Dremstrup.
+Feature selection strategy for classification of single-trial EEG elicited by motor imagery.
+X, 2011.
+DOI: X.
+
+\bibitem{L2004Motor}
+L. Qin; J. Deng; L. Ding; B. He.
+Motor imagery classification by means of source analysis methods.
+X, 2004.
+DOI: X.
+
+\bibitem{T2019Image}
+T. Yang; K. S. Phua; J. Yu; T. Selvaratnam; V. Toh; W. H. Ng; K. K. Ang; R. Q. So.
+Image-based Motor Imagery EEG Classification using Convolutional Neural Network.
+X, 2019.
+DOI: X.
+
+\bibitem{O2010Design}
+O. Gunaydin; M. Ozkan.
+Design of a Brain Computer Interface system based on electroencephalogram(EEG).
+X, 2010.
+DOI: X.
+
+\bibitem{Tao2004Classification}
+Tao Wang; Jie Deng; Bin He.
+Classification of motor imagery EEG patterns and their topographic representation.
+X, 2004.
+DOI: X.
+
+\bibitem{N2006Motor}
+N. F. Ince; A. H. Tewfik; S. Arica.
+Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling.
+X, 2006.
+DOI: X.
+
+\bibitem{R2017Eeg}
+R. Alazrai; S. Aburub; F. Fallouh; M. I. Daoud.
+EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition.
+X, 2017.
+DOI: X.

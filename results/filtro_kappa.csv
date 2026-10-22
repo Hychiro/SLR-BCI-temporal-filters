@@ -1,0 +1,126 @@
+﻿Titulo,Filter_type,Datasets_used
+A Bayesian Framework to Optimize Double Band Spectra Spatial Filters for Motor Imagery Classification,filterbank (butterworth),bci c iv iib
+A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD,wavelet (wpd),bci c iv iia
+A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD,wavelet (wpd),bci c iv iib
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery,stft,bci c iv iia
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery,bandpass (butterworth),bci c iv iia
+A High Performance Approach for Classification of Motor Imagery EEG,filterbank (butterworth),bci c iv iia
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,integrado,bci c iv iib
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,integrado,bci c iv iia
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,integrado,openbmi
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,filterbank (chebyshev ii),bci c iv iia
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,filterbank (chebyshev ii),openbmi
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding,filterbank (chebyshev ii),bci c iv iib
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,wavelet (cwt),hgd
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network,bandstop (notch),hgd
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,integrado,bci c iv iia
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN,bandpass (butterworth),bci c iv iia
+A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry,hilbert (ht),bci c iv iia
+A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms,wavelet (cwt),bci c iv iia
+A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination,wavelet (cwt),bci c iv iia
+A feature extraction technique of EEG based on EMD-BP for motor imagery classification in BCI,emd,privado
+A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning,wavelet (cwt),bci c iv iib
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,integrado,bci c iv iia
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,wavelet (dwt),privado
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,integrado,openbmi
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,integrado,privado
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,wavelet (dwt),openbmi
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold,wavelet (dwt),bci c iv iia
+Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces,integrado,bci c iii iiia
+Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces,integrado,bci c iv iia
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,zhou2016
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv iib
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv iia
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification,integrado,bci c iv i
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (butterworth),bci c iii iiia
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (elliptic),bci c iv iia
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (elliptic),bci c iii iva
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (elliptic),bci c iii iiia
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (butterworth),bci c iii iva
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery,bandpass (butterworth),bci c iv iia
+Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI,filterbank (fir),bci c iv iia
+Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI,hilbert (ht),bci c iv iia
+BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks,stft,mi-bmpi dataset
+BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks,wavelet (cwt),mi-bmpi dataset
+Bayesian Optimized Spectral Filters Coupled With Ternary ECOC for Single-Trial EEG Classification,bandpass (butterworth),bci c iv iia
+Bayesian Optimized Spectral Filters Coupled With Ternary ECOC for Single-Trial EEG Classification,bandpass (butterworth),bci c iv iib
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,integrado,bci c iv iia
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,integrado,bci c iv iib
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,integrado,hgd
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,stft,bci c iv iia
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,stft,bci c iv iib
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification,stft,hgd
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,wavelet (wpd),bci c iv iia
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,wavelet (wpd),bci c iv iib
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,filterbank (chebyshev ii),bci c iv iia
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification,filterbank (chebyshev ii),bci c iv iib
+Classification of Motor Imagery EEG Signals Using Deep Learning,stft,bci c ii iii
+Classification of Motor Imagery EEG Signals Using Deep Learning,bandpass (butterworth),bci c ii iii
+Classification of Motor Imagery EEG Signals Using Deep Learning,wavelet (cwt),bci c ii iii
+Classification of left and right foot kinaesthetic motor imagery using common spatial pattern,filterbank (chebyshev ii),privado
+Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,filterbank (butterworth),eegmmidb-physionet
+Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI,bandstop (notch),eegmmidb-physionet
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification,stft,bci c iii iva
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification,wavelet (cwt),bci c iii iva
+Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification,filterbank (butterworth),bci c iii iva
+Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification,filterbank (butterworth),bci c iv iia
+Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification,filterbank (butterworth),bci c iii iiia
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network,filterbank (chebyshev ii),privado
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network,integrado,privado
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces,integrado,smr-bci
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces,hilbert (ht),smr-bci
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces,hilbert (ht),bci c iv iia
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces,integrado,bci c iv iia
+DeepMI: Deep Learning for Multiclass Motor Imagery Classification,bandpass (butterworth),bci c iv iia
+Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery,bandpass (butterworth),bci c iv iia
+EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising,wavelet (dwt),bci c iii ivb
+EEG Feature Extraction of Motor Imagery Based on WT and STFT,stft,bci c ii iii
+EEG Feature Extraction of Motor Imagery Based on WT and STFT,wavelet (dwt),bci c ii iii
+EEG denoising with a recurrent quantum neural network for a brain-computer interface,integrado,bci c iv iib
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,integrado,2020 international bci competition dataset track#1
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,integrado,bci c iv iia
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,wavelet (cwt),2020 international bci competition dataset track#1
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification,wavelet (cwt),bci c iv iia
+EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding,integrado,eegmmidb-physionet
+EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding,integrado,bci c iv iia
+ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System,emd,bci c iv iia
+ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System,emd,openbmi
+ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System,emd,bci c iii iva
+Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System,wavelet (dwt),bci c iv iib
+FBCSP and Adaptive Boosting for Multiclass Motor Imagery BCI Data Classification: A Machine Learning Approach,filterbank (chebyshev ii),bci c iv iia
+FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features,filterbank (butterworth),bci c iv iia
+Improving the efficiency of an EEG-based brain computer interface using Filter Bank Common Spatial Pattern,filterbank (butterworth),bci c iv iia
+Learned-Weight Ensemble Monte Carlo DropBlock for Uncertainty Estimation and EEG Classification,integrado,bci c iv iia
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks,filterbank (chebyshev ii),bci c iv iia
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks,integrado,bci c iv iia
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks,hilbert (ht),bci c iv iia
+MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification,emd,bci c iv iia
+MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification,emd,bci c iv iib
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,wavelet (dwt),bci c iv iia
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,wavelet (dwt),hgd
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,integrado,bci c iv iia
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification,integrado,hgd
+Motor Imagery EEG Signal Processing and Classification Using Machine Learning Approach,wavelet (dwt),bci c iii iva
+Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation,wavelet (cwt),bci c iii iva
+Motor Imagery based EEG Signal Classification using Multi-scale CNN Architecture,stft,bci c iv iia
+Multi-Scale Causal Convolution-Based Swin Transformer for Motor Imagery EEG Classification,integrado,bci c iv iia
+Multi-Task EEG Signal Classification Using Correlation-Based IMF Selection and Multi-Class CSP,bandpass (butterworth),bci c iv iia
+Multi-Task EEG Signal Classification Using Correlation-Based IMF Selection and Multi-Class CSP,emd,bci c iv iia
+Multi-class filter bank common spatial pattern for four-class motor imagery BCI,filterbank (chebyshev ii),bci c iv iia
+RGFTSLANet: A Cross-Subject Classification Model for Decoding EEG-Based Motor Imagery Tasks,integrado,bci c iv iia
+Random Forest and Filter Bank Common Spatial Patterns for EEG-Based Motor Imagery Classification,filterbank (chebyshev ii),bci c iv iib
+Recurrent Deep Learning for EEG-based Motor Imagination Recognition,bandpass (butterworth),bci c iv iia
+Restricted exhaustive search for frequency band selection in motor imagery classification,filterbank (chebyshev ii),bci c iv iib
+Robust filter bank common spatial pattern (RFBCSP) in motor-imagery-based brain-computer interface,filterbank (chebyshev ii),bci c iv iib
+Separable common spatio-spectral patterns for motor imagery BCI systems,filterbank (chebyshev ii),bci c iv iia
+SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding,integrado,bci c iv iia
+SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding,integrado,bci c iv iib
+Study of electroencephalogram feature extraction and classification of three tasks of motor imagery,wavelet (dwt),privado
+System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation,bandpass (butterworth),privado
+System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation,stft,privado
+The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP,wavelet (dwt),bci c iv iia
+Time-frequency selection in two bipolar channels for improving the classification of motor imagery EEG,filterbank (butterworth),bci c iv iib
+Toward optimal feature and time segment selection by divergence method for EEG signals classification,filterbank (chebyshev ii),bci c iv iib
+Transfer Learning based Motor Imagery Classification using Convolutional Neural Networks,integrado,bci c iv iib
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,integrado,bci c iv iib
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface,integrado,bci c iv iia

@@ -82,7 +82,7 @@ Separable common spatio-spectral patterns for motor imagery BCI systems,Aghaei A
 Adaptive spiking convolutional network for decoding motor imagery patterns,Zhu Z.; Liu F.; Mu S.; Tao K.,2025,Scopus
 A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training,Liu Y.; Zhang H.; Chen M.; Zhang L.,2016,Scopus
 Auditory and spatial navigation imagery in Brain-Computer Interface using optimized wavelets,Cabrera A.F.; Dremstrup K.,2008,Scopus
-A space-time-frequency analysis approach for the classification motor imagery EGG recordings in a Brain Computer Interface Task,Ince N.F.; Tewfik A.H.; Arica S.,2006,Scopus
+A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task,Ince N.F.; Tewfik A.H.; Arica S.,2006,Scopus
 Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM,Yang L.; Wu J.,2024,Scopus
 A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition,Li D.; Zhang H.; Khan M.S.; Mi F.,2018,Scopus
 Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces,Higashi H.; Tanaka T.,2013,Scopus
@@ -101,7 +101,7 @@ EEG feature extraction method based on wavelet packet energy,Xu B.; Song A.; Wan
 Relevance of filter bank common spatial patterns using multiple kernel learning in motor imagery,García-Murillo D.G.; Cárdenas-Peña D.; Castellanos-Dominguez G.,2018,Scopus
 Data-efficient motor imagery decoding in real-time for the cybathlon brain-computer interface race,Ponferrada E.G.; Sylaidi A.; Aldo Faisal A.,2018,Scopus
 Spectral analysis of brain function network for the classification of motor imagery tasks,Kong W.; Guo X.; Zhao X.; Wei D.; Hu S.; Dai G.; Vecchiato G.; Babiloni F.,2011,Scopus
-A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain—Computer Interfaces,Thomas K.P.; Lau C.T.; Vinod A.P.; Guan C.; Ang K.K.,2009,Scopus
+A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain-Computer Interfaces,Thomas K.P.; Lau C.T.; Vinod A.P.; Guan C.; Ang K.K.,2009,Scopus
 Classification of left and right foot kinaesthetic motor imagery using common spatial pattern,Tariq M.; Trivailo P.M.; Simic M.,2020,Scopus
 Motor Imagery Analysis Based on Filter Bank Common Spatial Pattern,Du Y.; Xu R.; Zhang J.,2021,Scopus
 Computational intelligence for pattern recognition in EEG signals,Mutasim A.K.; Tipu R.S.; Bashar M.R.; Islam M.K.; Amin M.A.,2018,Scopus
@@ -215,7 +215,6 @@ Classification of Motor Imagery EEG recordings with Subject Specific Time-Freque
 Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task,N. F. Ince; S. Arica; A. H. Tewfik,2006,IEEE
 Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling,N. F. Ince; A. H. Tewfik; S. Arica,2006,IEEE
 Spatiotemporal Source Tuning Filter Bank for Multiclass EEG based Brain Computer Interfaces,S. Acharya; M. Mollazadeh; K. Murari; N. Thakor,2006,IEEE
-A Space-time-Frequency Analysis Approach for the Classification Motor Imagery EEG Recordings in a Brain Computer Interface Task,N. F. Ince; A. H. Tewfik; S. Arica,2006,IEEE
 Study of On-Line Adaptive Discriminant Analysis for EEG-Based Brain Computer Interfaces,C. Vidaurre; A. Schlogl; R. Cabeza; R. Scherer; G. Pfurtscheller,2007,IEEE
 Sub-band Common Spatial Pattern (SBCSP) for Brain-Computer Interface,Q. Novi; C. Guan; T. H. Dat; P. Xue,2007,IEEE
 Algorithm of Imagined Left-Right Hand Movement Classification Based on Wavelet Transform and AR Parameter Model,B. Xu; A. Song; J. Wu,2007,IEEE
@@ -387,7 +386,7 @@ An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dyna
 EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning,S. M. Qaisar; M. Nadeem; A. Eleyan; S. Oueida,2025,IEEE
 Monte Carlo-Based Strategy for Assessing the Impact of EEG Data Uncertainty on Confidence in Convolutional Neural Network Classification,P. Sedi Nzakuna; V. Gallo; V. Paciello; A. Lay-Ekuakille; A. Kuti Lusala,2025,IEEE
 BCI based EEG Signals classification using Machine Learning Approach,Y. Narayan; D. Gautam; D. Lakhwani; R. Kakkar,2025,IEEE
-"SMANet: A Model Combining SincNet, Multi-Branch Spatial—Temporal CNN, and Attention Mechanism for Motor Imagery BCI",D. Wang; Q. Wei,2025,IEEE
+"SMANet: A Model Combining SincNet, Multi-Branch Spatial-Temporal CNN, and Attention Mechanism for Motor Imagery BCI",D. Wang; Q. Wei,2025,IEEE
 Non-Invasive EEG-Driven Brain-Computer Interface for Motion Control of Assistive Robotics,S. E. Fatima; S. A. Rahman; W. Mumtaz; M. S. Nazeer,2025,IEEE
 MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification,Q. Zhou; Y. Zhao; S. Zhang; J. Song; Q. Du; L. Ke,2025,IEEE
 A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms,Q. Cui; X. Zhang; K. Xu; S. Wang,2025,IEEE

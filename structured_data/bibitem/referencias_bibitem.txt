@@ -1,0 +1,2453 @@
+\bibitem{M2014Hybrid}
+M. J. Khan; K. -S. Hong; N. Naseer; M. R. Bhutta.
+A hybrid EEG-fNIRS BCI: Motor imagery for EEG and mental arithmetic for fNIRS.
+X, 2014.
+DOI: X.
+
+\bibitem{S2021Graph}
+S. Zhu; S. I. Hosni; X. Huang; S. B. Borgheai; J. McLinden; Y. Shahriari; S. Ostadabbas.
+A Graph-Based Feature Extraction Algorithm Towards a Robust Data Fusion Framework for Brain-Computer Interfaces.
+X, 2021.
+DOI: X.
+
+\bibitem{Qin2004Motor}
+Qin L.; Ding L.; He B.
+Motor imagery classification by means of source analysis for brain-computer interface applications.
+X, 2004.
+DOI: X.
+
+\bibitem{Yamaguchi2011Design}
+Yamaguchi T.; Fujio M.; Inoue K.
+Design method of morphological structuring function for pattern recognition of EEG signals during motor imagery and cognition.
+X, 2011.
+DOI: X.
+
+\bibitem{Higashi2013Common}
+Higashi H.; Tanaka T.
+Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces.
+X, 2013.
+DOI: X.
+
+\bibitem{Huang2023A2fwpo}
+Huang T.; Luo Z.; Lyu Y.
+A2FWPO: Anti-aliasing Filter Based on Whale Parameter Optimization Method for Feature Extraction and Recognition of Dance Motor Imagery EEG.
+X, 2023.
+DOI: X.
+
+\bibitem{L2015Multi}
+L. Zhao; X. Wang.
+A multi-modal BCI system based on motor imagery.
+X, 2015.
+DOI: X.
+
+\bibitem{I2015Multivariate}
+I. T. Hettiarachchi; T. T. Nguyen; S. Nahavandi.
+Multivariate Adaptive Autoregressive Modeling and Kalman Filtering for Motor Imagery BCI.
+X, 2015.
+DOI: X.
+
+\bibitem{Chen2018Analysis}
+Chen Z.; Liang Q.; Zhang B.
+Analysis of EEG signal evoked by passive movement and motor imagery.
+X, 2018.
+DOI: X.
+
+\bibitem{Tong2022Hybrid}
+Tong J, Wei X, Dong E, Sun Z, Du S, Duan F.
+Hybrid mental tasks based human computer interface via integration of pronunciation and motor imagery.
+X, 2022.
+DOI: X.
+
+\bibitem{Yamaguchi2008Wavelet}
+Yamaguchi T.; Fujio M.; Inoue K.; Pfurtscheller G.
+Wavelet analysis of EEG signals during motor imagery.
+X, 2008.
+DOI: X.
+
+\bibitem{Nguyen2024Ita}
+Nguyen N.A.T.; Tao Q.-B.; Yang H.-J.; Huynh H.T.; Vinh N.T.Q.; Ninh D.K.
+iTa-DFiE: An Innovative Tensor Algebra-Based Detection Framework for Incomplete Noninvasive Electroencephalography.
+X, 2024.
+DOI: X.
+
+\bibitem{J2013Time}
+J. Cantillo-Negrete; J. Gutiérrez-Martínez; R. I. Cariño-Escobar; T. B. Flores-Rodríguez; D. Elías-Viñas.
+Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery.
+X, 2013.
+DOI: X.
+
+\bibitem{S2011Feature}
+S. Prasad; Zheng-Hua Tan; R. Prasad; A. F. Cabrera; Y. Gu; K. Dremstrup.
+Feature selection strategy for classification of single-trial EEG elicited by motor imagery.
+X, 2011.
+DOI: X.
+
+\bibitem{Zhou2025Cd3net}
+Zhou Q.; Ye X.; Li S.; Du Q.; Ke L.
+CD3Net: A Contrastive Diffusion Model with Domain Adaptive Data Synthetic Network for Motor Imagery and Emotion classification.
+X, 2025.
+DOI: X.
+
+\bibitem{Lu2017Deep}
+Lu N.; Li T.; Ren X.; Miao H.
+A Deep Learning Scheme for Motor Imagery Classification based on Restricted Boltzmann Machines.
+X, 2017.
+DOI: X.
+
+\bibitem{N2006Enhanced}
+N. Yamawaki; C. Wilke; Zhongming Liu; Bin He.
+An enhanced time-frequency-spatial approach for motor imagery classification.
+X, 2006.
+DOI: X.
+
+\bibitem{J2025Efficient}
+J. Yin; X. Chen; A. Liu.
+Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model.
+X, 2025.
+DOI: X.
+
+\bibitem{S2021Statistical}
+S. Mohdiwale; M. Sahu; G. R. Sinha; V. Bhateja.
+Statistical Wavelets With Harmony Search- Based Optimal Feature Selection of EEG Signals for Motor Imagery Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{A2020Emotion}
+A. D. Bigirimana; N. Siddique; D. Coyle.
+Emotion-Inducing Imagery Versus Motor Imagery for a Brain-Computer Interface.
+X, 2020.
+DOI: X.
+
+\bibitem{Leong2019Eeg}
+Leong W.Y.
+EEG signal processing: Feature extraction, selection and classification methods.
+X, 2019.
+DOI: X.
+
+\bibitem{Ai2022Flexible}
+Ai Q.; Zhao M.; Chen K.; Zhao X.; Ma L.; Liu Q.
+Flexible coding scheme for robotic arm control driven by motor imagery decoding.
+X, 2022.
+DOI: X.
+
+\bibitem{Tavakolan2016Classification}
+Tavakolan M.; Yong X.; Zhang X.; Menon C.
+Classification scheme for arm motor imagery.
+X, 2016.
+DOI: X.
+
+\bibitem{M2016Adaptive}
+M. M. C. Ştefan; I. E. Nicolae; R. Strungaru; T. M. Vasile; O. A. Băjenaru; G. M. Ungureanu.
+Adaptive modelling of eeg signals to produce accurate time-frequency decompositions for use in BCI.
+X, 2016.
+DOI: X.
+
+\bibitem{M2016Study}
+M. M. C. Ştefan; I. E. Nicolae; R. Strungaru; G. M. Ungureanu; M. Vasile; O. A. Băjenaru.
+A study on the efficient tracking of ERD based on the adaptive identification of the subject's reactive band.
+X, 2016.
+DOI: X.
+
+\bibitem{A2023Effects}
+A. Connelly; P. Li; P. Rangpong; T. Wilaiprasitporn; T. Yagi.
+Effects of Trial-Adjusted Neurofeedback Training on Motor-Imagery Based Brain-Computer Interface Performance.
+X, 2023.
+DOI: X.
+
+\bibitem{S2022Effect}
+S. Kiatthaveephong; S. Santiwongkarn; R. Chaisaen; C. Rungsilp; T. Yagi; T. Wilaiprasitporn.
+An Effect of Limb Position in Motor Imagery Training Paradigm in Immersive Virtual Environment.
+X, 2022.
+DOI: X.
+
+\bibitem{K2024Motor}
+K. Kostoglou; G. R. Müller-Putz.
+Motor-Related EEG Analysis Using a Pole Tracking Approach.
+X, 2024.
+DOI: X.
+
+\bibitem{Y2024Enhanced}
+Y. Zhong; L. Yao; Y. Wang.
+Enhanced BCI Performance using Diffusion Model for EEG Generation.
+X, 2024.
+DOI: X.
+
+\bibitem{Higashi2013Simultaneous}
+Higashi H.; Tanaka T.
+Simultaneous design of FIR filter banks and spatial patterns for EEG signal classification.
+X, 2013.
+DOI: X.
+
+\bibitem{Zhu2025Adaptive}
+Zhu Z.; Liu F.; Mu S.; Tao K.
+Adaptive spiking convolutional network for decoding motor imagery patterns.
+X, 2025.
+DOI: X.
+
+\bibitem{Yang2024Research}
+Yang L.; Wu J.
+Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM.
+X, 2024.
+DOI: X.
+
+\bibitem{Albahri2025Trust}
+Albahri A.S.; Hamid R.A.; Alqaysi M.E.; Al-Qaysi Z.T.; Albahri O.S.; Alamoodi A.H.; Homod R.Z.; Deveci M.; Sharaf I.M.
+Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution.
+X, 2025.
+DOI: X.
+
+\bibitem{Y2023Region}
+Y. Wang; X. Zheng; N. Gao.
+A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals.
+X, 2023.
+DOI: X.
+
+\bibitem{L2022Feature}
+L. Wang; X. Deng; Q. Jiang; L. Zheng; C. Yang; L. Mo.
+Feature bands study of MI signals based on FBCSP for CNN.
+X, 2022.
+DOI: X.
+
+\bibitem{C2023Classification}
+C. -J. Lin; C. -H. Lin.
+Classification of EEG Signals Using a Common Spatial Pattern Based Motor-Imagery for a Lower-limb Rehabilitation Exoskeleton.
+X, 2023.
+DOI: X.
+
+\bibitem{O2022State}
+O. George; S. Dabas; A. Sikder; R. O. Smith; P. Madiraju; N. Yahyasoltani; S. I. Ahamed.
+State-of-the-Art Versus Deep Learning: A Comparative Study of Motor Imagery Decoding Techniques.
+X, 2022.
+DOI: X.
+
+\bibitem{Wang2025Enhanced}
+Wang J.; Yao L.; Wang Y.
+Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding.
+X, 2025.
+DOI: X.
+
+\bibitem{H2011Optimal}
+H. Higashi; T. Tanaka.
+Optimal design of a bank of spatio-temporal filters for EEG signal classification.
+X, 2011.
+DOI: X.
+
+\bibitem{I2018Smart}
+I. Mustafa; I. Mustafa.
+Smart thoughts: BCI based system implementation to detect motor imagery movements.
+X, 2018.
+DOI: X.
+
+\bibitem{Liu2017Discrimination}
+Liu C.; Fu Y.; Yang J.; Xiong X.; Sun H.; Yu Z.
+Discrimination of motor imagery patterns by electroencephalogram phase synchronization combined with frequency band energy.
+X, 2017.
+DOI: X.
+
+\bibitem{Abdul2023Real}
+Abdul Ameer Abbas A.; Martínez-García H.
+Real-Time Motor Imagery-Based Brain-Computer Interface System by Implementing a Frequency Band Selection.
+X, 2023.
+DOI: X.
+
+\bibitem{Kamousi2007Classification}
+Kamousi B.; Amini A.N.; He B.
+Classification of motor imagery by means of cortical current density estimation and Von Neumann entropy.
+X, 2007.
+DOI: X.
+
+\bibitem{Dong2022Research}
+Dong F.; Wu L.; Feng Y.; Liang D.
+Research on Movement Intentions of Human's Left and Right Legs Based on Electro-Encephalogram Signals.
+X, 2022.
+DOI: X.
+
+\bibitem{Yang2007Adaptive}
+Yang B.-h.; Yan G.-z.; Yan R.-g.; Wu T.
+Adaptive subject-based feature extraction in brain-computer interfaces using wavelet packet best basis decomposition.
+X, 2007.
+DOI: X.
+
+\bibitem{Lemm2004Bci}
+Lemm S.; Schäfer C.; Curio G.
+BCI Competition 2003 - Data set III: Modeling of sensorimotor μ rhythms for classification of imaginary hand movements.
+X, 2004.
+DOI: X.
+
+\bibitem{Herman2008Comparative}
+Herman P.; Prasad G.; McGinnity T.M.; Coyle D.
+Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification.
+X, 2008.
+DOI: X.
+
+\bibitem{Aviles2016Eeg}
+Avilés-Cruz C.; Villegas-Cortez J.; Ferreyra-Ramírez A.; Zúnuñiga López A.
+EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system.
+X, 2016.
+DOI: X.
+
+\bibitem{Lopez2019Supervised}
+López-Montes C.; Cárdenas-Peña D.; Castellanos-Dominguez G.
+Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks.
+X, 2019.
+DOI: X.
+
+\bibitem{Sun2016Classification}
+Sun L.; Feng Z.R.
+Classification of imagery motor EEG data with wavelet denoising and features selection.
+X, 2016.
+DOI: X.
+
+\bibitem{Yong2015Eeg}
+Yong X.; Menon C.
+EEG classification of different imaginary movements within the same limb.
+X, 2015.
+DOI: X.
+
+\bibitem{Lu2015Structure}
+Lu N.; Li T.; Pan J.; Ren X.; Feng Z.; Miao H.
+Structure constrained semi-nonnegative matrix factorization for EEG-based motor imagery classification.
+X, 2015.
+DOI: X.
+
+\bibitem{Kumar2020Two}
+Kumar R.; Sahu M.; Mohdiwale S.
+Two Class Motor Imagery Classification Based on ANFIS.
+X, 2020.
+DOI: X.
+
+\bibitem{M2015Implementation}
+M. Ahmad; M. Aqil.
+Implementation of nonlinear classifiers for adaptive autoregressive EEG features classification.
+X, 2015.
+DOI: X.
+
+\bibitem{P2015Empirical}
+P. Gaur; R. B. Pachori; Hui Wang; G. Prasad.
+An empirical mode decomposition based filtering method for classification of motor-imagery EEG signals for enhancing brain-computer interface.
+X, 2015.
+DOI: X.
+
+\bibitem{J2014Motor}
+J. Hurtado-Rincon; S. Rojas-Jaramillo; Y. Ricardo-Cespedes; A. M. Álvarez-Meza; G. Castellanos-Domínguez.
+Motor imagery classification using feature relevance analysis: An Emotiv-based BCI system.
+X, 2014.
+DOI: X.
+
+\bibitem{X2013Envelope}
+X. Guo; X. Wu; X. Gong; L. Zhang.
+Envelope detection based on online ICA algorithm and its application to motor imagery classification.
+X, 2013.
+DOI: X.
+
+\bibitem{K2014Adaptive}
+K. Belwafi; R. Djemal; F. Ghaffari; O. Romain.
+An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery.
+X, 2014.
+DOI: X.
+
+\bibitem{H2013Maximum}
+H. Yang; C. Guan; C. C. Wang; K. K. Ang.
+Maximum dependency and minimum redundancy-based channel selection for motor imagery of walking EEG signal detection.
+X, 2013.
+DOI: X.
+
+\bibitem{M2016Feature}
+M. -a. Li; X. Luo; M. Zhang; J. Yang.
+Feature extraction and visualization of MI-EEG by LLE algorithm.
+X, 2016.
+DOI: X.
+
+\bibitem{J2016Real}
+J. Camacho; V. Manian.
+Real-time single channel EEG motor imagery based Brain Computer Interface.
+X, 2016.
+DOI: X.
+
+\bibitem{X2013Joint}
+X. Li; H. Zhang; C. Guan; S. H. Ong; Y. Pan; K. K. Ang.
+Joint spatial-temporal filter design for analysis of motor imagery EEG.
+X, 2013.
+DOI: X.
+
+\bibitem{L2004Motor}
+L. Qin; J. Deng; L. Ding; B. He.
+Motor imagery classification by means of source analysis methods.
+X, 2004.
+DOI: X.
+
+\bibitem{N2005Enhancement}
+N. Yamawaki; C. Wilke; Z. M. Liu; B. He.
+Enhancement of Performance of an EEG-based Brain-Computer Interface by means of a Time-Frequency Approach.
+X, 2005.
+DOI: X.
+
+\bibitem{C2007Study}
+C. Vidaurre; A. Schlogl; R. Cabeza; R. Scherer; G. Pfurtscheller.
+Study of On-Line Adaptive Discriminant Analysis for EEG-Based Brain Computer Interfaces.
+X, 2007.
+DOI: X.
+
+\bibitem{B2007Algorithm}
+B. Xu; A. Song; J. Wu.
+Algorithm of Imagined Left-Right Hand Movement Classification Based on Wavelet Transform and AR Parameter Model.
+X, 2007.
+DOI: X.
+
+\bibitem{W2008Classifying}
+W. Wu; X. Gao; B. Hong; S. Gao.
+Classifying Single-Trial EEG During Motor Imagery by Iterative Spatio-Spectral Patterns Learning (ISSPL).
+X, 2008.
+DOI: X.
+
+\bibitem{Pengfei2009Classifying}
+Pengfei Wei; Qiuhua Li; Guanglin Li.
+Classifying motor imagery EEG by Empirical Mode Decomposition based on spatial-time-frequency joint analysis approach.
+X, 2009.
+DOI: X.
+
+\bibitem{K2010Study}
+K. P. Thomas; C. Guan; L. C. Tong; A. P. Vinod.
+A Study on the impact of spectral variability in brain-computer interface.
+X, 2010.
+DOI: X.
+
+\bibitem{Huijuan2012Dynamic}
+Huijuan Yang; C. Guan; K. K. Ang; C. C. Wang; K. S. Phua; Juanhong Yu.
+Dynamic initiation and dual-tree complex wavelet feature-based classification of motor imagery of swallow EEG signals.
+X, 2012.
+DOI: X.
+
+\bibitem{J2012Novel}
+J. Gu; R. Ward.
+Novel feature generation and classification for a 2-state Self-paced Brain Computer Interface system.
+X, 2012.
+DOI: X.
+
+\bibitem{O2012Motor}
+O. Carrera-León; J. M. Ramirez; V. Alarcon-Aquino; M. Baker; D. D'Croz-Baron; P. Gomez-Gil.
+A motor imagery BCI experiment using wavelet analysis and spatial patterns feature extraction.
+X, 2012.
+DOI: X.
+
+\bibitem{I2012Optimal}
+I. Homri; S. Yacoub; N. Ellouze.
+Optimal segments selection for EEG classification.
+X, 2012.
+DOI: X.
+
+\bibitem{V2011Eeg}
+V. Gandhi; V. Arora; L. Behera; G. Prasad; D. Coyle; T. McGinnity.
+EEG denoising with a recurrent quantum neural network for a brain-computer interface.
+X, 2011.
+DOI: X.
+
+\bibitem{S2023Spatio}
+S. Hou; A. Jiang; Y. Tang; M. Li; Y. Zhu.
+Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery.
+X, 2023.
+DOI: X.
+
+\bibitem{A2023Improving}
+A. F. Doudou; A. Reffad; K. Mebarkia.
+Improving classification accuracy for motor imagery BCI using DWT based Features.
+X, 2023.
+DOI: X.
+
+\bibitem{B2024Development}
+B. -Y. Tsai; S. V. S. Diddi; L. -W. Ko; S. -J. Wang; C. -Y. Chang; T. -P. Jung.
+Development of an Adaptive Artifact Subspace Reconstruction Based on Hebbian/Anti-Hebbian Learning Networks for Enhancing BCI Performance.
+X, 2024.
+DOI: X.
+
+\bibitem{F2023Features}
+F. M. Yassin; N. M. Norwawi; N. A. Noh; A. Alias; S. Tamam.
+Features Extraction Technique Analysis of EEG Signal for Motor Imagery Classification.
+X, 2023.
+DOI: X.
+
+\bibitem{H2025Bci}
+H. S. G; N. S; A. B; D. M; A. Veluppal.
+BCI-Based Robotic Arm for Medical Rehabilitation.
+X, 2025.
+DOI: X.
+
+\bibitem{T2019Image}
+T. Yang; K. S. Phua; J. Yu; T. Selvaratnam; V. Toh; W. H. Ng; K. K. Ang; R. Q. So.
+Image-based Motor Imagery EEG Classification using Convolutional Neural Network.
+X, 2019.
+DOI: X.
+
+\bibitem{H2021Data}
+H. K. Lee; J. -H. Lee; J. -O. Park; Y. -S. Choi.
+Data-driven Data Augmentation for Motor Imagery Brain-Computer Interface.
+X, 2021.
+DOI: X.
+
+\bibitem{Guger2001Rapid}
+Guger C.; Schlögl A.; Neuper C.; Walterspacher D.; Strain T.; Pfurtscheller G.
+Rapid prototyping of an EEG-based brain-computer interface (BCI).
+X, 2001.
+DOI: X.
+
+\bibitem{Garcia2018Relevance}
+García-Murillo D.G.; Cárdenas-Peña D.; Castellanos-Dominguez G.
+Relevance of filter bank common spatial patterns using multiple kernel learning in motor imagery.
+X, 2018.
+DOI: X.
+
+\bibitem{O2010Design}
+O. Gunaydin; M. Ozkan.
+Design of a Brain Computer Interface system based on electroencephalogram(EEG).
+X, 2010.
+DOI: X.
+
+\bibitem{S2023Influence}
+S. I. Alzahrani; M. M. Alsaleh.
+The Influence of Smoothing Filtering Methods on the Performance of an EEG-Based Brain-Computer Interface.
+X, 2023.
+DOI: X.
+
+\bibitem{Belwafi2017Hardware}
+Belwafi K.; Ghaffari F.; Djemal R.; Romain O.
+A Hardware/Software Prototype of EEG-based BCI System for Home Device Control.
+X, 2017.
+DOI: X.
+
+\bibitem{Mahamune2021Feature}
+Mahamune R.; Laskar S.H.
+Feature Extraction Techniques for the Classification of Four-Class Motor Imagery Based EEG Data: A Comparison.
+X, 2021.
+DOI: X.
+
+\bibitem{Xie2024Enhancing}
+Xie Y.; Oniga S.
+Enhancing Motor Imagery Classification in Brain-Computer Interfaces Using Deep Learning and Continuous Wavelet Transform.
+X, 2024.
+DOI: X.
+
+\bibitem{Niu2024Model}
+Niu X.; Lu N.; Yan R.; Luo H.
+Model and Data Dual-Driven Double-Point Observation Network for Ultra-Short MI EEG Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{Park2013Classification}
+Park C.; Looney D.; Ur Rehman N.; Ahrabian A.; Mandic D.P.
+Classification of motor imagery BCI using multivariate empirical mode decomposition.
+X, 2013.
+DOI: X.
+
+\bibitem{Yang2024Novel}
+Yang Y.; Chen Z.; Li W.; Ma Y.
+A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals.
+X, 2024.
+DOI: X.
+
+\bibitem{Liu2014Tensor}
+Liu Y.; Li M.; Zhang H.; Wang H.; Li J.; Jia J.; Wu Y.; Zhang L.
+A tensor-based scheme for stroke patients' motor imagery EEG analysis in BCI-FES rehabilitation training.
+X, 2014.
+DOI: X.
+
+\bibitem{Zhang2025Graph}
+Zhang S.; Lu Z.; Zhang B.; Zhang Y.; Liang Z.; Zhang L.; Li L.; Huang G.; Zhang Z.; Li Z.
+Graph-based feature learning methods for subject-dependent and subject-independent motor imagery EEG decoding.
+X, 2025.
+DOI: X.
+
+\bibitem{Sherwani2016Wavelet}
+Sherwani F.; Shanta S.; Ibrahim B.S.K.K.; Huq M.S.
+Wavelet based feature extraction for classification of motor imagery signals.
+X, 2016.
+DOI: X.
+
+\bibitem{Ge2014Classification}
+Ge S.; Wang R.; Yu D.
+Classification of four-class motor imagery employing single-channel electroencephalography.
+X, 2014.
+DOI: X.
+
+\bibitem{Chen2009Improved}
+Chen G.; Zhang J.; Yao L.
+An improved feature extraction method for self-paced brain-computer interface application.
+X, 2009.
+DOI: X.
+
+\bibitem{Singh2021Time}
+Singh Malan N.; Sharma S.
+Time window and frequency band optimization using regularized neighbourhood component analysis for Multi-View Motor Imagery EEG classification.
+X, 2021.
+DOI: X.
+
+\bibitem{Xue2022Feature}
+Xue S.; Geng X.; Li D.
+Feature Extraction and Classification of EEG Signal Based on Deep Learning.
+X, 2022.
+DOI: X.
+
+\bibitem{Li2020Novel}
+Li F.; He F.; Wang F.; Zhang D.; Xia Y.; Li X.
+A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning.
+X, 2020.
+DOI: X.
+
+\bibitem{Hsu2015Motor}
+Hsu W.-Y.
+Motor imagery EEG discrimination using the correlation of wavelet features.
+X, 2015.
+DOI: X.
+
+\bibitem{Firat2006Classification}
+Firat Ince N.; Arica S.; Tewfik A.
+Classification of single trial motor imagery EEG recordings with subject adapted non-dyadic arbitrary time-frequency tilings.
+X, 2006.
+DOI: X.
+
+\bibitem{Duan2017Recognition}
+Duan L.; Hongxin Z.; Khan M.S.; Fang M.
+Recognition of motor imagery tasks for BCI using CSP and chaotic PSO twin SVM.
+X, 2017.
+DOI: X.
+
+\bibitem{Zou2010Eeg}
+Zou L.; Wang X.; Shi G.; Ma Z.
+EEG feature extraction and pattern classification based on motor imagery in brain-computer interface.
+X, 2010.
+DOI: X.
+
+\bibitem{Liu2012Eeg}
+Liu C.; Wang H.; Pu H.; Zhang Y.; Zou L.
+EEG feature extraction and pattern recognition during right and left hands motor imagery in brain-computer interface.
+X, 2012.
+DOI: X.
+
+\bibitem{Muthong2016Adjustment}
+Muthong S.; Vateekul P.; Sriyudthsak M.
+An adjustment strategy on multi-session EEG data for online left/right hand imagery classification.
+X, 2016.
+DOI: X.
+
+\bibitem{Goksu2008Classification}
+Göksu F.; Ince N.F.; Tadipatri V.A.; Tewfik A.H.
+Classification of EEG with structural feature dictionaries in a brain computer interface.
+X, 2008.
+DOI: X.
+
+\bibitem{Zhang2011Optimum}
+Zhang H.; Chin Z.Y.; Ang K.K.; Guan C.; Wang C.
+Optimum spatio-spectral filtering network for brain-computer interface.
+X, 2011.
+DOI: X.
+
+\bibitem{Aghaei2016Separable}
+Aghaei A.S.; Mahanta M.S.; Plataniotis K.N.
+Separable common spatio-spectral patterns for motor imagery BCI systems.
+X, 2016.
+DOI: X.
+
+\bibitem{Ince2006Space}
+Ince N.F.; Tewfik A.H.; Arica S.
+A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task.
+X, 2006.
+DOI: X.
+
+\bibitem{Liu2016Boosting}
+Liu Y.; Zhang H.; Chen M.; Zhang L.
+A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training.
+X, 2016.
+DOI: X.
+
+\bibitem{Chacon2023Cnn}
+Chacon-Murguia M.I.; Rivas-Posada E.
+A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems.
+X, 2023.
+DOI: X.
+
+\bibitem{Ponferrada2018Data}
+Ponferrada E.G.; Sylaidi A.; Aldo Faisal A.
+Data-efficient motor imagery decoding in real-time for the cybathlon brain-computer interface race.
+X, 2018.
+DOI: X.
+
+\bibitem{Luo2019Class}
+Luo J.; Wang J.; Xu R.; Xu K.
+Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification.
+X, 2019.
+DOI: X.
+
+\bibitem{Xu2019Wavelet}
+Xu B.; Zhang L.; Song A.; Wu C.; Li W.; Zhang D.; Xu G.; Li H.; Zeng H.
+Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification.
+X, 2019.
+DOI: X.
+
+\bibitem{Acharya2006Spatiotemporal}
+Acharya S.; Mollazadeh M.; Murari K.; Thakor N.
+Spatiotemporal source tuning filter bank for multiclass EEG based brain computer interfaces.
+X, 2006.
+DOI: X.
+
+\bibitem{Miao2016Eeg}
+Miao M.; Wang A.; Zhao C.; Liu F.
+EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization.
+X, 2016.
+DOI: X.
+
+\bibitem{M2015Feature}
+M. Ming; S. Lu; H. Man; Y. Ma; Y. Gao.
+Feature extraction method of motor imagery EEG based on DTCWT sample entropy.
+X, 2015.
+DOI: X.
+
+\bibitem{C2015Discrimination}
+C. Liu; Y. Fu; H. Sun; X. Zhang.
+Discrimination of EEG related to motor imagery by combined wavelet energy feature with phase synchronization feature.
+X, 2015.
+DOI: X.
+
+\bibitem{L2015Kernel}
+L. Arias-Mora; L. López-Ríos; Y. Céspedes-Villar; L. F. Velasquez-Martinez; A. M. Alvarez-Meza; G. Castellanos-Dominguez.
+Kernel-based relevant feature extraction to support Motor Imagery classification.
+X, 2015.
+DOI: X.
+
+\bibitem{N2014Motor}
+N. K. Verma; L. S. V. S. Rao; S. K. Sharma.
+Motor imagery EEG signal classification on DWT and crosscorrelated signal features.
+X, 2014.
+DOI: X.
+
+\bibitem{H2015Optimising}
+H. Raza; H. Cecotti; G. Prasad.
+Optimising frequency band selection with forward-addition and backward-elimination algorithms in EEG-based brain-computer interfaces.
+X, 2015.
+DOI: X.
+
+\bibitem{M2014Motor}
+M. T. F. Talukdar; S. K. Sakib; C. Shahnaz; S. A. Fattah.
+Motor imagery EEG signal classification scheme based on entropy of intrinsic mode function.
+X, 2014.
+DOI: X.
+
+\bibitem{Nik2013Applying}
+Nik Khadijah Nik Aznan; Yeon-Mo Yang.
+Applying Kalman filter in EEG-Based Brain Computer Interface for Motor Imagery classification.
+X, 2013.
+DOI: X.
+
+\bibitem{S2015Dual}
+S. K. Bashar; M. I. H. Bhuiyan.
+Dual tree complex wavelet transform domain based motor imagery movements classification scheme from EEG signals.
+X, 2015.
+DOI: X.
+
+\bibitem{B2013Characterization}
+B. Medina-Salgado; L. Duque-Muñoz; H. Fandiño-Toro.
+Characterization of EEG signals using wavelet transform for motor imagination tasks in BCI systems.
+X, 2013.
+DOI: X.
+
+\bibitem{X2014Offline}
+X. Bai; X. Wang; S. Zheng; M. Yu.
+The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP.
+X, 2014.
+DOI: X.
+
+\bibitem{F2014Spatio}
+F. Qi; Y. Li; W. Wu.
+Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification.
+X, 2014.
+DOI: X.
+
+\bibitem{S2014Motor}
+S. M. Imran; M. T. F. Talukdar; S. K. Sakib; N. S. Pathan; S. A. Fattah.
+Motor imagery EEG signal classification scheme based on wavelet domain statistical features.
+X, 2014.
+DOI: X.
+
+\bibitem{M2014Bacterial}
+M. Pal; S. Bhattacharyya; S. Roy; A. Konar; D. N. Tibarewala; R. Janarthanan.
+A bacterial foraging optimization and learning automata based feature selection for motor imagery EEG classification.
+X, 2014.
+DOI: X.
+
+\bibitem{M2016Classification}
+M. M. or Rashid; M. Ahmad.
+Classification of motor imagery hands movement using levenberg-marquardt algorithm based on statistical features of EEG signal.
+X, 2016.
+DOI: X.
+
+\bibitem{A2016Spatial}
+A. Zarei; F. Ghassemi.
+Spatial Filter Bank based on Probabilistic Common Spatial Pattern in Motor Imagery BCI systems.
+X, 2016.
+DOI: X.
+
+\bibitem{M2016Multiclass}
+M. M. Or Rashid; M. Ahmad.
+Multiclass motor imagery classification for BCI application.
+X, 2016.
+DOI: X.
+
+\bibitem{X2017Unified}
+X. Li; C. Guan; H. Zhang; K. K. Ang.
+A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization.
+X, 2017.
+DOI: X.
+
+\bibitem{J2017Feature}
+J. Wang; Z. Feng; N. Lu.
+Feature extraction by common spatial pattern in frequency domain for motor imagery tasks classification.
+X, 2017.
+DOI: X.
+
+\bibitem{M2017Classification}
+M. Ma; L. Guo; K. Su; D. Liang.
+Classification of motor imagery EEG signals based on wavelet transform and sample entropy.
+X, 2017.
+DOI: X.
+
+\bibitem{S2016Data}
+S. K. Saha; M. S. Ali.
+Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI.
+X, 2016.
+DOI: X.
+
+\bibitem{S2016Wavelet}
+S. Saha; K. I. Ahmed; R. Mostafa.
+Wavelet coherence based channel selection for classifying single trial motor imagery.
+X, 2016.
+DOI: X.
+
+\bibitem{D2015Feature}
+D. Trad; T. Al-ani; M. Jemni.
+A feature extraction technique of EEG based on EMD-BP for motor imagery classification in BCI.
+X, 2015.
+DOI: X.
+
+\bibitem{S2015Automatic}
+S. K. Bashar; M. I. H. Bhuiyan.
+Automatic feature selection based motor imagery movements detection scheme from EEG signals in the Dual Tree Complex Wavelet Transform domain.
+X, 2015.
+DOI: X.
+
+\bibitem{S2015Motor}
+S. K. Bashar; A. R. Hassan; M. I. H. Bhuiyan.
+Motor imagery movements classification using multivariate EMD and short time Fourier transform.
+X, 2015.
+DOI: X.
+
+\bibitem{P2016Multivariate}
+P. Gaur; R. B. Pachori; H. Wang; G. Prasad.
+A multivariate empirical mode decomposition based filtering for subject independent BCI.
+X, 2016.
+DOI: X.
+
+\bibitem{M2016Combined}
+M. Li; M. Zhang; X. Luo; J. Yang.
+Combined long short-term memory based network employing wavelet coefficients for MI-EEG recognition.
+X, 2016.
+DOI: X.
+
+\bibitem{W2013Self}
+W. . -L. Yeh; Y. . -C. Huang; J. . -H. Chiou; J. . -R. Duann; J. . -C. Chiou.
+A self produced mother wavelet feature extraction method for motor imagery brain-computer interface.
+X, 2013.
+DOI: X.
+
+\bibitem{M2008Classification}
+M. A. Hassan; A. F. Ali; M. I. Eladawy.
+Classification of the Imagination of the Left and Right Hand Movements using EEG.
+X, 2008.
+DOI: X.
+
+\bibitem{D2008Classification}
+D. Xiao; J. Hu.
+Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification.
+X, 2008.
+DOI: X.
+
+\bibitem{X2008Classification}
+X. Pei; C. Zheng.
+Classification of Left and Right Hand Motor Imagery Tasks Based on EEG Frequency Component Selection.
+X, 2008.
+DOI: X.
+
+\bibitem{Tao2004Classification}
+Tao Wang; Jie Deng; Bin He.
+Classification of motor imagery EEG patterns and their topographic representation.
+X, 2004.
+DOI: X.
+
+\bibitem{W2017Masking}
+W. Chen; Y. You.
+Masking empirical mode decomposition-based hybrid features for recognition of motor imagery in EEG.
+X, 2017.
+DOI: X.
+
+\bibitem{N2006Using}
+N. F. Ince; S. Arica; A. H. Tewfik.
+Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task.
+X, 2006.
+DOI: X.
+
+\bibitem{N2006Motor}
+N. F. Ince; A. H. Tewfik; S. Arica.
+Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling.
+X, 2006.
+DOI: X.
+
+\bibitem{L2009Feature}
+L. Ming-Ai; W. Rui; H. Dong-Mei; Y. Jin-Fu.
+Feature Extraction and Classification of Mental EEG for Motor Imagery.
+X, 2009.
+DOI: X.
+
+\bibitem{S2013Novel}
+S. R. H. Davies; C. J. James.
+Novel use of Empirical Mode Decomposition in single-trial classification of motor imagery for use in brain-computer interfaces.
+X, 2013.
+DOI: X.
+
+\bibitem{R2012Eeg}
+R. Ebrahimpour; K. Babakhani; M. Mohammad-Noori.
+EEG-based motor imagery classification using wavelet coefficients and ensemble classifiers.
+X, 2012.
+DOI: X.
+
+\bibitem{Y2012Time}
+Y. Yang; S. Chevallier; J. Wiart; I. Bloch.
+Time-frequency selection in two bipolar channels for improving the classification of motor imagery EEG.
+X, 2012.
+DOI: X.
+
+\bibitem{Y2013Bmflc}
+Y. Wang; V. Gonuguntla; G. Shafiq; K. C. Veluvolu.
+BMFLC with neural network and DE for better event classification.
+X, 2013.
+DOI: X.
+
+\bibitem{T2013Non}
+T. -E. Kam; H. -I. Suk; S. -W. Lee.
+Non-homogeneous spatial filter optimization for EEG-based brain-computer interfaces.
+X, 2013.
+DOI: X.
+
+\bibitem{W2012Application}
+W. -Y. Hsu; I. -J. Chiang.
+Application of neural network to brain-computer interface.
+X, 2012.
+DOI: X.
+
+\bibitem{W2012Novel}
+W. He; P. Wei; L. Wang; Y. Zou.
+A novel EMD-based Common Spatial Pattern for motor imagery brain-computer interface.
+X, 2012.
+DOI: X.
+
+\bibitem{N2011Comparative}
+N. Brodu; F. Lotte; A. Lécuyer.
+Comparative study of band-power extraction techniques for Motor Imagery classification.
+X, 2011.
+DOI: X.
+
+\bibitem{Y2011Novel}
+Y. -H. Liu; C. -A. Cheng; H. -P. Huang.
+Novel feature of the EEG based motor imagery BCI system: Degree of imagery.
+X, 2011.
+DOI: X.
+
+\bibitem{H2011Data}
+H. -I. Suk; S. -W. Lee.
+Data-Driven Frequency Bands Selection in EEG-Based Brain-Computer Interface.
+X, 2011.
+DOI: X.
+
+\bibitem{D2011Nonlinear}
+D. Trad; T. Al-ani; E. Monacelli; M. Jemni.
+Nonlinear and nonstationary framework for feature extraction and classification of motor imagery.
+X, 2011.
+DOI: X.
+
+\bibitem{M2026Efficient}
+M. Nadeem; S. M. Qaisar; U. S. Khan.
+Efficient EEG-Based Motor Imagery Classification via Wavelet Genetic Optimization and Machine Learning.
+X, 2026.
+DOI: X.
+
+\bibitem{J2017Deep}
+J. Zhang; C. Yan; X. Gong.
+Deep convolutional neural network for decoding motor imagery based brain computer interface.
+X, 2017.
+DOI: X.
+
+\bibitem{K2023Common}
+K. -K. Shyu; S. -C. Huang; K. -J. Tung; L. -H. Lee; P. -L. Lee; Y. -H. Chen.
+Common Spatial Pattern and Riemannian Manifold-Based Real-Time Multiclass Motor Imagery EEG Classification.
+X, 2023.
+DOI: X.
+
+\bibitem{J2023Sat}
+J. -M. Kim; S. Bak; H. Nam; W. Choi; D. -H. Kim; T. -E. Kam.
+SAT-Net: SincNet-Based Attentive Temporal Convolutional Network for Motor Imagery Classification.
+X, 2023.
+DOI: X.
+
+\bibitem{E2024Optimal}
+E. Yang; K. Shankar; E. Perumal; C. Seo.
+Optimal Fuzzy Logic Enabled EEG Motor Imagery Classification for Brain Computer Interface.
+X, 2024.
+DOI: X.
+
+\bibitem{C2024Msfnet}
+C. Wang; Y. Wu; C. Wang; Y. Ren; J. Shen; T. Pang; C. S. Chan; W. Ren; Y. Yu.
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{N2024Classification}
+N. Choudhary; K. M. Kumar; J. Mathew; S. Acchugatla.
+Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers.
+X, 2024.
+DOI: X.
+
+\bibitem{Y2024Subject}
+Y. Zhang; W. Zhao.
+A Subject-Specific Time Window Selection Method for Motor Imagery BCI.
+X, 2024.
+DOI: X.
+
+\bibitem{B2024Classification}
+B. Rahma; R. Aicha; M. Kamel.
+Classification of Motor Imagery EEG Signals Using Deep Learning.
+X, 2024.
+DOI: X.
+
+\bibitem{G2024Classification}
+G. Xu; Y. Ren; J. Jiang; F. Yao; J. Cao.
+Classification Algorithm for Motor Imagery EEG Signals Based on Multi-Domain Information CNN.
+X, 2024.
+DOI: X.
+
+\bibitem{J2024Time}
+J. Leng; H. Li; W. Shi; L. Gao; C. Lv; C. Wang; F. Xu; Y. Zhang; T. -P. Jung.
+Time-Frequency-Space EEG Decoding Model Based on Dense Graph Convolutional Network for Stroke.
+X, 2024.
+DOI: X.
+
+\bibitem{H2024Deep}
+H. Yu; S. Baek; J. Lee; I. Sohn; B. Hwang; C. Park.
+Deep Neural Network-Based Empirical Mode Decomposition for Motor Imagery EEG Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{M2023Stow}
+M. S. Rana; S. A. Fattah; M. Saquib.
+STOW-Net: Spatio-Temporal Operation Based Deep Learning Network for Classifying Wavelet Transformed Motor Imagery EEG Signals.
+X, 2023.
+DOI: X.
+
+\bibitem{H2023Multi}
+H. Zhi; Z. Yu; T. Yu; Z. Gu; J. Yang.
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding.
+X, 2023.
+DOI: X.
+
+\bibitem{A2022Subject}
+A. A. Khan; A. Hassan; M. T. Jahangir.
+Subject Wise Motor Imagery Classification from EEG Data Using Transfer Learning.
+X, 2022.
+DOI: X.
+
+\bibitem{K2022Motor}
+K. Pratyusha; K. S. Devi; S. Ari.
+Motor Imagery based EEG Signal Classification using Multi-scale CNN Architecture.
+X, 2022.
+DOI: X.
+
+\bibitem{M2022Brain}
+M. Sharma; N. Rafiuddin; M. Sarfaraz; Y. Uzzaman Khan.
+Brain-Computer Interface Based Control for Disabled.
+X, 2022.
+DOI: X.
+
+\bibitem{Y2022Motor}
+Y. Liu; B. Zhao; S. Zhang; W. Xiao.
+Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network.
+X, 2022.
+DOI: X.
+
+\bibitem{A2022Employing}
+A. S. Ghafari; E. Azizi.
+Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System.
+X, 2022.
+DOI: X.
+
+\bibitem{M2022Effect}
+M. A. Iqbal; M. M. Rahman; S. Muhtasim; S. E. Uddin Shubha; M. Hasan.
+Effect of EOG Artifact Removal on EEG Motor-Imagery Classification.
+X, 2022.
+DOI: X.
+
+\bibitem{D2022Multi}
+D. Li; Y. Ma; S. Hu; Y. Su; Y. Ruan; Q. Lin.
+Multi-class Motor Imagery Classification Method Using One-dimensional Convolutional Neural Networks.
+X, 2022.
+DOI: X.
+
+\bibitem{S2022Algorithm}
+S. Wang; J. Wu; D. Zhang; D. Suo; T. Yan.
+An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion.
+X, 2022.
+DOI: X.
+
+\bibitem{Z2022Time}
+Z. Liu; L. Wang; S. Xu.
+Time-frequency analysis and spiking neural network for motor imagery EEG classification.
+X, 2022.
+DOI: X.
+
+\bibitem{K2023Fbmsnet}
+K. Liu; M. Yang; Z. Yu; G. Wang; W. Wu.
+FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding.
+X, 2023.
+DOI: X.
+
+\bibitem{J2023Motor}
+J. Jin; T. Qu; R. Xu; X. Wang; A. Cichocki.
+Motor Imagery EEG Classification Based on Riemannian Sparse Optimization and Dempster-Shafer Fusion of Multi-Time-Frequency Patterns.
+X, 2023.
+DOI: X.
+
+\bibitem{R2023Enhancement}
+R. Chen; G. Xu; Y. Jia; C. Zhou; Z. Wang; J. Pei; C. Han; Y. Wang; S. Zhang.
+Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh-Nagumo Neuron System.
+X, 2023.
+DOI: X.
+
+\bibitem{W2023Eeg}
+W. -Y. Hsu; Y. -W. Cheng.
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification.
+X, 2023.
+DOI: X.
+
+\bibitem{M2023Motor}
+M. A. A. YOUSIF; M. OZTURK.
+Motor Imagery BCI Classification Using Synchrosqueezing Transform.
+X, 2023.
+DOI: X.
+
+\bibitem{W2023Sparse}
+W. Wang; F. Qi; D. P. Wipf; C. Cai; T. Yu; Y. Li; Y. Zhang; Z. Yu; W. Wu.
+Sparse Bayesian Learning for End-to-End EEG Decoding.
+X, 2023.
+DOI: X.
+
+\bibitem{R2023Eegnet}
+R. Fu; Z. Wang; S. Wang; X. Xu; J. Chen; G. Wen.
+EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding.
+X, 2023.
+DOI: X.
+
+\bibitem{A2023Motor}
+A. G. Habashi; A. M. Azab; S. Eldawlatly; G. M. Aly.
+Motor Imagery Classification Enhancement using Generative Adversarial Networks for EEG Spectrum Image Generation.
+X, 2023.
+DOI: X.
+
+\bibitem{M2023Motor2}
+M. S. Ali; A. Hassan; A. Rahim; M. H. Ashraf; A. Rahim; S. Saghir.
+Motor Imagery EEG Classification Using Fine-Tuned Deep Convolutional EfficientNetB0 Model.
+X, 2023.
+DOI: X.
+
+\bibitem{N2023Multi}
+N. Alizadeh; S. Afrakhteh; M. R. Mosavi.
+Multi-Task EEG Signal Classification Using Correlation-Based IMF Selection and Multi-Class CSP.
+X, 2023.
+DOI: X.
+
+\bibitem{L2023Enhancing}
+L. Wang; J. Wang; B. Wen; W. Mu; L. Liu; J. Han; L. Zhang; J. Jia; X. Kang.
+Enhancing Motor Imagery EEG Signal Classification with Simplified GoogLeNet.
+X, 2023.
+DOI: X.
+
+\bibitem{C2024Tmanet}
+C. Wang; Y. Lou; H. Peng; X. Xiong; X. Gu; J. Yang.
+TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements.
+X, 2024.
+DOI: X.
+
+\bibitem{S2025Parity}
+S. M. Mahim; M. E. Hossen; S. A. Hasan; M. K. Islam; M. S. Miah; M. Niu.
+Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding.
+X, 2025.
+DOI: X.
+
+\bibitem{X2025Novel}
+X. Lyu; W. Wang; X. Li; H. Zhou; J. Huang; X. Wang; L. Wang.
+A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry.
+X, 2025.
+DOI: X.
+
+\bibitem{A2025Hybrid}
+A. Paswan; J. Sarraf; A. Swetapadma.
+Hybrid CNN-LSTM Model for EEG-Based Motor Imagery Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{J2025Integrating}
+J. Leng; C. Lv; J. Li; H. Zhao; B. Zhang; A. Zhang; L. Wang; C. Feng; X. Zhang; T. -P. Jung; F. Xu.
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding.
+X, 2025.
+DOI: X.
+
+\bibitem{G2025Improving}
+G. Velakanti; S. Mahveen; A. A. Rao; M. Sai Hanith; G. K. Priya; K. Sushrith Reddy.
+Improving Motor Imagery EEG Signal Classification Using Deep Learning Techniques.
+X, 2025.
+DOI: X.
+
+\bibitem{P2025Learned}
+P. Sedi Nzakuna; V. Gallo; M. Carratù; V. Paciello; A. Pietrosanto; A. Lay-Ekuakille.
+Learned-Weight Ensemble Monte Carlo DropBlock for Uncertainty Estimation and EEG Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{Q2025Multi}
+Q. Song; G. Kang.
+A Multi-Band Self-Attention Network for Motor Imagery Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{C2025Bci}
+C. M. Yilmaz; A. Ulu; G. Demirbas.
+BCI for Mobile Devices: Time-Frequency and Representation Learning Analysis of Mobile Gesture Tasks.
+X, 2025.
+DOI: X.
+
+\bibitem{H2025Multi}
+H. Yin; X. Huang.
+Multi-Scale Causal Convolution-Based Swin Transformer for Motor Imagery EEG Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{L2026Decoding}
+L. Pan; D. Liu; J. Li; J. Li.
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network.
+X, 2026.
+DOI: X.
+
+\bibitem{Balendra2025Scale}
+Balendra; A. Pathak; N. Sharma; S. Sharma.
+Scale Specific Riemannian Features with Graph Convolutional Network for Motor Imagery EEG Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{U2025Sstaf}
+U. Maria Muna; M. Mehedi Hasan Shawon; M. Jobayer; S. Akter; S. Rahman Sabuj.
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{Y2025Rgftslanet}
+Y. Zhao; B. Jiang; Y. Yan; D. He; X. Zhang; S. Zou; Y. Zhu; X. Hu; G. Xie.
+RGFTSLANet: A Cross-Subject Classification Model for Decoding EEG-Based Motor Imagery Tasks.
+X, 2025.
+DOI: X.
+
+\bibitem{T2025Home}
+T. H. Zhou; C. Yang; D. Li; L. Wang.
+Home Robot Motor Imagery Interaction and Emotional Awareness Based on Multimodal EEG Feature Extraction.
+X, 2025.
+DOI: X.
+
+\bibitem{J2025Bidirectional}
+J. Hong; S. Li; M. Jian; L. Yang.
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{V2025Novel}
+V. S. Kardam; S. Taran; A. Pandey.
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network.
+X, 2025.
+DOI: X.
+
+\bibitem{E2024Baseline}
+E. Y. Lim; K. Yin; H. -B. Shin; S. -W. Lee.
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{N2024Lightweight}
+N. Cao; X. Wen; Y. Hao; R. Cao; C. Gao; R. Cao.
+A Lightweight End-to-End Three-domain Feature Fusion Network for Motor Imagery Decoding.
+X, 2024.
+DOI: X.
+
+\bibitem{W2024Novel}
+W. Duan; T. Huang; J. Liu.
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN.
+X, 2024.
+DOI: X.
+
+\bibitem{R2024Brain}
+R. S. Lalawat; V. Bajaj; P. K. Padhy.
+Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal.
+X, 2024.
+DOI: X.
+
+\bibitem{Q2024Classification}
+Q. Li; Y. Zhao.
+A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD.
+X, 2024.
+DOI: X.
+
+\bibitem{Z2024Sksp}
+Z. Zhibin; J. Niu; L. Ren; Z. Ouyang; S. Mo.
+SKSP: Selected Kernel Spatial Pattern Analysis in Euclidean and Hilbert Space for Decoding Motor Imagery.
+X, 2024.
+DOI: X.
+
+\bibitem{L2024Spatiotemporal}
+L. Hu; G. Huang.
+Spatiotemporal Filtering Bank for Decoding Motor Imagery EEG Signals.
+X, 2024.
+DOI: X.
+
+\bibitem{Y2025Awknet}
+Y. Song; H. Zhang; J. Man; X. Jin; Q. Li.
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold.
+X, 2025.
+DOI: X.
+
+\bibitem{P2025K}
+P. Sun; J. Zhou.
+K-Medoids-based ICA and Wavelet-Enhanced Multi-resolution Convolutional Network for Motor Imagery EEG.
+X, 2025.
+DOI: X.
+
+\bibitem{S2025Essdm}
+S. V. Bhalerao; R. B. Pachori.
+ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System.
+X, 2025.
+DOI: X.
+
+\bibitem{S2025Explainable}
+S. Gannouni; K. Belwafi.
+Explainable Common Spatial Pattern to Improve the Design of Brain-Computer Interfaces.
+X, 2025.
+DOI: X.
+
+\bibitem{A2025Adaptive}
+A. Raza; M. Z. Yusoff.
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{S2025Eeg}
+S. M. Qaisar; M. Nadeem; A. Eleyan; S. Oueida.
+EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning.
+X, 2025.
+DOI: X.
+
+\bibitem{Q2025Mdrnet}
+Q. Zhou; Y. Zhao; S. Zhang; J. Song; Q. Du; L. Ke.
+MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{A2022Motor}
+A. Reffad; K. Mebarkia.
+Motor Imagery Hand Movements Recognition Using SVM Classifier and Genetic Algorithm Optimization.
+X, 2022.
+DOI: X.
+
+\bibitem{S2019Convolutional}
+S. Chaudhary; S. Taran; V. Bajaj; A. Sengur.
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification.
+X, 2019.
+DOI: X.
+
+\bibitem{K2019Decoding}
+K. -W. Ha; J. -W. Jeong.
+Decoding Two-Class Motor Imagery EEG with Capsule Networks.
+X, 2019.
+DOI: X.
+
+\bibitem{C2019Spatial}
+C. -S. Wei; T. Koike-Akino; Y. Wang.
+Spatial Component-wise Convolutional Network (SCCNet) for Motor-Imagery EEG Classification.
+X, 2019.
+DOI: X.
+
+\bibitem{Y2019Frequency}
+Y. Park; W. Chung.
+Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification.
+X, 2019.
+DOI: X.
+
+\bibitem{G2019Deep}
+G. Xu; X. Shen; S. Chen; Y. Zong; C. Zhang; H. Yue; M. Liu; F. Chen; W. Che.
+A Deep Transfer Convolutional Neural Network Framework for EEG Signal Classification.
+X, 2019.
+DOI: X.
+
+\bibitem{M2019Transfer}
+M. Parvan; A. R. Ghiasi; T. Y. Rezaii; A. Farzamnia.
+Transfer Learning based Motor Imagery Classification using Convolutional Neural Networks.
+X, 2019.
+DOI: X.
+
+\bibitem{R2019Deep}
+R. Alazrai; M. Abuhijleh; H. Alwanni; M. I. Daoud.
+A Deep Learning Framework for Decoding Motor Imagery Tasks of the Same Hand Using EEG Signals.
+X, 2019.
+DOI: X.
+
+\bibitem{M2019Motor}
+M. T. Sadiq; X. Yu; Z. Yuan; Z. Fan; A. U. Rehman; G. Li; G. Xiao.
+Motor Imagery EEG Signals Classification Based on Mode Amplitude and Frequency Components Using Empirical Wavelet Transform.
+X, 2019.
+DOI: X.
+
+\bibitem{L2019Metrological}
+L. Angrisani; P. Arpaia; F. Donnarumma; A. Esposito; N. Moccaldi; M. Parvis.
+Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery.
+X, 2019.
+DOI: X.
+
+\bibitem{X2019Enhancing}
+X. Zhang; Y. Guo; B. Gao; J. Long.
+Enhancing Mu-based BCI Performance with Rhythmic Electrical Stimulation at Alpha Frequency.
+X, 2019.
+DOI: X.
+
+\bibitem{S2019Classification}
+S. H. Ling; H. Makgawinata; F. H. Monsivais; A. dos Santos Goncalves Lourenco; J. Lyu; R. Chai.
+Classification of EEG Motor Imagery Tasks Using Convolution Neural Networks.
+X, 2019.
+DOI: X.
+
+\bibitem{A2020Efficient}
+A. Jiang; J. Shang; X. Liu; Y. Tang; H. K. Kwan; Y. Zhu.
+Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification.
+X, 2020.
+DOI: X.
+
+\bibitem{P2019Wavelet}
+P. Kant; J. Hazarika; S. H. Laskar.
+Wavelet transform based approach for EEG feature selection of motor imagery data for braincomputer interfaces.
+X, 2019.
+DOI: X.
+
+\bibitem{P2019Filtering}
+P. S. Ramya; K. Yashasvi; A. Anjum; A. Bhattacharyya; R. B. Pachori.
+A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface.
+X, 2019.
+DOI: X.
+
+\bibitem{Y2018Eeg}
+Y. Hu; L. Wang; W. Fu.
+EEG Feature Extraction of Motor Imagery Based on WT and STFT.
+X, 2018.
+DOI: X.
+
+\bibitem{T2019Classification}
+T. H. Shovon; Z. A. Nazi; S. Dash; M. F. Hossain.
+Classification of Motor Imagery EEG Signals with multi-input Convolutional Neural Network by augmenting STFT.
+X, 2019.
+DOI: X.
+
+\bibitem{J2019Data}
+J. -H. Lee; Y. -S. Choi.
+A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI.
+X, 2019.
+DOI: X.
+
+\bibitem{J2019Novel}
+J. Abougharbia; O. Attallah; M. Tamazin; A. A. A. Nasser.
+A Novel BCI System Based on Hybrid Features for Classifying Motor Imagery Tasks.
+X, 2019.
+DOI: X.
+
+\bibitem{M2019Motor2}
+M. T. Sadiq; X. Yu; Z. Yuan; F. Zeming; A. U. Rehman; I. Ullah; G. Li; G. Xiao.
+Motor Imagery EEG Signals Decoding by Multivariate Empirical Wavelet Transform-Based Framework for Robust Brain-Computer Interfaces.
+X, 2019.
+DOI: X.
+
+\bibitem{N2019Classification}
+N. Bagh; R. Machireddy; F. Shahlaei.
+Classification of Motor Imagery Tasks using Phase Space Reconstruction and Empirical Mode Decomposition.
+X, 2019.
+DOI: X.
+
+\bibitem{J2017Subject}
+J. Zhang; C. Yan; X. Gong.
+Subject dependent feature extraction method for motor imagery based BCI using multivariate empirical mode decomposition.
+X, 2017.
+DOI: X.
+
+\bibitem{S2017Motor}
+S. R. Sreeja; J. Rabha; K. Y. Nagarjuna; D. Samanta; P. Mitra; M. Sarma.
+Motor Imagery EEG Signal Processing and Classification Using Machine Learning Approach.
+X, 2017.
+DOI: X.
+
+\bibitem{C2017Eeg}
+C. E. Hernández-González; J. M. Ramírez-Cortés; P. Gómez-Gil; J. Rangel-Magdaleno; H. Peregrina-Barreto; I. Cruz-Vega.
+EEG motor imagery signals classification using maximum overlap wavelet transform and support vector machine.
+X, 2017.
+DOI: X.
+
+\bibitem{R2017Eeg}
+R. Alazrai; S. Aburub; F. Fallouh; M. I. Daoud.
+EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition.
+X, 2017.
+DOI: X.
+
+\bibitem{Z2017Study}
+Z. Zhao; J. Yu; Y. Wu; J. Li; H. Guo; H. Zhang; L. Sun.
+Study of electroencephalogram feature extraction and classification of three tasks of motor imagery.
+X, 2017.
+DOI: X.
+
+\bibitem{A2017Time}
+A. Tyagi; V. Nehra.
+Time frequency analysis of non-stationary motor imagery EEG signals.
+X, 2017.
+DOI: X.
+
+\bibitem{M2017Comparative}
+M. Aljalal; R. Djemal.
+A Comparative Study of Wavelet and CSP Features Classified Using LDA, SVM and ANN in EEG Based Motor Imagery.
+X, 2017.
+DOI: X.
+
+\bibitem{M2018Study}
+M. Alansari; M. Kamel; B. Hakim; Y. Kadah.
+Study of wavelet-based performance enhancement for motor imagery brain-computer interface.
+X, 2018.
+DOI: X.
+
+\bibitem{H2018Convolution}
+H. K. Lee; Y. -S. Choi.
+A convolution neural networks scheme for classification of motor imagery EEG based on wavelet time-frequecy image.
+X, 2018.
+DOI: X.
+
+\bibitem{J2018Classification}
+J. Zhou; M. Meng; Y. Gao; Y. Ma; Q. Zhang.
+Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks.
+X, 2018.
+DOI: X.
+
+\bibitem{M2018Sensorimotor}
+M. Mumtaz; M. Afzal; A. Mushtaq.
+Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition.
+X, 2018.
+DOI: X.
+
+\bibitem{J2018Deep}
+J. Yang; S. Yao; J. Wang.
+Deep Fusion Feature Learning Network for MI-EEG Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{W2018Deepmi}
+W. Abbas; N. A. Khan.
+DeepMI: Deep Learning for Multiclass Motor Imagery Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{S2018Bayesian}
+S. Shahtalebi; A. Mohammadi.
+Bayesian Optimized Spectral Filters Coupled With Ternary ECOC for Single-Trial EEG Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{R2018Motor}
+R. Donovan; X. -H. Yu.
+Motor Imagery Classification Using TSK Fuzzy Inference Neural Networks.
+X, 2018.
+DOI: X.
+
+\bibitem{G2018Study}
+G. Tian; Y. Liu.
+Study on Classification of Left-Right Hands Motor Imagery EEG Signals Based on CNN.
+X, 2018.
+DOI: X.
+
+\bibitem{A2018Quantum}
+A. C. Ramos; M. Vellasco.
+Quantum-inspired Evolutionary Algorithm for Feature Selection in Motor Imagery EEG Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{S2020Recurrent}
+S. A. Rammy; M. Abrar; S. J. Anwar; W. Zhang.
+Recurrent Deep Learning for EEG-based Motor Imagination Recognition.
+X, 2020.
+DOI: X.
+
+\bibitem{J2020Transform}
+J. Kim; Y. Park; W. Chung.
+Transform based feature construction utilizing magnitude and phase for convolutional neural network in EEG signal classification.
+X, 2020.
+DOI: X.
+
+\bibitem{A2020Sparse}
+A. Jiang; J. Shang; W. Cheng; X. Liu; H. K. Kwan; Y. Zhu.
+Sparse CSP Algorithm via Joint Spatio-Temporal Filtering.
+X, 2020.
+DOI: X.
+
+\bibitem{L2021Time}
+L. Zheng; Y. Ma; M. Li; Y. Xiao; W. Feng; X. Wu.
+Time-frequency decomposition-based weighted ensemble learning for motor imagery EEG classification.
+X, 2021.
+DOI: X.
+
+\bibitem{Y2021Short}
+Y. Ma; L. Zheng; Z. Yi; Y. Xiao; C. Wang; X. Wu.
+Short-Time Fourier Transform Covariance and Selection, A Feature Extraction Method for Binary Motor Imagery Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{Z2021Motor}
+Z. Yang; S. Guo; Y. Hong.
+Motor Imagery Multi-classification based on Canonical Correlation Analysis Feature Fusion.
+X, 2021.
+DOI: X.
+
+\bibitem{M2021Transfer}
+M. -A. Li; D. -Q. Xu.
+A Transfer Learning Method based on VGG-16 Convolutional Neural Network for MI Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{M2021Motor}
+M. A. Balim; C. Hanİlçİ; N. Acir.
+Motor Imagery Signal Classification Using Constant-Q Transform for BCI Applications.
+X, 2021.
+DOI: X.
+
+\bibitem{M2021Time}
+M. K. M. Rabby; R. B. Eshun; S. Belkasim; A. K. M. K. Islam.
+Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks.
+X, 2021.
+DOI: X.
+
+\bibitem{A2022Artificial}
+A. Subasi.
+Artificial Intelligence in Brain Computer Interface.
+X, 2022.
+DOI: X.
+
+\bibitem{W2022Motor}
+W. Liu; Y. Zeng.
+Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation.
+X, 2022.
+DOI: X.
+
+\bibitem{C2022Sincnet}
+C. Liu; J. Jin; I. Daly; S. Li; H. Sun; Y. Huang; X. Wang; A. Cichocki.
+SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding.
+X, 2022.
+DOI: X.
+
+\bibitem{T2021Transfer}
+T. Limpiti; K. Seetanathum; N. Sricom; N. Puttarak.
+Transfer Learning for Classifying Motor Imagery EEG: A Comparative Study.
+X, 2021.
+DOI: X.
+
+\bibitem{L2022Power}
+L. Zheng; Y. Ma; P. Lian; Y. Xiao; Z. Yi; Q. Song; W. Feng; X. Wu.
+A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification.
+X, 2022.
+DOI: X.
+
+\bibitem{M2021Feature}
+M. N. Alam; M. I. Ibrahimy; S. M. A. Motakabber.
+Feature Extraction of EEG Signal by Power Spectral Density for Motor Imagery Based BCI.
+X, 2021.
+DOI: X.
+
+\bibitem{X2021Classification}
+X. Deng; B. Zhang; K. Liu; J. Wang; P. Yang; C. Hu.
+The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature.
+X, 2021.
+DOI: X.
+
+\bibitem{J2020Deep}
+J. Chen; Z. Yu; Z. Gu; Y. Li.
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain-Computer Interfaces.
+X, 2020.
+DOI: X.
+
+\bibitem{A2020Chaotic}
+A. C. Ramos; M. Vellasco.
+Chaotic Quantum-inspired Evolutionary Algorithm: enhancing feature selection in BCI.
+X, 2020.
+DOI: X.
+
+\bibitem{I2020Eeg}
+I. Ivaylov; M. Lazarova; A. Manolova.
+EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising.
+X, 2020.
+DOI: X.
+
+\bibitem{W2020S}
+W. Huang; Y. Xue; L. Hu; H. Liuli.
+S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation.
+X, 2020.
+DOI: X.
+
+\bibitem{S2020Eeg}
+S. Taheri; M. Ezoji.
+EEG-based Motor Imagery Classification through Transfer Learning of the CNN.
+X, 2020.
+DOI: X.
+
+\bibitem{S2020Spectrum}
+S. Huang; Y. Chen; T. Wang; T. Ma.
+Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI.
+X, 2020.
+DOI: X.
+
+\bibitem{M2020Automated}
+M. Sarin; A. Verma; D. H. Mehta; P. Kumar Shukla; S. Verma.
+Automated Ocular Artifacts Identification and Removal from EEG Data Using Hybrid Machine Learning Methods.
+X, 2020.
+DOI: X.
+
+\bibitem{N2017Canonical}
+N. Robinson; K. P. Thomas; A. P. Vinod.
+Canonical correlation analysis of EEG for classification of motor imagery.
+X, 2017.
+DOI: X.
+
+\bibitem{R2021Motor}
+R. D. Chintamani; P. Kumar; R. Karan.
+Motor Imagery Classification Based on Hybrid Feature Extraction and Deep Neural Network.
+X, 2021.
+DOI: X.
+
+\bibitem{Y2021Learning}
+Y. Miao; J. Jin; I. Daly; C. Zuo; X. Wang; A. Cichocki; T. -P. Jung.
+Learning Common Time-Frequency-Spatial Patterns for Motor Imagery Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{T2020Brain}
+T. Jia; C. Dong; S. Ma; Y. Qi; X. Chen.
+A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis.
+X, 2020.
+DOI: X.
+
+\bibitem{M2021Trial}
+M. K. I. Molla; S. K. Saha; S. Yasmin; M. R. Islam; J. Shin.
+Trial Regeneration With Subband Signals for Motor Imagery Classification in BCI Paradigm.
+X, 2021.
+DOI: X.
+
+\bibitem{F2021Spatiotemporal}
+F. Qi; W. Wu; Z. L. Yu; Z. Gu; Z. Wen; T. Yu; Y. Li.
+Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{L2020Research}
+L. Dezhi; Z. Xintong; G. Xiaozhong.
+Research on Multi-feature Extraction Method in EEG Signal of Motor Imagination.
+X, 2020.
+DOI: X.
+
+\bibitem{D2025Parallel}
+D J, K C S.
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification.
+X, 2025.
+DOI: X.
+
+\bibitem{Jaipriya2022Comparative}
+Jaipriya D, Sriharipriya KC.
+A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface.
+X, 2022.
+DOI: X.
+
+\bibitem{Xie2023Classification}
+Xie Y, Oniga S.
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks.
+X, 2023.
+DOI: X.
+
+\bibitem{Liu2017Identification}
+Liu R, Zhang Z, Duan F, Zhou X, Meng Z.
+Identification of Anisomerous Motor Imagery EEG Signals Based on Complex Algorithms.
+X, 2017.
+DOI: X.
+
+\bibitem{Wang2008Application}
+Wang L, Xu G, Wang J, Yang S, Yan W.
+Application of Hilbert-Huang transform for the study of motor imagery tasks.
+X, 2008.
+DOI: X.
+
+\bibitem{Zhang2023Recognition}
+Zhang M, Huang J, Ni S.
+Recognition of motor intentions from EEGs of the same upper limb by signal traceability and Riemannian geometry features.
+X, 2023.
+DOI: X.
+
+\bibitem{Thomas2008Adaptive}
+Thomas K.P.; Guan C.; Tong L.C.; Prasad V.A.
+An adaptive filter bank for motor imagery based Brain Computer Interface.
+X, 2008.
+DOI: X.
+
+\bibitem{Wang2018Toward}
+Wang J.; Feng Z.; Lu N.; Luo J.
+Toward optimal feature and time segment selection by divergence method for EEG signals classification.
+X, 2018.
+DOI: X.
+
+\bibitem{Sakhavi2018Learning}
+Sakhavi S.; Guan C.; Yan S.
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks.
+X, 2018.
+DOI: X.
+
+\bibitem{Feng2020Functional}
+Feng Z.; Qian L.; Hu H.; Sun Y.
+Functional Connectivity for Motor Imaginary Recognition in Brain-computer Interface.
+X, 2020.
+DOI: X.
+
+\bibitem{Eltokhy2025Electroencephalogram}
+Eltokhy M.A.R.; Idris S.; Gouda M.M.; Hamad H.; Hosny T.; El-Rifaie A.M.
+Electroencephalogram Feature Extraction and Classification of Motor Imagery EEG Based on Machine Learning Algorithms.
+X, 2025.
+DOI: X.
+
+\bibitem{Ganeshkumar2017Reject}
+Ganeshkumar M.; Ang K.K.; So R.Q.
+Reject option to reduce false prediction rates for EEG-motor imagery based BCI.
+X, 2017.
+DOI: X.
+
+\bibitem{Li2019Three}
+Li B.; Yang B.; Guan C.; Hu C.
+Three-class Motor Imagery Classification Based on FBCSP Combined with Voting Mechanism.
+X, 2019.
+DOI: X.
+
+\bibitem{Chaudhary2021Sensory}
+Chaudhary P.; Agrawal R.
+Sensory motor imagery EEG classification based on non-dyadic wavelets using dynamic weighted majority ensemble classification.
+X, 2021.
+DOI: X.
+
+\bibitem{Hao2025Motor}
+Hao Y.; Lu Q.; Cheng S.
+Motor imagery classification method based on Riemannian Manifold and CNN-LSTM for advanced brain computer interfaces.
+X, 2025.
+DOI: X.
+
+\bibitem{Li2018Self}
+Li D.; Zhang H.; Khan M.S.; Mi F.
+A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition.
+X, 2018.
+DOI: X.
+
+\bibitem{Delisle2019System}
+Delisle-Rodriguez D.; Cardoso V.; Gurve D.; Loterio F.; Alejandra Romero-Laiseca M.; Krishnan S.; Bastos-Filho T.
+System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation.
+X, 2019.
+DOI: X.
+
+\bibitem{Qin2005Wavelet}
+Qin L.; He B.
+A wavelet-based time-frequency analysis approach for classification of motor imagery for brain-computer interface applications.
+X, 2005.
+DOI: X.
+
+\bibitem{Du2021Motor}
+Du Y.; Xu R.; Zhang J.
+Motor Imagery Analysis Based on Filter Bank Common Spatial Pattern.
+X, 2021.
+DOI: X.
+
+\bibitem{Tariq2020Classification}
+Tariq M.; Trivailo P.M.; Simic M.
+Classification of left and right foot kinaesthetic motor imagery using common spatial pattern.
+X, 2020.
+DOI: X.
+
+\bibitem{Thomas2009New}
+Thomas K.P.; Lau C.T.; Vinod A.P.; Guan C.; Ang K.K.
+A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain-Computer Interfaces.
+X, 2009.
+DOI: X.
+
+\bibitem{Xu2022Novel}
+Xu S.; Zhu L.; Kong W.; Peng Y.; Hu H.; Cao J.
+A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network.
+X, 2022.
+DOI: X.
+
+\bibitem{M2014Random}
+M. Bentlemsan; E. -T. Zemouri; D. Bouchaffra; B. Yahya-Zoubir; K. Ferroudji.
+Random Forest and Filter Bank Common Spatial Patterns for EEG-Based Motor Imagery Classification.
+X, 2014.
+DOI: X.
+
+\bibitem{H2015Nonnegative}
+H. Tsubakida; T. Shiratori; A. Ishiyama; Y. Ono.
+Nonnegative matrix factorization common spatial pattern in brain machine interface.
+X, 2015.
+DOI: X.
+
+\bibitem{T2015Three}
+T. Shiratori; H. Tsubakida; A. Ishiyama; Y. Ono.
+Three-class classification of motor imagery EEG data including “rest state” using filter-bank multi-class Common Spatial pattern.
+X, 2015.
+DOI: X.
+
+\bibitem{Tsung2015Developing}
+Tsung-Yu Hsieh; Y. -Y. Lin; Yu-Ting Liu; Chieh-Ning Fang; C. -T. Lin.
+Developing a novel multi-fusion brain-computer interface (BCI) system with particle swarm optimization for motor imagery task.
+X, 2015.
+DOI: X.
+
+\bibitem{P2015Comparison}
+P. Merinov; M. Belyaev; E. Krivov.
+The comparison of automatic artifact removal methods with robust classification strategies in terms of EEG classification accuracy.
+X, 2015.
+DOI: X.
+
+\bibitem{L2013Analytic}
+L. F. Nicolas-Alonso; R. Corralejo; D. Álvarez; R. Hornero.
+Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI.
+X, 2013.
+DOI: X.
+
+\bibitem{R2013Robot}
+R. Upadhyay; P. K. Kankar; P. K. Padhy; V. K. Gupta.
+Robot motion control using Brain Computer Interface.
+X, 2013.
+DOI: X.
+
+\bibitem{S2014Eeg}
+S. C. Machavarapu; M. K. Mukul; D. Kumar.
+EEG classification based on variance.
+X, 2014.
+DOI: X.
+
+\bibitem{Z2014Discriminative}
+Z. Y. Chin; K. K. Ang; C. Wang; C. Guan.
+Discriminative channel addition and reduction for filter bank common spatial pattern in motor imagery BCI.
+X, 2014.
+DOI: X.
+
+\bibitem{N2015Bi}
+N. Robinson; A. P. Vinod.
+Bi-Directional Imagined Hand Movement Classification Using Low Cost EEG-Based BCI.
+X, 2015.
+DOI: X.
+
+\bibitem{E2017Classification}
+E. Dong; G. Zhu; C. Chen.
+Classification of four categories of EEG signals based on relevance vector machine.
+X, 2017.
+DOI: X.
+
+\bibitem{C2015Novel}
+C. -T. Lin; T. -Y. Hsieh; Y. -T. Liu; S. -L. Wu; Y. -Y. Lin.
+A Novel Mechanism to Fuse Various Sub-Aspect Brain-Computer Interface (BCI) Systems with PSO for Motor Imagery Task.
+X, 2015.
+DOI: X.
+
+\bibitem{M2016Ensemble}
+M. Rahimi; A. Zarei; E. Nazerfard; M. H. Moradi.
+Ensemble methods combination for Motor Imagery tasks in Brain Computer Interface.
+X, 2016.
+DOI: X.
+
+\bibitem{R2016Bci}
+R. Helen; S. Gopinath.
+BCI system to classify EEG stimulus pattern.
+X, 2016.
+DOI: X.
+
+\bibitem{M2017Eeg}
+M. E. Sharbaf; A. Fallah; S. Rashidi.
+EEG-based multi-class motor imagery classification using variable sized filter bank and enhanced One Versus One classifier.
+X, 2017.
+DOI: X.
+
+\bibitem{P2017Restricted}
+P. Bustios; J. L. Rosa.
+Restricted exhaustive search for frequency band selection in motor imagery classification.
+X, 2017.
+DOI: X.
+
+\bibitem{H2015Shrinkage}
+H. V. Shenoy; A. P. Vinod; C. Guan.
+Shrinkage estimator based regularization for EEG motor imagery classification.
+X, 2015.
+DOI: X.
+
+\bibitem{L2010Classification}
+L. Ke; J. Shen.
+Classification of EEG signals by ICA and OVR-CSP.
+X, 2010.
+DOI: X.
+
+\bibitem{Kai2008Filter}
+Kai Keng Ang; Zheng Yang Chin; Haihong Zhang; Cuntai Guan.
+Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface.
+X, 2008.
+DOI: X.
+
+\bibitem{K2009Robust}
+K. K. Ang; Z. Y. Chin; H. Zhang; C. Guan.
+Robust filter bank common spatial pattern (RFBCSP) in motor-imagery-based brain-computer interface.
+X, 2009.
+DOI: X.
+
+\bibitem{Z2009Multi}
+Z. Y. Chin; K. K. Ang; C. Wang; C. Guan; H. Zhang.
+Multi-class filter bank common spatial pattern for four-class motor imagery BCI.
+X, 2009.
+DOI: X.
+
+\bibitem{L2009Improved}
+L. Mingai; L. Jingyu; H. Dongmei; Y. Jinfu.
+An Improved CSP Algorithm and Application in Motor Imagery Recognition.
+X, 2009.
+DOI: X.
+
+\bibitem{Q2007Sub}
+Q. Novi; C. Guan; T. H. Dat; P. Xue.
+Sub-band Common Spatial Pattern (SBCSP) for Brain-Computer Interface.
+X, 2007.
+DOI: X.
+
+\bibitem{M2012Multi}
+M. Arvaneh; C. Guan; K. K. Ang; C. Quek.
+Multi-frequency band common spatial pattern with sparse optimization in Brain-Computer Interface.
+X, 2012.
+DOI: X.
+
+\bibitem{Z2011Filter}
+Z. Y. Chin; K. K. Ang; C. Guan; C. Wang; H. Zhang.
+Filter Bank Feature Combination (FBFC) approach for brain-computer interface.
+X, 2011.
+DOI: X.
+
+\bibitem{M2023Optimizing}
+M. M. Esfahani; M. H. Najafi; H. Sadati.
+Optimizing EEG Signal Classification for Motor Imagery BCIs: FilterBank CSP with Riemannian Manifolds and Ensemble Learning Models.
+X, 2023.
+DOI: X.
+
+\bibitem{M2023Design}
+M. P. Kavian; A. Fallah; S. Rashidi.
+Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery.
+X, 2023.
+DOI: X.
+
+\bibitem{J2023Wpsd}
+J. Shi; Q. Wang; D. Liu; C. Kim; Y. Zhang; X. Liu.
+A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination.
+X, 2023.
+DOI: X.
+
+\bibitem{J2024Channel}
+J. Shin; W. Chung.
+Channel-optimized Local Region Riemannian Approach for Motor Imagery Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{S2024Advancements}
+S. Kundu; A. S. Tomar; A. Chowdhury; G. Thakur; A. Tomar.
+Advancements in Temporal Fusion: A New Horizon for EEG-Based Motor Imagery Classification.
+X, 2024.
+DOI: X.
+
+\bibitem{Y2024Hierarchical}
+Y. Qiao; R. Shi; F. Guo; B. Zhao; W. Li; Z. Liu; F. Duan.
+A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG.
+X, 2024.
+DOI: X.
+
+\bibitem{A2024Short}
+A. B. Lana Maciel Moreira Armond; G. H. de Souza; D. E. Dos Santos; H. S. Bernardino.
+Short-Term Fourier Transform as Preprocessing for Common Spatial Pattern.
+X, 2024.
+DOI: X.
+
+\bibitem{Z2022Study}
+Z. Cui; B. Guo; J. Zhang; Z. Wang.
+A study of EEG motor imagery classification algorithm based on WPD-AFBCSP.
+X, 2022.
+DOI: X.
+
+\bibitem{N2023Autoencoder}
+N. Mammone; C. Ieracitano; H. Adeli; F. C. Morabito.
+AutoEncoder Filter Bank Common Spatial Patterns to Decode Motor Imagery From EEG.
+X, 2023.
+DOI: X.
+
+\bibitem{P2023Non}
+P. Tan; X. Su; L. Yu; Y. Shen.
+Non-Uniform Filter Banks-based Minimum Distance to Riemannian Mean Classification in Motor Imagery BCI.
+X, 2023.
+DOI: X.
+
+\bibitem{S2023Eeg}
+S. Akuthota; K. Rajkumar; J. Ravichander.
+EEG based Motor Imagery BCI using Four Class Iterative Filtering & Four Class Filter Bank Common Spatial Pattern.
+X, 2023.
+DOI: X.
+
+\bibitem{S2025Improved}
+S. Subekti; I. Rizki; A. Rizal; S. Hadiyoso; A. J. Zaylaa; T. Triwiyanto.
+Improved Feature Selection Using Equal Grouping Method for EEG Motor Imagery.
+X, 2025.
+DOI: X.
+
+\bibitem{Y2025Eeg}
+Y. Kashyap; E. Chowdhury; C. S. Kumar; M. Mahadevappa.
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern.
+X, 2025.
+DOI: X.
+
+\bibitem{S2025Adaptive}
+S. Parui; A. Das; S. Banerjee; M. K. Gourisaria; R. K. Rai.
+Adaptive Spatial Filtering and Linear Discriminant Learning for Robust Motor Imagery EEG Classification.
+X, 2025.
+DOI: X.
+
+\bibitem{U2025Enhanced}
+U. M. V; M. P. Kumar; A. Patil; V. V. S. Kumar; M. S. Prashanth; S. Kiran.
+Enhanced Brain-Computer Interface for EEG Motor Imagery Using DC-GCN and Evolutionary Optimization.
+X, 2025.
+DOI: X.
+
+\bibitem{A2024Motor}
+A. M. Kristanto; E. C. Djamal; R. Ilyas.
+Motor Imagery Recognition Using Filter Bank Common Spatial Pattern and Recurrent Neural Networks.
+X, 2024.
+DOI: X.
+
+\bibitem{B2024Benchmarking}
+B. Irvine; H. Abou-Zeid; A. Kirton; E. Kinney-Lang.
+Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces.
+X, 2024.
+DOI: X.
+
+\bibitem{S2024Motor}
+S. K. Mandal; A. K. Jena.
+Motor Imagery Classification in EEG signals using Hybrid CNN-ISqueeze net.
+X, 2024.
+DOI: X.
+
+\bibitem{J2024Enhancing}
+J. Souissi; S. Karmani; K. Belwafi; R. Djemal.
+Enhancing Four-Class Motor Imagery Detection Through Advanced Feature Extraction Techniques.
+X, 2024.
+DOI: X.
+
+\bibitem{F2025Common}
+F. Asadi; K. Thangthong; S. Tungjitkusolmun.
+Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI.
+X, 2025.
+DOI: X.
+
+\bibitem{H2025Trinet}
+H. F. Abbasi; M. Ahmed Abbasi; S. Jianbo; X. Liping; X. Yu.
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface.
+X, 2025.
+DOI: X.
+
+\bibitem{H2025Eeg}
+H. J. P. K; K. A. Muhammed Fahim; S. K. B.; B. Sajeev; C. Parameswaran; B. M. C.
+EEG based BCI for Seemless Home Automation.
+X, 2025.
+DOI: X.
+
+\bibitem{Y2025Bci}
+Y. Narayan; D. Gautam; D. Lakhwani; R. Kakkar.
+BCI based EEG Signals classification using Machine Learning Approach.
+X, 2025.
+DOI: X.
+
+\bibitem{D2025Smanet}
+D. Wang; Q. Wei.
+SMANet: A Model Combining SincNet, Multi-Branch Spatial-Temporal CNN, and Attention Mechanism for Motor Imagery BCI.
+X, 2025.
+DOI: X.
+
+\bibitem{Q2025Study}
+Q. Cui; X. Zhang; K. Xu; S. Wang.
+A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms.
+X, 2025.
+DOI: X.
+
+\bibitem{I2022Motor}
+I. Siviero; L. Brusini; G. Menegaz; S. F. Storti.
+Motor-imagery EEG signal decoding using multichannel-empirical wavelet transform for brain computer interfaces.
+X, 2022.
+DOI: X.
+
+\bibitem{Z2022Cognitive}
+Z. Lv; L. Qiao; H. Lv.
+Cognitive Computing for Brain-Computer Interface-Based Computational Social Digital Twins Systems.
+X, 2022.
+DOI: X.
+
+\bibitem{S2019Improved}
+S. Chua; Y. Tao; R. Q. So.
+Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation.
+X, 2019.
+DOI: X.
+
+\bibitem{O2020Subject}
+O. -Y. Kwon; M. -H. Lee; C. Guan; S. -W. Lee.
+Subject-Independent Brain-Computer Interfaces Based on Deep Convolutional Neural Networks.
+X, 2020.
+DOI: X.
+
+\bibitem{F2019Motor}
+F. Farooq; N. Rashid; A. Farooq; M. Ahmed; A. Zeb; J. Iqbal.
+Motor Imagery based Multivariate EEG Signal Classification for Brain Controlled Interface Applications.
+X, 2019.
+DOI: X.
+
+\bibitem{P2019New}
+P. K. Parashiva; A. P. Vinod.
+A New Channel Selection Method using Autoencoder for Motor Imagery based Brain Computer Interface.
+X, 2019.
+DOI: X.
+
+\bibitem{R2020Long}
+R. H. Elessawy; S. Eldawlatly; H. M. Abbas.
+A Long Short-Term Memory Autoencoder Approach for EEG Motor Imagery Classification.
+X, 2020.
+DOI: X.
+
+\bibitem{Y2018Classification}
+Y. Paul; R. A. Jaswal.
+Classification of EEG for Upper Limb Motor Imagery: An Approach for Rehabilitation.
+X, 2018.
+DOI: X.
+
+\bibitem{M2017Improving}
+M. Mohammadi; M. R. Mosavi.
+Improving the efficiency of an EEG-based brain computer interface using Filter Bank Common Spatial Pattern.
+X, 2017.
+DOI: X.
+
+\bibitem{S2018Filter}
+S. -H. Park; D. Lee; S. -G. Lee.
+Filter Bank Regularized Common Spatial Pattern Ensemble for Small Sample Motor Imagery Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{R2018New}
+R. Zhang; X. Xiao; Z. Liu; W. Jiang; J. Li; Y. Cao; J. Ren; D. Jiang; L. Cui.
+A New Motor Imagery EEG Classification Method FB-TRCSP+RF Based on CSP and Random Forest.
+X, 2018.
+DOI: X.
+
+\bibitem{S2018Bayesian2}
+S. Shahtalebi; A. Mohammadi.
+A Bayesian Framework to Optimize Double Band Spectra Spatial Filters for Motor Imagery Classification.
+X, 2018.
+DOI: X.
+
+\bibitem{J2018Relevant}
+J. S. Kirar; R. K. Agrawal.
+Relevant Frequency Band Selection using Sequential Forward Feature Selection for Motor Imagery Brain Computer Interfaces.
+X, 2018.
+DOI: X.
+
+\bibitem{Y2018Comparative}
+Y. Chu; X. Zhao; Y. Zou; H. Zhang; W. Xu; Y. Zhao.
+A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity.
+X, 2018.
+DOI: X.
+
+\bibitem{W2018High}
+W. Abbas; N. A. Khan.
+A High Performance Approach for Classification of Motor Imagery EEG.
+X, 2018.
+DOI: X.
+
+\bibitem{P2018Experimental}
+P. K. Shukla; R. Kumar Chaurasiya.
+An Experimental Analysis of Motor Imagery EEG Signals Using Feature Extraction and Classification Methodologies.
+X, 2018.
+DOI: X.
+
+\bibitem{W2018Fbcsp}
+W. Abbas; N. A. Khan.
+FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features.
+X, 2018.
+DOI: X.
+
+\bibitem{T2018Eeg}
+T. Yang; K. K. Ang; K. S. Phua; J. Yu; V. Toh; W. H. Ng; R. Q. So.
+EEG Channel Selection Based on Correlation Coefficient for Motor Imagery Classification: A Study on Healthy Subjects and ALS Patient.
+X, 2018.
+DOI: X.
+
+\bibitem{A2021Novel}
+A. Tiwari; A. Chaturvedi.
+A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance.
+X, 2021.
+DOI: X.
+
+\bibitem{Y2021Filter}
+Y. Zhang; S. Qiu; W. Wei; X. Ma; H. He.
+Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface.
+X, 2021.
+DOI: X.
+
+\bibitem{A2021Cnn}
+A. Zancanaro; G. Cisotto; J. R. Paulo; G. Pires; U. J. Nunes.
+CNN-based Approaches For Cross-Subject Classification in Motor Imagery: From the State-of-The-Art to DynamicNet.
+X, 2021.
+DOI: X.
+
+\bibitem{J2021Filter}
+J. Chen; W. Yi; D. Wang.
+Filter Bank Sinc-ShallowNet with EMD-based Mixed Noise Adding Data Augmentation for Motor Imagery Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{X2021Correlation}
+X. Zou; X. Xie; F. Qi.
+Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification.
+X, 2021.
+DOI: X.
+
+\bibitem{X2021Multi}
+X. Wei; E. Dong; L. Zhu.
+Multi-class MI-EEG Classification: Using FBCSP and Ensemble Learning Based on Majority Voting.
+X, 2021.
+DOI: X.
+
+\bibitem{S2022Brain}
+S. Parui; D. Basu; U. Ghosh; R. Datta.
+A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal.
+X, 2022.
+DOI: X.
+
+\bibitem{M2022Application}
+M. M. Esfahani; H. Sadati.
+Application of Transfer Learning in Optimized Filter-Bank Regularized CSP to Classification of EEG Signals with Small Dataset.
+X, 2022.
+DOI: X.
+
+\bibitem{Y2022Multi}
+Y. An; S. H. Han; S. Ho Ling.
+Multi-classification for EEG Motor Imagery Signals using Auto-selected Filter Bank Regularized Common Spatial Pattern.
+X, 2022.
+DOI: X.
+
+\bibitem{Q2022Brain}
+Q. Wei; A. Wei; F. Peng; X. Zhang; X. Wang; Z. Wang; P. Li.
+Brain-Computer Interface Rehabilitation System Design Based on Motor Imagery.
+X, 2022.
+DOI: X.
+
+\bibitem{A2022Motor2}
+A. E. Voinas; R. Das; M. A. Khan; I. Brunner; S. Puthusserypady.
+Motor Imagery EEG Signal Classification for Stroke Survivors Rehabilitation.
+X, 2022.
+DOI: X.
+
+\bibitem{Y2022Tensor}
+Y. Pei; Z. Luo; H. Zhao; D. Xu; W. Li; Y. Yan; H. Yan; L. Xie; M. Xu; E. Yin.
+A Tensor-Based Frequency Features Combination Method for Brain-Computer Interfaces.
+X, 2022.
+DOI: X.
+
+\bibitem{M2021Motor2}
+M. Wei; R. Yang; M. Huang.
+Motor Imagery EEG Signal Classification based on Deep Transfer Learning.
+X, 2021.
+DOI: X.
+
+\bibitem{R2020Fbcsp}
+R. Das; P. S. Lopez; M. Ahmed Khan; H. K. Iversen; S. Puthusserypady.
+FBCSP and Adaptive Boosting for Multiclass Motor Imagery BCI Data Classification: A Machine Learning Approach.
+X, 2020.
+DOI: X.
+
+\bibitem{C2020Computationally}
+C. Zhang; A. Eskandarian.
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery.
+X, 2020.
+DOI: X.
+
+\bibitem{H2020Approach}
+H. Wang; C. Tang; T. Xu; T. Li; L. Xu; H. Yue; P. Chen; J. Li; A. Bezerianos.
+An Approach of One-vs-Rest Filter Bank Common Spatial Pattern and Spiking Neural Networks for Multiple Motor Imagery Decoding.
+X, 2020.
+DOI: X.
+
+\bibitem{C2020Novel}
+C. Tang; L. Xu; P. Chen; Y. He; A. Bezerianos; H. Wang.
+A Novel Multiple Motor Imagery Experimental Paradigm Design and Neural Decoding.
+X, 2020.
+DOI: X.
+
+\bibitem{Y2020Nao}
+Y. Guo; M. Wang; T. Zheng; Y. Li; P. Wang; X. Qin.
+NAO Robot Limb Control Method Based on Motor Imagery EEG.
+X, 2020.
+DOI: X.
+
+\bibitem{D2021Attention}
+D. -H. Ko; D. -H. Shin; T. -E. Kam.
+Attention-based spatio-temporal-spectral feature learning for subject-specific EEG classification.
+X, 2021.
+DOI: X.
+
+\bibitem{X2020Multi}
+X. Rao; H. Fang.
+Multi-task recognition motor imagery based on deep learning.
+X, 2020.
+DOI: X.
+
+\bibitem{X2021Advanced}
+X. Deng; B. Zhang; N. Yu; K. Liu; K. Sun.
+Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces.
+X, 2021.
+DOI: X.
+
+\bibitem{P2008Improving}
+P. Eskandari; A. Erfanian.
+Improving the performance of brain-computer interface through meditation practicing.
+X, 2008.
+DOI: X.
+
+\bibitem{Z2023Approach}
+Ž. Rohutná; R. Vargic.
+An Approach to EEG based BCI for Motor Imagery using Explainable Transfer Learning.
+X, 2023.
+DOI: X.
+
+\bibitem{C2023Performance}
+C. M. Yilmaz; B. H. Yilmaz.
+Performance Evaluation of Xception Networks and Short-Time Fourier Transform Spectrograms for Motor Imagery Classification.
+X, 2023.
+DOI: X.

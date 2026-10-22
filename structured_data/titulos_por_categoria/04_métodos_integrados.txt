@@ -1,0 +1,59 @@
+A2FWPO: Anti-aliasing Filter Based on Whale Parameter Optimization Method for Feature Extraction and Recognition of Dance Motor Imagery EEG
+iTa-DFiE: An Innovative Tensor Algebra-Based Detection Framework for Incomplete Noninvasive Electroencephalography
+CD3Net: A Contrastive Diffusion Model with Domain Adaptive Data Synthetic Network for Motor Imagery and Emotion classification
+Flexible coding scheme for robotic arm control driven by motor imagery decoding
+Adaptive spiking convolutional network for decoding motor imagery patterns
+Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding
+EEG denoising with a recurrent quantum neural network for a brain-computer interface
+Development of an Adaptive Artifact Subspace Reconstruction Based on Hebbian/Anti-Hebbian Learning Networks for Enhancing BCI Performance
+Model and Data Dual-Driven Double-Point Observation Network for Ultra-Short MI EEG Classification
+SAT-Net: SincNet-Based Attentive Temporal Convolutional Network for Motor Imagery Classification
+MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification
+A Subject-Specific Time Window Selection Method for Motor Imagery BCI
+Classification Algorithm for Motor Imagery EEG Signals Based on Multi-Domain Information CNN
+STOW-Net: Spatio-Temporal Operation Based Deep Learning Network for Classifying Wavelet Transformed Motor Imagery EEG Signals
+A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding
+Effect of EOG Artifact Removal on EEG Motor-Imagery Classification
+FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding
+Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System
+Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification
+Sparse Bayesian Learning for End-to-End EEG Decoding
+EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding
+TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements
+Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding
+Learned-Weight Ensemble Monte Carlo DropBlock for Uncertainty Estimation and EEG Classification
+A Multi-Band Self-Attention Network for Motor Imagery Classification
+Multi-Scale Causal Convolution-Based Swin Transformer for Motor Imagery EEG Classification
+Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification
+RGFTSLANet: A Cross-Subject Classification Model for Decoding EEG-Based Motor Imagery Tasks
+Home Robot Motor Imagery Interaction and Emotional Awareness Based on Multimodal EEG Feature Extraction
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification
+Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification
+A Lightweight End-to-End Three-domain Feature Fusion Network for Motor Imagery Decoding
+A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN
+AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold
+K-Medoids-based ICA and Wavelet-Enhanced Multi-resolution Convolutional Network for Motor Imagery EEG
+An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification
+Spatial Component-wise Convolutional Network (SCCNet) for Motor-Imagery EEG Classification
+Transfer Learning based Motor Imagery Classification using Convolutional Neural Networks
+SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces
+S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation
+Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks
+Motor imagery classification method based on Riemannian Manifold and CNN-LSTM for advanced brain computer interfaces
+A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network
+A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern
+Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces
+TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface
+SMANet: A Model Combining SincNet, Multi-Branch Spatial—Temporal CNN, and Attention Mechanism for Motor Imagery BCI
+Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation
+Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface
+CNN-based Approaches For Cross-Subject Classification in Motor Imagery: From the State-of-The-Art to DynamicNet
+Filter Bank Sinc-ShallowNet with EMD-based Mixed Noise Adding Data Augmentation for Motor Imagery Classification
+Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces

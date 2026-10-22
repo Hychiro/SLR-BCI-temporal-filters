@@ -1,0 +1,87 @@
+A Graph-Based Feature Extraction Algorithm Towards a Robust Data Fusion Framework for Brain-Computer Interfaces
+Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery
+State-of-the-Art Versus Deep Learning: A Comparative Study of Motor Imagery Decoding Techniques
+Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification
+EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system
+Motor imagery classification using feature relevance analysis: An Emotiv-based BCI system
+Real-time single channel EEG motor imagery based Brain Computer Interface
+Classifying motor imagery EEG by Empirical Mode Decomposition based on spatial-time-frequency joint analysis approach
+BCI-Based Robotic Arm for Medical Rehabilitation
+Enhancing Motor Imagery Classification in Brain–Computer Interfaces Using Deep Learning and Continuous Wavelet Transform
+Classification of motor imagery BCI using multivariate empirical mode decomposition
+A tensor-based scheme for stroke patients' motor imagery EEG analysis in BCI-FES rehabilitation training
+Classification of four-class motor imagery employing single-channel electroencephalography
+An improved feature extraction method for self-paced brain-computer interface application
+Feature Extraction and Classification of EEG Signal Based on Deep Learning
+A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning
+Motor imagery EEG discrimination using the correlation of wavelet features
+A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems
+Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification
+Kernel-based relevant feature extraction to support Motor Imagery classification
+Motor imagery movements classification using multivariate EMD and short time Fourier transform
+A self produced mother wavelet feature extraction method for motor imagery brain-computer interface
+Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification
+BMFLC with neural network and DE for better event classification
+Application of neural network to brain-computer interface
+Comparative study of band-power extraction techniques for Motor Imagery classification
+Novel feature of the EEG based motor imagery BCI system: Degree of imagery
+Deep convolutional neural network for decoding motor imagery based brain computer interface
+Optimal Fuzzy Logic Enabled EEG Motor Imagery Classification for Brain Computer Interface
+A Subject-Specific Time Window Selection Method for Motor Imagery BCI
+Classification of Motor Imagery EEG Signals Using Deep Learning
+Classification Algorithm for Motor Imagery EEG Signals Based on Multi-Domain Information CNN
+Time-Frequency-Space EEG Decoding Model Based on Dense Graph Convolutional Network for Stroke
+Subject Wise Motor Imagery Classification from EEG Data Using Transfer Learning
+Motor Imagery based EEG Signal Classification using Multi-scale CNN Architecture
+Brain-Computer Interface Based Control for Disabled
+Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network
+Time-frequency analysis and spiking neural network for motor imagery EEG classification
+Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System
+EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification
+Motor Imagery BCI Classification Using Synchrosqueezing Transform
+Motor Imagery Classification Enhancement using Generative Adversarial Networks for EEG Spectrum Image Generation
+Motor Imagery EEG Classification Using Fine-Tuned Deep Convolutional EfficientNetB0 Model
+Enhancing Motor Imagery EEG Signal Classification with Simplified GoogLeNet
+Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding
+BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks
+Scale Specific Riemannian Features with Graph Convolutional Network for Motor Imagery EEG Classification
+SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification
+Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification
+A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network
+Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal
+ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System
+Motor Imagery Hand Movements Recognition Using SVM Classifier and Genetic Algorithm Optimization
+Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification
+Decoding Two-Class Motor Imagery EEG with Capsule Networks
+A Deep Transfer Convolutional Neural Network Framework for EEG Signal Classification
+A Deep Learning Framework for Decoding Motor Imagery Tasks of the Same Hand Using EEG Signals
+Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery
+Classification of EEG Motor Imagery Tasks Using Convolution Neural Networks
+EEG Feature Extraction of Motor Imagery Based on WT and STFT
+Classification of Motor Imagery EEG Signals with multi-input Convolutional Neural Network by augmenting STFT
+A convolution neural networks scheme for classification of motor imagery EEG based on wavelet time-frequecy image
+Study on Classification of Left-Right Hands Motor Imagery EEG Signals Based on CNN
+Transform based feature construction utilizing magnitude and phase for convolutional neural network in EEG signal classification
+Short-Time Fourier Transform Covariance and Selection, A Feature Extraction Method for Binary Motor Imagery Classification
+A Transfer Learning Method based on VGG-16 Convolutional Neural Network for MI Classification
+Motor Imagery Signal Classification Using Constant-Q Transform for BCI Applications
+Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks
+Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation
+Transfer Learning for Classifying Motor Imagery EEG: A Comparative Study
+A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification
+S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation
+Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI
+Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks
+Application of Hilbert-Huang transform for the study of motor imagery tasks
+System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation
+A wavelet-based time-frequency analysis approach for classification of motor imagery for brain-computer interface applications
+Nonnegative matrix factorization common spatial pattern in brain machine interface
+A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination
+Short-Term Fourier Transform as Preprocessing for Common Spatial Pattern
+Motor Imagery Classification in EEG signals using Hybrid CNN-ISqueeze net
+EEG based BCI for Seemless Home Automation
+A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms
+Motor Imagery EEG Signal Classification based on Deep Transfer Learning
+A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery
+An Approach to EEG based BCI for Motor Imagery using Explainable Transfer Learning
+Performance Evaluation of Xception Networks and Short-Time Fourier Transform Spectrograms for Motor Imagery Classification

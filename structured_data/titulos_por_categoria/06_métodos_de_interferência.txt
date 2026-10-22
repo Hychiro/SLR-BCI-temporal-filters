@@ -1,0 +1,21 @@
+Feature bands study of MI signals based on FBCSP for CNN
+Classification of imagery motor EEG data with wavelet denoising and features selection
+Envelope detection based on online ICA algorithm and its application to motor imagery classification
+The Influence of Smoothing Filtering Methods on the Performance of an EEG-Based Brain–Computer Interface
+Motor imagery EEG discrimination using the correlation of wavelet features
+Classification of motor imagery EEG patterns and their topographic representation
+Application of neural network to brain-computer interface
+A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry
+Motor Imagery EEG Signals Classification Based on Mode Amplitude and Frequency Components Using Empirical Wavelet Transform
+A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI
+Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks
+Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces
+A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks
+Functional Connectivity for Motor Imaginary Recognition in Brain-computer Interface
+Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI
+EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern
+A High Performance Approach for Classification of Motor Imagery EEG
+FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features
+Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface
+Motor Imagery EEG Signal Classification based on Deep Transfer Learning

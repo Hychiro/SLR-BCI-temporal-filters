@@ -1,0 +1,647 @@
+OK	01_filtros_digitais_clássicos.txt	Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces	Higashi2013Common
+OK	01_filtros_digitais_clássicos.txt	A hybrid EEG-fNIRS BCI: Motor imagery for EEG and mental arithmetic for fNIRS	M2014Hybrid
+OK	01_filtros_digitais_clássicos.txt	Motor imagery classification by means of source analysis for brain-computer interface applications	Qin2004Motor
+OK	01_filtros_digitais_clássicos.txt	A Graph-Based Feature Extraction Algorithm Towards a Robust Data Fusion Framework for Brain-Computer Interfaces	S2021Graph
+OK	01_filtros_digitais_clássicos.txt	Design method of morphological structuring function for pattern recognition of EEG signals during motor imagery and cognition	Yamaguchi2011Design
+OK	01_filtros_digitais_clássicos.txt	A2FWPO: Anti-aliasing Filter Based on Whale Parameter Optimization Method for Feature Extraction and Recognition of Dance Motor Imagery EEG	Huang2023A2fwpo
+OK	01_filtros_digitais_clássicos.txt	Multivariate Adaptive Autoregressive Modeling and Kalman Filtering for Motor Imagery BCI	I2015Multivariate
+OK	01_filtros_digitais_clássicos.txt	Hybrid mental tasks based human computer interface via integration of pronunciation and motor imagery	Tong2022Hybrid
+OK	01_filtros_digitais_clássicos.txt	Wavelet analysis of EEG signals during motor imagery	Yamaguchi2008Wavelet
+OK	01_filtros_digitais_clássicos.txt	Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery	J2013Time
+OK	01_filtros_digitais_clássicos.txt	Feature selection strategy for classification of single-trial EEG elicited by motor imagery	S2011Feature
+OK	01_filtros_digitais_clássicos.txt	A Deep Learning Scheme for Motor Imagery Classification based on Restricted Boltzmann Machines	Lu2017Deep
+OK	01_filtros_digitais_clássicos.txt	Statistical Wavelets With Harmony Search- Based Optimal Feature Selection of EEG Signals for Motor Imagery Classification	S2021Statistical
+OK	01_filtros_digitais_clássicos.txt	Emotion-Inducing Imagery Versus Motor Imagery for a Brain-Computer Interface	A2020Emotion
+OK	01_filtros_digitais_clássicos.txt	Classification scheme for arm motor imagery	Tavakolan2016Classification
+OK	01_filtros_digitais_clássicos.txt	Adaptive modelling of eeg signals to produce accurate time-frequency decompositions for use in BCI	M2016Adaptive
+OK	01_filtros_digitais_clássicos.txt	A study on the efficient tracking of ERD based on the adaptive identification of the subject's reactive band	M2016Study
+OK	01_filtros_digitais_clássicos.txt	Effects of Trial-Adjusted Neurofeedback Training on Motor-Imagery Based Brain-Computer Interface Performance	A2023Effects
+OK	01_filtros_digitais_clássicos.txt	An Effect of Limb Position in Motor Imagery Training Paradigm in Immersive Virtual Environment	S2022Effect
+OK	01_filtros_digitais_clássicos.txt	Motor-Related EEG Analysis Using a Pole Tracking Approach	K2024Motor
+OK	01_filtros_digitais_clássicos.txt	Enhanced BCI Performance using Diffusion Model for EEG Generation	Y2024Enhanced
+OK	01_filtros_digitais_clássicos.txt	Simultaneous design of FIR filter banks and spatial patterns for EEG signal classification	Higashi2013Simultaneous
+OK	01_filtros_digitais_clássicos.txt	Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM	Yang2024Research
+OK	01_filtros_digitais_clássicos.txt	Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution	Albahri2025Trust
+OK	01_filtros_digitais_clássicos.txt	A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals	Y2023Region
+OK	01_filtros_digitais_clássicos.txt	Classification of EEG Signals Using a Common Spatial Pattern Based Motor-Imagery for a Lower-limb Rehabilitation Exoskeleton	C2023Classification
+OK	01_filtros_digitais_clássicos.txt	State-of-the-Art Versus Deep Learning: A Comparative Study of Motor Imagery Decoding Techniques	O2022State
+OK	01_filtros_digitais_clássicos.txt	Optimal design of a bank of spatio-temporal filters for EEG signal classification	H2011Optimal
+OK	01_filtros_digitais_clássicos.txt	Smart thoughts: BCI based system implementation to detect motor imagery movements	I2018Smart
+OK	01_filtros_digitais_clássicos.txt	Discrimination of motor imagery patterns by electroencephalogram phase synchronization combined with frequency band energy	Liu2017Discrimination
+OK	01_filtros_digitais_clássicos.txt	Real-Time Motor Imagery-Based Brain–Computer Interface System by Implementing a Frequency Band Selection	Abdul2023Real
+OK	01_filtros_digitais_clássicos.txt	Classification of motor imagery by means of cortical current density estimation and Von Neumann entropy	Kamousi2007Classification
+OK	01_filtros_digitais_clássicos.txt	Research on Movement Intentions of Human's Left and Right Legs Based on Electro-Encephalogram Signals	Dong2022Research
+OK	01_filtros_digitais_clássicos.txt	EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system	Aviles2016Eeg
+OK	01_filtros_digitais_clássicos.txt	Classification of imagery motor EEG data with wavelet denoising and features selection	Sun2016Classification
+OK	01_filtros_digitais_clássicos.txt	EEG classification of different imaginary movements within the same limb	Yong2015Eeg
+OK	01_filtros_digitais_clássicos.txt	Structure constrained semi-nonnegative matrix factorization for EEG-based motor imagery classification	Lu2015Structure
+OK	01_filtros_digitais_clássicos.txt	Implementation of nonlinear classifiers for adaptive autoregressive EEG features classification	M2015Implementation
+OK	01_filtros_digitais_clássicos.txt	Envelope detection based on online ICA algorithm and its application to motor imagery classification	X2013Envelope
+OK	01_filtros_digitais_clássicos.txt	An adaptive EEG filtering approach to maximize the classification accuracy in motor imagery	K2014Adaptive
+OK	01_filtros_digitais_clássicos.txt	Real-time single channel EEG motor imagery based Brain Computer Interface	J2016Real
+OK	01_filtros_digitais_clássicos.txt	Joint spatial-temporal filter design for analysis of motor imagery EEG	X2013Joint
+OK	01_filtros_digitais_clássicos.txt	Motor imagery classification by means of source analysis methods	L2004Motor
+OK	01_filtros_digitais_clássicos.txt	Study of On-Line Adaptive Discriminant Analysis for EEG-Based Brain Computer Interfaces	C2007Study
+OK	01_filtros_digitais_clássicos.txt	Classifying Single-Trial EEG During Motor Imagery by Iterative Spatio-Spectral Patterns Learning (ISSPL)	W2008Classifying
+OK	01_filtros_digitais_clássicos.txt	A Study on the impact of spectral variability in brain-computer interface	K2010Study
+OK	01_filtros_digitais_clássicos.txt	Novel feature generation and classification for a 2-state Self-paced Brain Computer Interface system	J2012Novel
+OK	01_filtros_digitais_clássicos.txt	Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery	S2023Spatio
+OK	01_filtros_digitais_clássicos.txt	Improving classification accuracy for motor imagery BCI using DWT based Features	A2023Improving
+OK	01_filtros_digitais_clássicos.txt	Development of an Adaptive Artifact Subspace Reconstruction Based on Hebbian/Anti-Hebbian Learning Networks for Enhancing BCI Performance	B2024Development
+OK	01_filtros_digitais_clássicos.txt	Features Extraction Technique Analysis of EEG Signal for Motor Imagery Classification	F2023Features
+OK	01_filtros_digitais_clássicos.txt	BCI-Based Robotic Arm for Medical Rehabilitation	H2025Bci
+OK	01_filtros_digitais_clássicos.txt	Rapid prototyping of an EEG-based brain-computer interface (BCI)	Guger2001Rapid
+OK	01_filtros_digitais_clássicos.txt	Design of a Brain Computer Interface system based on electroencephalogram(EEG)	O2010Design
+OK	01_filtros_digitais_clássicos.txt	The Influence of Smoothing Filtering Methods on the Performance of an EEG-Based Brain–Computer Interface	S2023Influence
+OK	01_filtros_digitais_clássicos.txt	A Hardware/Software Prototype of EEG-based BCI System for Home Device Control	Belwafi2017Hardware
+OK	01_filtros_digitais_clássicos.txt	Feature Extraction Techniques for the Classification of Four-Class Motor Imagery Based EEG Data: A Comparison	Mahamune2021Feature
+OK	01_filtros_digitais_clássicos.txt	Model and Data Dual-Driven Double-Point Observation Network for Ultra-Short MI EEG Classification	Niu2024Model
+OK	01_filtros_digitais_clássicos.txt	Classification of motor imagery BCI using multivariate empirical mode decomposition	Park2013Classification
+OK	01_filtros_digitais_clássicos.txt	A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals	Yang2024Novel
+OK	01_filtros_digitais_clássicos.txt	A tensor-based scheme for stroke patients' motor imagery EEG analysis in BCI-FES rehabilitation training	Liu2014Tensor
+OK	01_filtros_digitais_clássicos.txt	Graph-based feature learning methods for subject-dependent and subject-independent motor imagery EEG decoding	Zhang2025Graph
+OK	01_filtros_digitais_clássicos.txt	Time window and frequency band optimization using regularized neighbourhood component analysis for Multi-View Motor Imagery EEG classification	Singh2021Time
+OK	01_filtros_digitais_clássicos.txt	A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning	Li2020Novel
+OK	01_filtros_digitais_clássicos.txt	Classification of single trial motor imagery EEG recordings with subject adapted non-dyadic arbitrary time-frequency tilings	Firat2006Classification
+OK	01_filtros_digitais_clássicos.txt	Recognition of motor imagery tasks for BCI using CSP and chaotic PSO twin SVM	Duan2017Recognition
+OK	01_filtros_digitais_clássicos.txt	Optimum spatio-spectral filtering network for brain-computer interface	Zhang2011Optimum
+OK	01_filtros_digitais_clássicos.txt	A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task	Ince2006Space
+OK	01_filtros_digitais_clássicos.txt	A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training	Liu2016Boosting
+OK	01_filtros_digitais_clássicos.txt	A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems	Chacon2023Cnn
+OK	01_filtros_digitais_clássicos.txt	Data-efficient motor imagery decoding in real-time for the cybathlon brain-computer interface race	Ponferrada2018Data
+OK	01_filtros_digitais_clássicos.txt	Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification	Xu2019Wavelet
+OK	01_filtros_digitais_clássicos.txt	Spatiotemporal source tuning filter bank for multiclass EEG based brain computer interfaces	Acharya2006Spatiotemporal
+OK	01_filtros_digitais_clássicos.txt	EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization	Miao2016Eeg
+OK	01_filtros_digitais_clássicos.txt	Applying Kalman filter in EEG-Based Brain Computer Interface for Motor Imagery classification	Nik2013Applying
+OK	01_filtros_digitais_clássicos.txt	The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP	X2014Offline
+OK	01_filtros_digitais_clássicos.txt	Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification	F2014Spatio
+OK	01_filtros_digitais_clássicos.txt	A bacterial foraging optimization and learning automata based feature selection for motor imagery EEG classification	M2014Bacterial
+OK	01_filtros_digitais_clássicos.txt	Spatial Filter Bank based on Probabilistic Common Spatial Pattern in Motor Imagery BCI systems	A2016Spatial
+OK	01_filtros_digitais_clássicos.txt	A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization	X2017Unified
+OK	01_filtros_digitais_clássicos.txt	Feature extraction by common spatial pattern in frequency domain for motor imagery tasks classification	J2017Feature
+OK	01_filtros_digitais_clássicos.txt	Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI	S2016Data
+OK	01_filtros_digitais_clássicos.txt	Wavelet coherence based channel selection for classifying single trial motor imagery	S2016Wavelet
+OK	01_filtros_digitais_clássicos.txt	A self produced mother wavelet feature extraction method for motor imagery brain-computer interface	W2013Self
+OK	01_filtros_digitais_clássicos.txt	Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification	D2008Classification
+OK	01_filtros_digitais_clássicos.txt	Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task	N2006Using
+OK	01_filtros_digitais_clássicos.txt	Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling	N2006Motor
+OK	01_filtros_digitais_clássicos.txt	Application of neural network to brain-computer interface	W2012Application
+OK	01_filtros_digitais_clássicos.txt	A novel EMD-based Common Spatial Pattern for motor imagery brain-computer interface	W2012Novel
+OK	01_filtros_digitais_clássicos.txt	Comparative study of band-power extraction techniques for Motor Imagery classification	N2011Comparative
+OK	01_filtros_digitais_clássicos.txt	Data-Driven Frequency Bands Selection in EEG-Based Brain-Computer Interface	H2011Data
+OK	01_filtros_digitais_clássicos.txt	Efficient EEG-Based Motor Imagery Classification via Wavelet Genetic Optimization and Machine Learning	M2026Efficient
+OK	01_filtros_digitais_clássicos.txt	Deep convolutional neural network for decoding motor imagery based brain computer interface	J2017Deep
+OK	01_filtros_digitais_clássicos.txt	Common Spatial Pattern and Riemannian Manifold-Based Real-Time Multiclass Motor Imagery EEG Classification	K2023Common
+OK	01_filtros_digitais_clássicos.txt	Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers	N2024Classification
+OK	01_filtros_digitais_clássicos.txt	Classification of Motor Imagery EEG Signals Using Deep Learning	B2024Classification
+OK	01_filtros_digitais_clássicos.txt	Time-Frequency-Space EEG Decoding Model Based on Dense Graph Convolutional Network for Stroke	J2024Time
+OK	01_filtros_digitais_clássicos.txt	Brain-Computer Interface Based Control for Disabled	M2022Brain
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network	Y2022Motor
+OK	01_filtros_digitais_clássicos.txt	Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System	A2022Employing
+OK	01_filtros_digitais_clássicos.txt	An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion	S2022Algorithm
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Classification Based on Riemannian Sparse Optimization and Dempster-Shafer Fusion of Multi-Time-Frequency Patterns	J2023Motor
+OK	01_filtros_digitais_clássicos.txt	Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System	R2023Enhancement
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery BCI Classification Using Synchrosqueezing Transform	M2023Motor
+OK	01_filtros_digitais_clássicos.txt	Sparse Bayesian Learning for End-to-End EEG Decoding	W2023Sparse
+OK	01_filtros_digitais_clássicos.txt	EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding	R2023Eegnet
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery Classification Enhancement using Generative Adversarial Networks for EEG Spectrum Image Generation	A2023Motor
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Classification Using Fine-Tuned Deep Convolutional EfficientNetB0 Model	M2023Motor2
+OK	01_filtros_digitais_clássicos.txt	Multi-Task EEG Signal Classification Using Correlation-Based IMF Selection and Multi-Class CSP	N2023Multi
+OK	01_filtros_digitais_clássicos.txt	Enhancing Motor Imagery EEG Signal Classification with Simplified GoogLeNet	L2023Enhancing
+OK	01_filtros_digitais_clássicos.txt	TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements	C2024Tmanet
+OK	01_filtros_digitais_clássicos.txt	A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry	X2025Novel
+OK	01_filtros_digitais_clássicos.txt	Hybrid CNN-LSTM Model for EEG-Based Motor Imagery Classification	A2025Hybrid
+OK	01_filtros_digitais_clássicos.txt	Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding	J2025Integrating
+OK	01_filtros_digitais_clássicos.txt	Improving Motor Imagery EEG Signal Classification Using Deep Learning Techniques	G2025Improving
+OK	01_filtros_digitais_clássicos.txt	BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks	C2025Bci
+OK	01_filtros_digitais_clássicos.txt	Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network	L2026Decoding
+OK	01_filtros_digitais_clássicos.txt	Scale Specific Riemannian Features with Graph Convolutional Network for Motor Imagery EEG Classification	Balendra2025Scale
+OK	01_filtros_digitais_clássicos.txt	SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification	U2025Sstaf
+OK	01_filtros_digitais_clássicos.txt	Home Robot Motor Imagery Interaction and Emotional Awareness Based on Multimodal EEG Feature Extraction	T2025Home
+OK	01_filtros_digitais_clássicos.txt	A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network	V2025Novel
+OK	01_filtros_digitais_clássicos.txt	Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification	E2024Baseline
+OK	01_filtros_digitais_clássicos.txt	A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN	W2024Novel
+OK	01_filtros_digitais_clássicos.txt	Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal	R2024Brain
+OK	01_filtros_digitais_clássicos.txt	A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD	Q2024Classification
+OK	01_filtros_digitais_clássicos.txt	SKSP: Selected Kernel Spatial Pattern Analysis in Euclidean and Hilbert Space for Decoding Motor Imagery	Z2024Sksp
+OK	01_filtros_digitais_clássicos.txt	Spatiotemporal Filtering Bank for Decoding Motor Imagery EEG Signals	L2024Spatiotemporal
+OK	01_filtros_digitais_clássicos.txt	Explainable Common Spatial Pattern to Improve the Design of Brain-Computer Interfaces	S2025Explainable
+OK	01_filtros_digitais_clássicos.txt	An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification	A2025Adaptive
+OK	01_filtros_digitais_clássicos.txt	EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning	S2025Eeg
+OK	01_filtros_digitais_clássicos.txt	Decoding Two-Class Motor Imagery EEG with Capsule Networks	K2019Decoding
+OK	01_filtros_digitais_clássicos.txt	Spatial Component-wise Convolutional Network (SCCNet) for Motor-Imagery EEG Classification	C2019Spatial
+OK	01_filtros_digitais_clássicos.txt	Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification	Y2019Frequency
+OK	01_filtros_digitais_clássicos.txt	A Deep Learning Framework for Decoding Motor Imagery Tasks of the Same Hand Using EEG Signals	R2019Deep
+OK	01_filtros_digitais_clássicos.txt	Enhancing Mu-based BCI Performance with Rhythmic Electrical Stimulation at Alpha Frequency	X2019Enhancing
+OK	01_filtros_digitais_clássicos.txt	A Novel BCI System Based on Hybrid Features for Classifying Motor Imagery Tasks	J2019Novel
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Signal Processing and Classification Using Machine Learning Approach	S2017Motor
+OK	01_filtros_digitais_clássicos.txt	EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition	R2017Eeg
+OK	01_filtros_digitais_clássicos.txt	A Comparative Study of Wavelet and CSP Features Classified Using LDA, SVM and ANN in EEG Based Motor Imagery	M2017Comparative
+OK	01_filtros_digitais_clássicos.txt	Study of wavelet-based performance enhancement for motor imagery brain-computer interface	M2018Study
+OK	01_filtros_digitais_clássicos.txt	Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition	M2018Sensorimotor
+OK	01_filtros_digitais_clássicos.txt	Deep Fusion Feature Learning Network for MI-EEG Classification	J2018Deep
+OK	01_filtros_digitais_clássicos.txt	DeepMI: Deep Learning for Multiclass Motor Imagery Classification	W2018Deepmi
+OK	01_filtros_digitais_clássicos.txt	Bayesian Optimized Spectral Filters Coupled With Ternary ECOC for Single-Trial EEG Classification	S2018Bayesian
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery Classification Using TSK Fuzzy Inference Neural Networks	R2018Motor
+OK	01_filtros_digitais_clássicos.txt	Recurrent Deep Learning for EEG-based Motor Imagination Recognition	S2020Recurrent
+OK	01_filtros_digitais_clássicos.txt	Transform based feature construction utilizing magnitude and phase for convolutional neural network in EEG signal classification	J2020Transform
+OK	01_filtros_digitais_clássicos.txt	Sparse CSP Algorithm via Joint Spatio-Temporal Filtering	A2020Sparse
+OK	01_filtros_digitais_clássicos.txt	Time-frequency decomposition-based weighted ensemble learning for motor imagery EEG classification	L2021Time
+OK	01_filtros_digitais_clássicos.txt	Short-Time Fourier Transform Covariance and Selection, A Feature Extraction Method for Binary Motor Imagery Classification	Y2021Short
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation	W2022Motor
+OK	01_filtros_digitais_clássicos.txt	A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification	L2022Power
+OK	01_filtros_digitais_clássicos.txt	Feature Extraction of EEG Signal by Power Spectral Density for Motor Imagery Based BCI	M2021Feature
+OK	01_filtros_digitais_clássicos.txt	The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature	X2021Classification
+OK	01_filtros_digitais_clássicos.txt	Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces	J2020Deep
+OK	01_filtros_digitais_clássicos.txt	EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising	I2020Eeg
+OK	01_filtros_digitais_clássicos.txt	Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI	S2020Spectrum
+OK	01_filtros_digitais_clássicos.txt	Canonical correlation analysis of EEG for classification of motor imagery	N2017Canonical
+OK	01_filtros_digitais_clássicos.txt	Learning Common Time-Frequency-Spatial Patterns for Motor Imagery Classification	Y2021Learning
+OK	01_filtros_digitais_clássicos.txt	A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis	T2020Brain
+OK	01_filtros_digitais_clássicos.txt	Trial Regeneration With Subband Signals for Motor Imagery Classification in BCI Paradigm	M2021Trial
+OK	01_filtros_digitais_clássicos.txt	Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification	F2021Spatiotemporal
+OK	01_filtros_digitais_clássicos.txt	Identification of Anisomerous Motor Imagery EEG Signals Based on Complex Algorithms	Liu2017Identification
+OK	01_filtros_digitais_clássicos.txt	Recognition of motor intentions from EEGs of the same upper limb by signal traceability and Riemannian geometry features	Zhang2023Recognition
+OK	01_filtros_digitais_clássicos.txt	Toward optimal feature and time segment selection by divergence method for EEG signals classification	Wang2018Toward
+OK	01_filtros_digitais_clássicos.txt	Electroencephalogram Feature Extraction and Classification of Motor Imagery EEG Based on Machine Learning Algorithms	Eltokhy2025Electroencephalogram
+OK	01_filtros_digitais_clássicos.txt	Motor imagery classification method based on Riemannian Manifold and CNN-LSTM for advanced brain computer interfaces	Hao2025Motor
+OK	01_filtros_digitais_clássicos.txt	System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation	Delisle2019System
+OK	01_filtros_digitais_clássicos.txt	A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network	Xu2022Novel
+OK	01_filtros_digitais_clássicos.txt	Nonnegative matrix factorization common spatial pattern in brain machine interface	H2015Nonnegative
+OK	01_filtros_digitais_clássicos.txt	Three-class classification of motor imagery EEG data including “rest state” using filter-bank multi-class Common Spatial pattern	T2015Three
+OK	01_filtros_digitais_clássicos.txt	The comparison of automatic artifact removal methods with robust classification strategies in terms of EEG classification accuracy	P2015Comparison
+OK	01_filtros_digitais_clássicos.txt	Robot motion control using Brain Computer Interface	R2013Robot
+OK	01_filtros_digitais_clássicos.txt	EEG classification based on variance	S2014Eeg
+OK	01_filtros_digitais_clássicos.txt	Classification of four categories of EEG signals based on relevance vector machine	E2017Classification
+OK	01_filtros_digitais_clássicos.txt	BCI system to classify EEG stimulus pattern	R2016Bci
+OK	01_filtros_digitais_clássicos.txt	Shrinkage estimator based regularization for EEG motor imagery classification	H2015Shrinkage
+OK	01_filtros_digitais_clássicos.txt	Classification of EEG signals by ICA and OVR-CSP	L2010Classification
+OK	01_filtros_digitais_clássicos.txt	An Improved CSP Algorithm and Application in Motor Imagery Recognition	L2009Improved
+OK	01_filtros_digitais_clássicos.txt	Multi-frequency band common spatial pattern with sparse optimization in Brain-Computer Interface	M2012Multi
+OK	01_filtros_digitais_clássicos.txt	Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery	M2023Design
+OK	01_filtros_digitais_clássicos.txt	Short-Term Fourier Transform as Preprocessing for Common Spatial Pattern	A2024Short
+OK	01_filtros_digitais_clássicos.txt	EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern	Y2025Eeg
+OK	01_filtros_digitais_clássicos.txt	Adaptive Spatial Filtering and Linear Discriminant Learning for Robust Motor Imagery EEG Classification	S2025Adaptive
+OK	01_filtros_digitais_clássicos.txt	Enhanced Brain-Computer Interface for EEG Motor Imagery Using DC-GCN and Evolutionary Optimization	U2025Enhanced
+OK	01_filtros_digitais_clássicos.txt	Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces	B2024Benchmarking
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery Classification in EEG signals using Hybrid CNN-ISqueeze net	S2024Motor
+OK	01_filtros_digitais_clássicos.txt	Enhancing Four-Class Motor Imagery Detection Through Advanced Feature Extraction Techniques	J2024Enhancing
+OK	01_filtros_digitais_clássicos.txt	Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI	F2025Common
+OK	01_filtros_digitais_clássicos.txt	TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface	H2025Trinet
+OK	01_filtros_digitais_clássicos.txt	EEG based BCI for Seemless Home Automation	H2025Eeg
+OK	01_filtros_digitais_clássicos.txt	BCI based EEG Signals classification using Machine Learning Approach	Y2025Bci
+OK	01_filtros_digitais_clássicos.txt	Motor-imagery EEG signal decoding using multichannel-empirical wavelet transform for brain computer interfaces	I2022Motor
+OK	01_filtros_digitais_clássicos.txt	Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems	Z2022Cognitive
+OK	01_filtros_digitais_clássicos.txt	Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation	S2019Improved
+OK	01_filtros_digitais_clássicos.txt	Subject-Independent Brain–Computer Interfaces Based on Deep Convolutional Neural Networks	O2020Subject
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery based Multivariate EEG Signal Classification for Brain Controlled Interface Applications	F2019Motor
+OK	01_filtros_digitais_clássicos.txt	A New Channel Selection Method using Autoencoder for Motor Imagery based Brain Computer Interface	P2019New
+OK	01_filtros_digitais_clássicos.txt	A Long Short-Term Memory Autoencoder Approach for EEG Motor Imagery Classification	R2020Long
+OK	01_filtros_digitais_clássicos.txt	A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity	Y2018Comparative
+OK	01_filtros_digitais_clássicos.txt	A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance	A2021Novel
+OK	01_filtros_digitais_clássicos.txt	CNN-based Approaches For Cross-Subject Classification in Motor Imagery: From the State-of-The-Art to DynamicNet	A2021Cnn
+OK	01_filtros_digitais_clássicos.txt	Filter Bank Sinc-ShallowNet with EMD-based Mixed Noise Adding Data Augmentation for Motor Imagery Classification	J2021Filter
+OK	01_filtros_digitais_clássicos.txt	A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal	S2022Brain
+OK	01_filtros_digitais_clássicos.txt	Application of Transfer Learning in Optimized Filter-Bank Regularized CSP to Classification of EEG Signals with Small Dataset	M2022Application
+OK	01_filtros_digitais_clássicos.txt	Brain-Computer Interface Rehabilitation System Design Based on Motor Imagery	Q2022Brain
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Signal Classification for Stroke Survivors Rehabilitation	A2022Motor2
+OK	01_filtros_digitais_clássicos.txt	A Tensor-Based Frequency Features Combination Method for Brain–Computer Interfaces	Y2022Tensor
+OK	01_filtros_digitais_clássicos.txt	Motor Imagery EEG Signal Classification based on Deep Transfer Learning	M2021Motor2
+OK	01_filtros_digitais_clássicos.txt	A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery	C2020Computationally
+OK	01_filtros_digitais_clássicos.txt	An Approach of One-vs-Rest Filter Bank Common Spatial Pattern and Spiking Neural Networks for Multiple Motor Imagery Decoding	H2020Approach
+OK	01_filtros_digitais_clássicos.txt	A Novel Multiple Motor Imagery Experimental Paradigm Design and Neural Decoding	C2020Novel
+OK	01_filtros_digitais_clássicos.txt	Attention-based spatio-temporal-spectral feature learning for subject-specific EEG classification	D2021Attention
+OK	01_filtros_digitais_clássicos.txt	Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces	X2021Advanced
+OK	02_métodos_decompositores_de_sinal.txt	Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces	Higashi2013Common
+OK	02_métodos_decompositores_de_sinal.txt	A multi-modal BCI system based on motor imagery	L2015Multi
+OK	02_métodos_decompositores_de_sinal.txt	Analysis of EEG signal evoked by passive movement and motor imagery	Chen2018Analysis
+OK	02_métodos_decompositores_de_sinal.txt	Hybrid mental tasks based human computer interface via integration of pronunciation and motor imagery	Tong2022Hybrid
+OK	02_métodos_decompositores_de_sinal.txt	Wavelet analysis of EEG signals during motor imagery	Yamaguchi2008Wavelet
+OK	02_métodos_decompositores_de_sinal.txt	Feature selection strategy for classification of single-trial EEG elicited by motor imagery	S2011Feature
+OK	02_métodos_decompositores_de_sinal.txt	An enhanced time-frequency-spatial approach for motor imagery classification	N2006Enhanced
+OK	02_métodos_decompositores_de_sinal.txt	Statistical Wavelets With Harmony Search- Based Optimal Feature Selection of EEG Signals for Motor Imagery Classification	S2021Statistical
+OK	02_métodos_decompositores_de_sinal.txt	Emotion-Inducing Imagery Versus Motor Imagery for a Brain-Computer Interface	A2020Emotion
+OK	02_métodos_decompositores_de_sinal.txt	EEG signal processing: Feature extraction, selection and classification methods	Leong2019Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Flexible coding scheme for robotic arm control driven by motor imagery decoding	Ai2022Flexible
+OK	02_métodos_decompositores_de_sinal.txt	Classification scheme for arm motor imagery	Tavakolan2016Classification
+OK	02_métodos_decompositores_de_sinal.txt	An Effect of Limb Position in Motor Imagery Training Paradigm in Immersive Virtual Environment	S2022Effect
+OK	02_métodos_decompositores_de_sinal.txt	Simultaneous design of FIR filter banks and spatial patterns for EEG signal classification	Higashi2013Simultaneous
+OK	02_métodos_decompositores_de_sinal.txt	Research on Motor Imagery Signal Recognition Method Based on Wavelet Packet Transform and ConvLSTM	Yang2024Research
+OK	02_métodos_decompositores_de_sinal.txt	Trust and explainability in robotic hand control via adversarial multiple machine learning models with EEG sensor data fusion: A fuzzy decision-making solution	Albahri2025Trust
+OK	02_métodos_decompositores_de_sinal.txt	A Region of Interest-Based Electrophysiological Source Imaging Technology and its Applications in Analysis of Motor Imagery EEG Signals	Y2023Region
+OK	02_métodos_decompositores_de_sinal.txt	Feature bands study of MI signals based on FBCSP for CNN	L2022Feature
+OK	02_métodos_decompositores_de_sinal.txt	Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding	Wang2025Enhanced
+OK	02_métodos_decompositores_de_sinal.txt	Adaptive subject-based feature extraction in brain-computer interfaces using wavelet packet best basis decomposition	Yang2007Adaptive
+OK	02_métodos_decompositores_de_sinal.txt	Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification	Herman2008Comparative
+OK	02_métodos_decompositores_de_sinal.txt	Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks	Lopez2019Supervised
+OK	02_métodos_decompositores_de_sinal.txt	EEG classification of different imaginary movements within the same limb	Yong2015Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Two Class Motor Imagery Classification Based on ANFIS	Kumar2020Two
+OK	02_métodos_decompositores_de_sinal.txt	An empirical mode decomposition based filtering method for classification of motor-imagery EEG signals for enhancing brain-computer interface	P2015Empirical
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery classification using feature relevance analysis: An Emotiv-based BCI system	J2014Motor
+OK	02_métodos_decompositores_de_sinal.txt	Maximum dependency and minimum redundancy-based channel selection for motor imagery of walking EEG signal detection	H2013Maximum
+OK	02_métodos_decompositores_de_sinal.txt	Feature extraction and visualization of MI-EEG by LLE algorithm	M2016Feature
+OK	02_métodos_decompositores_de_sinal.txt	Enhancement of Performance of an EEG-based Brain-Computer Interface by means of a Time-Frequency Approach	N2005Enhancement
+OK	02_métodos_decompositores_de_sinal.txt	Algorithm of Imagined Left-Right Hand Movement Classification Based on Wavelet Transform and AR Parameter Model	B2007Algorithm
+OK	02_métodos_decompositores_de_sinal.txt	Classifying motor imagery EEG by Empirical Mode Decomposition based on spatial-time-frequency joint analysis approach	Pengfei2009Classifying
+OK	02_métodos_decompositores_de_sinal.txt	Dynamic initiation and dual-tree complex wavelet feature-based classification of motor imagery of swallow EEG signals	Huijuan2012Dynamic
+OK	02_métodos_decompositores_de_sinal.txt	A motor imagery BCI experiment using wavelet analysis and spatial patterns feature extraction	O2012Motor
+OK	02_métodos_decompositores_de_sinal.txt	Optimal segments selection for EEG classification	I2012Optimal
+OK	02_métodos_decompositores_de_sinal.txt	Improving classification accuracy for motor imagery BCI using DWT based Features	A2023Improving
+OK	02_métodos_decompositores_de_sinal.txt	Features Extraction Technique Analysis of EEG Signal for Motor Imagery Classification	F2023Features
+OK	02_métodos_decompositores_de_sinal.txt	Image-based Motor Imagery EEG Classification using Convolutional Neural Network	T2019Image
+OK	02_métodos_decompositores_de_sinal.txt	Data-driven Data Augmentation for Motor Imagery Brain-Computer Interface	H2021Data
+OK	02_métodos_decompositores_de_sinal.txt	Relevance of filter bank common spatial patterns using multiple kernel learning in motor imagery	Garcia2018Relevance
+OK	02_métodos_decompositores_de_sinal.txt	Design of a Brain Computer Interface system based on electroencephalogram(EEG)	O2010Design
+OK	02_métodos_decompositores_de_sinal.txt	Feature Extraction Techniques for the Classification of Four-Class Motor Imagery Based EEG Data: A Comparison	Mahamune2021Feature
+OK	02_métodos_decompositores_de_sinal.txt	Classification of motor imagery BCI using multivariate empirical mode decomposition	Park2013Classification
+OK	02_métodos_decompositores_de_sinal.txt	A Novel Classification Model Based on DWT and CNN-LSTM Motor EEG Imagination Signals	Yang2024Novel
+OK	02_métodos_decompositores_de_sinal.txt	Graph-based feature learning methods for subject-dependent and subject-independent motor imagery EEG decoding	Zhang2025Graph
+OK	02_métodos_decompositores_de_sinal.txt	Wavelet based feature extraction for classification of motor imagery signals	Sherwani2016Wavelet
+OK	02_métodos_decompositores_de_sinal.txt	An improved feature extraction method for self-paced brain-computer interface application	Chen2009Improved
+OK	02_métodos_decompositores_de_sinal.txt	Time window and frequency band optimization using regularized neighbourhood component analysis for Multi-View Motor Imagery EEG classification	Singh2021Time
+OK	02_métodos_decompositores_de_sinal.txt	Feature Extraction and Classification of EEG Signal Based on Deep Learning	Xue2022Feature
+OK	02_métodos_decompositores_de_sinal.txt	Classification of single trial motor imagery EEG recordings with subject adapted non-dyadic arbitrary time-frequency tilings	Firat2006Classification
+OK	02_métodos_decompositores_de_sinal.txt	EEG feature extraction and pattern classification based on motor imagery in brain-computer interface	Zou2010Eeg
+OK	02_métodos_decompositores_de_sinal.txt	EEG feature extraction and pattern recognition during right and left hands motor imagery in brain-computer interface	Liu2012Eeg
+OK	02_métodos_decompositores_de_sinal.txt	An adjustment strategy on multi-session EEG data for online left/right hand imagery classification	Muthong2016Adjustment
+OK	02_métodos_decompositores_de_sinal.txt	Classification of EEG with structural feature dictionaries in a brain computer interface	Goksu2008Classification
+OK	02_métodos_decompositores_de_sinal.txt	Optimum spatio-spectral filtering network for brain-computer interface	Zhang2011Optimum
+OK	02_métodos_decompositores_de_sinal.txt	Separable common spatio-spectral patterns for motor imagery BCI systems	Aghaei2016Separable
+OK	02_métodos_decompositores_de_sinal.txt	A space-time-frequency analysis approach for the classification motor imagery EEG recordings in a Brain Computer Interface Task	Ince2006Space
+OK	02_métodos_decompositores_de_sinal.txt	A boosting-based spatial-spectral model for stroke patients' EEG analysis in rehabilitation training	Liu2016Boosting
+OK	02_métodos_decompositores_de_sinal.txt	Class discrepancy-guided sub-band filter-based common spatial pattern for motor imagery classification	Luo2019Class
+OK	02_métodos_decompositores_de_sinal.txt	EEG pattern recognition based on dual-tree complex wavelet transform and particle swarm optimization	Miao2016Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Feature extraction method of motor imagery EEG based on DTCWT sample entropy	M2015Feature
+OK	02_métodos_decompositores_de_sinal.txt	Discrimination of EEG related to motor imagery by combined wavelet energy feature with phase synchronization feature	C2015Discrimination
+OK	02_métodos_decompositores_de_sinal.txt	Kernel-based relevant feature extraction to support Motor Imagery classification	L2015Kernel
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery EEG signal classification on DWT and crosscorrelated signal features	N2014Motor
+OK	02_métodos_decompositores_de_sinal.txt	Optimising frequency band selection with forward-addition and backward-elimination algorithms in EEG-based brain-computer interfaces	H2015Optimising
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery EEG signal classification scheme based on entropy of intrinsic mode function	M2014Motor
+OK	02_métodos_decompositores_de_sinal.txt	Dual tree complex wavelet transform domain based motor imagery movements classification scheme from EEG signals	S2015Dual
+OK	02_métodos_decompositores_de_sinal.txt	Characterization of EEG signals using wavelet transform for motor imagination tasks in BCI systems	B2013Characterization
+OK	02_métodos_decompositores_de_sinal.txt	The offline feature extraction of four-class motor imagery EEG based on ICA and Wavelet-CSP	X2014Offline
+OK	02_métodos_decompositores_de_sinal.txt	Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification	F2014Spatio
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery EEG signal classification scheme based on wavelet domain statistical features	S2014Motor
+OK	02_métodos_decompositores_de_sinal.txt	A bacterial foraging optimization and learning automata based feature selection for motor imagery EEG classification	M2014Bacterial
+OK	02_métodos_decompositores_de_sinal.txt	Classification of motor imagery hands movement using levenberg-marquardt algorithm based on statistical features of EEG signal	M2016Classification
+OK	02_métodos_decompositores_de_sinal.txt	Multiclass motor imagery classification for BCI application	M2016Multiclass
+OK	02_métodos_decompositores_de_sinal.txt	A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization	X2017Unified
+OK	02_métodos_decompositores_de_sinal.txt	Classification of motor imagery EEG signals based on wavelet transform and sample entropy	M2017Classification
+OK	02_métodos_decompositores_de_sinal.txt	A feature extraction technique of EEG based on EMD-BP for motor imagery classification in BCI	D2015Feature
+OK	02_métodos_decompositores_de_sinal.txt	Automatic feature selection based motor imagery movements detection scheme from EEG signals in the Dual Tree Complex Wavelet Transform domain	S2015Automatic
+OK	02_métodos_decompositores_de_sinal.txt	Combined long short-term memory based network employing wavelet coefficients for MI-EEG recognition	M2016Combined
+OK	02_métodos_decompositores_de_sinal.txt	Classification of motor imagery EEG patterns and their topographic representation	Tao2004Classification
+OK	02_métodos_decompositores_de_sinal.txt	Masking empirical mode decomposition-based hybrid features for recognition of motor imagery in EEG	W2017Masking
+OK	02_métodos_decompositores_de_sinal.txt	Using Multiresolution Space-Time-Frequency Features for the Classification Motor Imagery Eeg Recordings in a Brain Computer Interface Task	N2006Using
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery based Brain Computer Interface with subject adapted time-frequency tiling	N2006Motor
+OK	02_métodos_decompositores_de_sinal.txt	Feature Extraction and Classification of Mental EEG for Motor Imagery	L2009Feature
+OK	02_métodos_decompositores_de_sinal.txt	Novel use of Empirical Mode Decomposition in single-trial classification of motor imagery for use in brain-computer interfaces	S2013Novel
+OK	02_métodos_decompositores_de_sinal.txt	EEG-based motor imagery classification using wavelet coefficients and ensemble classifiers	R2012Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Time-frequency selection in two bipolar channels for improving the classification of motor imagery EEG	Y2012Time
+OK	02_métodos_decompositores_de_sinal.txt	Non-homogeneous spatial filter optimization for EEG-based brain-computer interfaces	T2013Non
+OK	02_métodos_decompositores_de_sinal.txt	Application of neural network to brain-computer interface	W2012Application
+OK	02_métodos_decompositores_de_sinal.txt	A novel EMD-based Common Spatial Pattern for motor imagery brain-computer interface	W2012Novel
+OK	02_métodos_decompositores_de_sinal.txt	Nonlinear and nonstationary framework for feature extraction and classification of motor imagery	D2011Nonlinear
+OK	02_métodos_decompositores_de_sinal.txt	Efficient EEG-Based Motor Imagery Classification via Wavelet Genetic Optimization and Machine Learning	M2026Efficient
+OK	02_métodos_decompositores_de_sinal.txt	Common Spatial Pattern and Riemannian Manifold-Based Real-Time Multiclass Motor Imagery EEG Classification	K2023Common
+OK	02_métodos_decompositores_de_sinal.txt	MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification	C2024Msfnet
+OK	02_métodos_decompositores_de_sinal.txt	Classification of Left/Right Hand Movement from EEG Signal by Empirical Mode Decomposition with Ensemble of classifiers	N2024Classification
+OK	02_métodos_decompositores_de_sinal.txt	Deep Neural Network-Based Empirical Mode Decomposition for Motor Imagery EEG Classification	H2024Deep
+OK	02_métodos_decompositores_de_sinal.txt	STOW-Net: Spatio-Temporal Operation Based Deep Learning Network for Classifying Wavelet Transformed Motor Imagery EEG Signals	M2023Stow
+OK	02_métodos_decompositores_de_sinal.txt	A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding	H2023Multi
+OK	02_métodos_decompositores_de_sinal.txt	Employing Deep Learning and Discrete Wavelet Transform Approach to Classify Motor Imagery Based Brain Computer Interface System	A2022Employing
+OK	02_métodos_decompositores_de_sinal.txt	Multi-class Motor Imagery Classification Method Using One-dimensional Convolutional Neural Networks	D2022Multi
+OK	02_métodos_decompositores_de_sinal.txt	An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion	S2022Algorithm
+OK	02_métodos_decompositores_de_sinal.txt	FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding	K2023Fbmsnet
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery EEG Classification Based on Riemannian Sparse Optimization and Dempster-Shafer Fusion of Multi-Time-Frequency Patterns	J2023Motor
+OK	02_métodos_decompositores_de_sinal.txt	Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model	J2025Efficient
+OK	02_métodos_decompositores_de_sinal.txt	Sparse Bayesian Learning for End-to-End EEG Decoding	W2023Sparse
+OK	02_métodos_decompositores_de_sinal.txt	EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding	R2023Eegnet
+OK	02_métodos_decompositores_de_sinal.txt	Multi-Task EEG Signal Classification Using Correlation-Based IMF Selection and Multi-Class CSP	N2023Multi
+OK	02_métodos_decompositores_de_sinal.txt	A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry	X2025Novel
+OK	02_métodos_decompositores_de_sinal.txt	A Multi-Band Self-Attention Network for Motor Imagery Classification	Q2025Multi
+OK	02_métodos_decompositores_de_sinal.txt	Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network	L2026Decoding
+OK	02_métodos_decompositores_de_sinal.txt	Home Robot Motor Imagery Interaction and Emotional Awareness Based on Multimodal EEG Feature Extraction	T2025Home
+OK	02_métodos_decompositores_de_sinal.txt	A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN	W2024Novel
+OK	02_métodos_decompositores_de_sinal.txt	A Classification and Recognition Method for Motor Imagery EEG Signals Using Fusion of DRSN and WPD	Q2024Classification
+OK	02_métodos_decompositores_de_sinal.txt	SKSP: Selected Kernel Spatial Pattern Analysis in Euclidean and Hilbert Space for Decoding Motor Imagery	Z2024Sksp
+OK	02_métodos_decompositores_de_sinal.txt	Spatiotemporal Filtering Bank for Decoding Motor Imagery EEG Signals	L2024Spatiotemporal
+OK	02_métodos_decompositores_de_sinal.txt	AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold	Y2025Awknet
+OK	02_métodos_decompositores_de_sinal.txt	K-Medoids-based ICA and Wavelet-Enhanced Multi-resolution Convolutional Network for Motor Imagery EEG	P2025K
+OK	02_métodos_decompositores_de_sinal.txt	ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System	S2025Essdm
+OK	02_métodos_decompositores_de_sinal.txt	EEG Processing for Brain-Computer Interface using Wavelet-Decomposition Ant Colony Optimization and Machine Learning	S2025Eeg
+OK	02_métodos_decompositores_de_sinal.txt	MDRNet: Multi-Branch with Different Feature Representations Network for Motor Imagery Classification	Q2025Mdrnet
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Hand Movements Recognition Using SVM Classifier and Genetic Algorithm Optimization	A2022Motor
+OK	02_métodos_decompositores_de_sinal.txt	Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification	Y2019Frequency
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery EEG Signals Classification Based on Mode Amplitude and Frequency Components Using Empirical Wavelet Transform	M2019Motor
+OK	02_métodos_decompositores_de_sinal.txt	Wavelet transform based approach for EEG feature selection of motor imagery data for braincomputer interfaces	P2019Wavelet
+OK	02_métodos_decompositores_de_sinal.txt	A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface	P2019Filtering
+OK	02_métodos_decompositores_de_sinal.txt	EEG Feature Extraction of Motor Imagery Based on WT and STFT	Y2018Eeg
+OK	02_métodos_decompositores_de_sinal.txt	A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI	J2019Data
+OK	02_métodos_decompositores_de_sinal.txt	A Novel BCI System Based on Hybrid Features for Classifying Motor Imagery Tasks	J2019Novel
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery EEG Signals Decoding by Multivariate Empirical Wavelet Transform-Based Framework for Robust Brain–Computer Interfaces	M2019Motor2
+OK	02_métodos_decompositores_de_sinal.txt	Classification of Motor Imagery Tasks using Phase Space Reconstruction and Empirical Mode Decomposition	N2019Classification
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery EEG Signal Processing and Classification Using Machine Learning Approach	S2017Motor
+OK	02_métodos_decompositores_de_sinal.txt	EEG motor imagery signals classification using maximum overlap wavelet transform and support vector machine	C2017Eeg
+OK	02_métodos_decompositores_de_sinal.txt	EEG-based BCI system for classifying motor imagery tasks of the same hand using empirical mode decomposition	R2017Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Study of electroencephalogram feature extraction and classification of three tasks of motor imagery	Z2017Study
+OK	02_métodos_decompositores_de_sinal.txt	Time frequency analysis of non-stationary motor imagery EEG signals	A2017Time
+OK	02_métodos_decompositores_de_sinal.txt	A Comparative Study of Wavelet and CSP Features Classified Using LDA, SVM and ANN in EEG Based Motor Imagery	M2017Comparative
+OK	02_métodos_decompositores_de_sinal.txt	Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks	J2018Classification
+OK	02_métodos_decompositores_de_sinal.txt	Sensorimotor Cortex EEG signal classification using Hidden Markov Models and Wavelet Decomposition	M2018Sensorimotor
+OK	02_métodos_decompositores_de_sinal.txt	Deep Fusion Feature Learning Network for MI-EEG Classification	J2018Deep
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Classification Using TSK Fuzzy Inference Neural Networks	R2018Motor
+OK	02_métodos_decompositores_de_sinal.txt	Quantum-inspired Evolutionary Algorithm for Feature Selection in Motor Imagery EEG Classification	A2018Quantum
+OK	02_métodos_decompositores_de_sinal.txt	Time-frequency decomposition-based weighted ensemble learning for motor imagery EEG classification	L2021Time
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Multi-classification based on Canonical Correlation Analysis Feature Fusion	Z2021Motor
+OK	02_métodos_decompositores_de_sinal.txt	Artificial Intelligence in Brain Computer Interface	A2022Artificial
+OK	02_métodos_decompositores_de_sinal.txt	A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification	L2022Power
+OK	02_métodos_decompositores_de_sinal.txt	The Classification of Motor Imagery EEG Signals Based on the Time-Frequency-Spatial Feature	X2021Classification
+OK	02_métodos_decompositores_de_sinal.txt	Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces	J2020Deep
+OK	02_métodos_decompositores_de_sinal.txt	Chaotic Quantum-inspired Evolutionary Algorithm: enhancing feature selection in BCI	A2020Chaotic
+OK	02_métodos_decompositores_de_sinal.txt	EEG Classification for Motor Imagery Mental Tasks Using Wavelet Signal Denoising	I2020Eeg
+OK	02_métodos_decompositores_de_sinal.txt	EEG-based Motor Imagery Classification through Transfer Learning of the CNN	S2020Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI	S2020Spectrum
+OK	02_métodos_decompositores_de_sinal.txt	Automated Ocular Artifacts Identification and Removal from EEG Data Using Hybrid Machine Learning Methods	M2020Automated
+OK	02_métodos_decompositores_de_sinal.txt	Canonical correlation analysis of EEG for classification of motor imagery	N2017Canonical
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Classification Based on Hybrid Feature Extraction and Deep Neural Network	R2021Motor
+OK	02_métodos_decompositores_de_sinal.txt	Learning Common Time-Frequency-Spatial Patterns for Motor Imagery Classification	Y2021Learning
+OK	02_métodos_decompositores_de_sinal.txt	A Brain-computer Interface for Motor Imagination Based on Multi-channel EEG Analysis	T2020Brain
+OK	02_métodos_decompositores_de_sinal.txt	Research on Multi-feature Extraction Method in EEG Signal of Motor Imagination	L2020Research
+OK	02_métodos_decompositores_de_sinal.txt	Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification	D2025Parallel
+OK	02_métodos_decompositores_de_sinal.txt	A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface	Jaipriya2022Comparative
+OK	02_métodos_decompositores_de_sinal.txt	Identification of Anisomerous Motor Imagery EEG Signals Based on Complex Algorithms	Liu2017Identification
+OK	02_métodos_decompositores_de_sinal.txt	An adaptive filter bank for motor imagery based Brain Computer Interface	Thomas2008Adaptive
+OK	02_métodos_decompositores_de_sinal.txt	Toward optimal feature and time segment selection by divergence method for EEG signals classification	Wang2018Toward
+OK	02_métodos_decompositores_de_sinal.txt	Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks	Sakhavi2018Learning
+OK	02_métodos_decompositores_de_sinal.txt	Functional Connectivity for Motor Imaginary Recognition in Brain-computer Interface	Feng2020Functional
+OK	02_métodos_decompositores_de_sinal.txt	Electroencephalogram Feature Extraction and Classification of Motor Imagery EEG Based on Machine Learning Algorithms	Eltokhy2025Electroencephalogram
+OK	02_métodos_decompositores_de_sinal.txt	Reject option to reduce false prediction rates for EEG-motor imagery based BCI	Ganeshkumar2017Reject
+OK	02_métodos_decompositores_de_sinal.txt	Three-class Motor Imagery Classification Based on FBCSP Combined with Voting Mechanism	Li2019Three
+OK	02_métodos_decompositores_de_sinal.txt	Motor imagery classification method based on Riemannian Manifold and CNN-LSTM for advanced brain computer interfaces	Hao2025Motor
+OK	02_métodos_decompositores_de_sinal.txt	A self-adaptive frequency selection common spatial pattern and least squares twin support vector machine for motor imagery electroencephalography recognition	Li2018Self
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Analysis Based on Filter Bank Common Spatial Pattern	Du2021Motor
+OK	02_métodos_decompositores_de_sinal.txt	Classification of left and right foot kinaesthetic motor imagery using common spatial pattern	Tariq2020Classification
+OK	02_métodos_decompositores_de_sinal.txt	A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain—Computer Interfaces	Thomas2009New
+OK	02_métodos_decompositores_de_sinal.txt	A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network	Xu2022Novel
+OK	02_métodos_decompositores_de_sinal.txt	Random Forest and Filter Bank Common Spatial Patterns for EEG-Based Motor Imagery Classification	M2014Random
+OK	02_métodos_decompositores_de_sinal.txt	Nonnegative matrix factorization common spatial pattern in brain machine interface	H2015Nonnegative
+OK	02_métodos_decompositores_de_sinal.txt	Three-class classification of motor imagery EEG data including “rest state” using filter-bank multi-class Common Spatial pattern	T2015Three
+OK	02_métodos_decompositores_de_sinal.txt	Developing a novel multi-fusion brain-computer interface (BCI) system with particle swarm optimization for motor imagery task	Tsung2015Developing
+OK	02_métodos_decompositores_de_sinal.txt	The comparison of automatic artifact removal methods with robust classification strategies in terms of EEG classification accuracy	P2015Comparison
+OK	02_métodos_decompositores_de_sinal.txt	Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI	L2013Analytic
+OK	02_métodos_decompositores_de_sinal.txt	Discriminative channel addition and reduction for filter bank common spatial pattern in motor imagery BCI	Z2014Discriminative
+OK	02_métodos_decompositores_de_sinal.txt	Bi-Directional Imagined Hand Movement Classification Using Low Cost EEG-Based BCI	N2015Bi
+OK	02_métodos_decompositores_de_sinal.txt	A Novel Mechanism to Fuse Various Sub-Aspect Brain-Computer Interface (BCI) Systems with PSO for Motor Imagery Task	C2015Novel
+OK	02_métodos_decompositores_de_sinal.txt	Ensemble methods combination for Motor Imagery tasks in Brain Computer Interface	M2016Ensemble
+OK	02_métodos_decompositores_de_sinal.txt	EEG-based multi-class motor imagery classification using variable sized filter bank and enhanced One Versus One classifier	M2017Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Restricted exhaustive search for frequency band selection in motor imagery classification	P2017Restricted
+OK	02_métodos_decompositores_de_sinal.txt	Shrinkage estimator based regularization for EEG motor imagery classification	H2015Shrinkage
+OK	02_métodos_decompositores_de_sinal.txt	Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface	Kai2008Filter
+OK	02_métodos_decompositores_de_sinal.txt	Robust filter bank common spatial pattern (RFBCSP) in motor-imagery-based brain-computer interface	K2009Robust
+OK	02_métodos_decompositores_de_sinal.txt	Multi-class filter bank common spatial pattern for four-class motor imagery BCI	Z2009Multi
+OK	02_métodos_decompositores_de_sinal.txt	Sub-band Common Spatial Pattern (SBCSP) for Brain-Computer Interface	Q2007Sub
+OK	02_métodos_decompositores_de_sinal.txt	Multi-frequency band common spatial pattern with sparse optimization in Brain-Computer Interface	M2012Multi
+OK	02_métodos_decompositores_de_sinal.txt	Filter Bank Feature Combination (FBFC) approach for brain-computer interface	Z2011Filter
+OK	02_métodos_decompositores_de_sinal.txt	Optimizing EEG Signal Classification for Motor Imagery BCIs: FilterBank CSP with Riemannian Manifolds and Ensemble Learning Models	M2023Optimizing
+OK	02_métodos_decompositores_de_sinal.txt	Design an Accurate BCI System by a Novel Method and the Minimum Number of Channels Based on Five Class Motor Imagery	M2023Design
+OK	02_métodos_decompositores_de_sinal.txt	A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination	J2023Wpsd
+OK	02_métodos_decompositores_de_sinal.txt	Channel-optimized Local Region Riemannian Approach for Motor Imagery Classification	J2024Channel
+OK	02_métodos_decompositores_de_sinal.txt	Advancements in Temporal Fusion: A New Horizon for EEG-Based Motor Imagery Classification	S2024Advancements
+OK	02_métodos_decompositores_de_sinal.txt	A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG	Y2024Hierarchical
+OK	02_métodos_decompositores_de_sinal.txt	Short-Term Fourier Transform as Preprocessing for Common Spatial Pattern	A2024Short
+OK	02_métodos_decompositores_de_sinal.txt	A study of EEG motor imagery classification algorithm based on WPD-AFBCSP	Z2022Study
+OK	02_métodos_decompositores_de_sinal.txt	AutoEncoder Filter Bank Common Spatial Patterns to Decode Motor Imagery From EEG	N2023Autoencoder
+OK	02_métodos_decompositores_de_sinal.txt	Non-Uniform Filter Banks-based Minimum Distance to Riemannian Mean Classification in Motor Imagery BCI	P2023Non
+OK	02_métodos_decompositores_de_sinal.txt	EEG based Motor Imagery BCI using Four Class Iterative Filtering & Four Class Filter Bank Common Spatial Pattern	S2023Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Improved Feature Selection Using Equal Grouping Method for EEG Motor Imagery	S2025Improved
+OK	02_métodos_decompositores_de_sinal.txt	EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern	Y2025Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery Recognition Using Filter Bank Common Spatial Pattern and Recurrent Neural Networks	A2024Motor
+OK	02_métodos_decompositores_de_sinal.txt	Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces	B2024Benchmarking
+OK	02_métodos_decompositores_de_sinal.txt	Common Spatial Pattern Variants for Feature Extraction in Multi-Class Motor Imagery BCI	F2025Common
+OK	02_métodos_decompositores_de_sinal.txt	TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface	H2025Trinet
+OK	02_métodos_decompositores_de_sinal.txt	SMANet: A Model Combining SincNet, Multi-Branch Spatial—Temporal CNN, and Attention Mechanism for Motor Imagery BCI	D2025Smanet
+OK	02_métodos_decompositores_de_sinal.txt	A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms	Q2025Study
+OK	02_métodos_decompositores_de_sinal.txt	Motor-imagery EEG signal decoding using multichannel-empirical wavelet transform for brain computer interfaces	I2022Motor
+OK	02_métodos_decompositores_de_sinal.txt	Cognitive Computing for Brain–Computer Interface-Based Computational Social Digital Twins Systems	Z2022Cognitive
+OK	02_métodos_decompositores_de_sinal.txt	Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation	S2019Improved
+OK	02_métodos_decompositores_de_sinal.txt	Subject-Independent Brain–Computer Interfaces Based on Deep Convolutional Neural Networks	O2020Subject
+OK	02_métodos_decompositores_de_sinal.txt	A New Channel Selection Method using Autoencoder for Motor Imagery based Brain Computer Interface	P2019New
+OK	02_métodos_decompositores_de_sinal.txt	Classification of EEG for Upper Limb Motor Imagery: An Approach for Rehabilitation	Y2018Classification
+OK	02_métodos_decompositores_de_sinal.txt	Improving the efficiency of an EEG-based brain computer interface using Filter Bank Common Spatial Pattern	M2017Improving
+OK	02_métodos_decompositores_de_sinal.txt	Filter Bank Regularized Common Spatial Pattern Ensemble for Small Sample Motor Imagery Classification	S2018Filter
+OK	02_métodos_decompositores_de_sinal.txt	A New Motor Imagery EEG Classification Method FB-TRCSP+RF Based on CSP and Random Forest	R2018New
+OK	02_métodos_decompositores_de_sinal.txt	A Bayesian Framework to Optimize Double Band Spectra Spatial Filters for Motor Imagery Classification	S2018Bayesian2
+OK	02_métodos_decompositores_de_sinal.txt	Relevant Frequency Band Selection using Sequential Forward Feature Selection for Motor Imagery Brain Computer Interfaces	J2018Relevant
+OK	02_métodos_decompositores_de_sinal.txt	A Comparative Study of Different Feature Extraction Methods for Motor Imagery EEG Decoding within the Same Upper Extremity	Y2018Comparative
+OK	02_métodos_decompositores_de_sinal.txt	A High Performance Approach for Classification of Motor Imagery EEG	W2018High
+OK	02_métodos_decompositores_de_sinal.txt	An Experimental Analysis of Motor Imagery EEG Signals Using Feature Extraction and Classification Methodologies	P2018Experimental
+OK	02_métodos_decompositores_de_sinal.txt	FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features	W2018Fbcsp
+OK	02_métodos_decompositores_de_sinal.txt	EEG Channel Selection Based on Correlation Coefficient for Motor Imagery Classification: A Study on Healthy Subjects and ALS Patient	T2018Eeg
+OK	02_métodos_decompositores_de_sinal.txt	Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface	Y2021Filter
+OK	02_métodos_decompositores_de_sinal.txt	CNN-based Approaches For Cross-Subject Classification in Motor Imagery: From the State-of-The-Art to DynamicNet	A2021Cnn
+OK	02_métodos_decompositores_de_sinal.txt	Correlation Alignment in Filter Bank Riemannian Tangent Space for Motor Imagery Classification	X2021Correlation
+OK	02_métodos_decompositores_de_sinal.txt	Multi-class MI-EEG Classification: Using FBCSP and Ensemble Learning Based on Majority Voting	X2021Multi
+OK	02_métodos_decompositores_de_sinal.txt	A Brain to UAV Communication Model using Stacked Ensemble CSP algorithm based on Motor Imagery EEG signal	S2022Brain
+OK	02_métodos_decompositores_de_sinal.txt	Application of Transfer Learning in Optimized Filter-Bank Regularized CSP to Classification of EEG Signals with Small Dataset	M2022Application
+OK	02_métodos_decompositores_de_sinal.txt	Multi-classification for EEG Motor Imagery Signals using Auto-selected Filter Bank Regularized Common Spatial Pattern	Y2022Multi
+OK	02_métodos_decompositores_de_sinal.txt	Motor Imagery EEG Signal Classification for Stroke Survivors Rehabilitation	A2022Motor2
+OK	02_métodos_decompositores_de_sinal.txt	A Tensor-Based Frequency Features Combination Method for Brain–Computer Interfaces	Y2022Tensor
+OK	02_métodos_decompositores_de_sinal.txt	FBCSP and Adaptive Boosting for Multiclass Motor Imagery BCI Data Classification: A Machine Learning Approach	R2020Fbcsp
+OK	02_métodos_decompositores_de_sinal.txt	A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery	C2020Computationally
+OK	02_métodos_decompositores_de_sinal.txt	An Approach of One-vs-Rest Filter Bank Common Spatial Pattern and Spiking Neural Networks for Multiple Motor Imagery Decoding	H2020Approach
+OK	02_métodos_decompositores_de_sinal.txt	A Novel Multiple Motor Imagery Experimental Paradigm Design and Neural Decoding	C2020Novel
+OK	02_métodos_decompositores_de_sinal.txt	NAO Robot Limb Control Method Based on Motor Imagery EEG	Y2020Nao
+OK	02_métodos_decompositores_de_sinal.txt	Attention-based spatio-temporal-spectral feature learning for subject-specific EEG classification	D2021Attention
+OK	02_métodos_decompositores_de_sinal.txt	Multi-task recognition motor imagery based on deep learning	X2020Multi
+OK	03_mapas_tempo-frequência.txt	A Graph-Based Feature Extraction Algorithm Towards a Robust Data Fusion Framework for Brain-Computer Interfaces	S2021Graph
+OK	03_mapas_tempo-frequência.txt	Time-frequency analysis of EEG signals from healthy subjects allocated by gender for a subject-independent BCI-based on motor imagery	J2013Time
+OK	03_mapas_tempo-frequência.txt	State-of-the-Art Versus Deep Learning: A Comparative Study of Motor Imagery Decoding Techniques	O2022State
+OK	03_mapas_tempo-frequência.txt	Comparative analysis of spectral approaches to feature extraction for EEG-based motor imagery classification	Herman2008Comparative
+OK	03_mapas_tempo-frequência.txt	EEG pattern recognition: An efficient improvement combination of ERD/ERS/Laterality features to create a self-paced BCI system	Aviles2016Eeg
+OK	03_mapas_tempo-frequência.txt	Motor imagery classification using feature relevance analysis: An Emotiv-based BCI system	J2014Motor
+OK	03_mapas_tempo-frequência.txt	Real-time single channel EEG motor imagery based Brain Computer Interface	J2016Real
+OK	03_mapas_tempo-frequência.txt	Classifying motor imagery EEG by Empirical Mode Decomposition based on spatial-time-frequency joint analysis approach	Pengfei2009Classifying
+OK	03_mapas_tempo-frequência.txt	BCI-Based Robotic Arm for Medical Rehabilitation	H2025Bci
+OK	03_mapas_tempo-frequência.txt	Enhancing Motor Imagery Classification in Brain–Computer Interfaces Using Deep Learning and Continuous Wavelet Transform	Xie2024Enhancing
+OK	03_mapas_tempo-frequência.txt	Classification of motor imagery BCI using multivariate empirical mode decomposition	Park2013Classification
+OK	03_mapas_tempo-frequência.txt	A tensor-based scheme for stroke patients' motor imagery EEG analysis in BCI-FES rehabilitation training	Liu2014Tensor
+OK	03_mapas_tempo-frequência.txt	Classification of four-class motor imagery employing single-channel electroencephalography	Ge2014Classification
+OK	03_mapas_tempo-frequência.txt	An improved feature extraction method for self-paced brain-computer interface application	Chen2009Improved
+OK	03_mapas_tempo-frequência.txt	Feature Extraction and Classification of EEG Signal Based on Deep Learning	Xue2022Feature
+OK	03_mapas_tempo-frequência.txt	A novel simplified convolutional neural network classification algorithm of motor imagery EEG signals based on deep learning	Li2020Novel
+OK	03_mapas_tempo-frequência.txt	Motor imagery EEG discrimination using the correlation of wavelet features	Hsu2015Motor
+OK	03_mapas_tempo-frequência.txt	A CNN-based modular classification scheme for motor imagery using a novel EEG sampling protocol suitable for IoT healthcare systems	Chacon2023Cnn
+OK	03_mapas_tempo-frequência.txt	Wavelet Transform Time-Frequency Image and Convolutional Network-Based Motor Imagery EEG Classification	Xu2019Wavelet
+OK	03_mapas_tempo-frequência.txt	Kernel-based relevant feature extraction to support Motor Imagery classification	L2015Kernel
+OK	03_mapas_tempo-frequência.txt	Motor imagery movements classification using multivariate EMD and short time Fourier transform	S2015Motor
+OK	03_mapas_tempo-frequência.txt	A self produced mother wavelet feature extraction method for motor imagery brain-computer interface	W2013Self
+OK	03_mapas_tempo-frequência.txt	Classification of Motor Imagery EEG Based on a Time-Frequency Analysis and Second-Order Blind Identification	D2008Classification
+OK	03_mapas_tempo-frequência.txt	BMFLC with neural network and DE for better event classification	Y2013Bmflc
+OK	03_mapas_tempo-frequência.txt	Application of neural network to brain-computer interface	W2012Application
+OK	03_mapas_tempo-frequência.txt	Comparative study of band-power extraction techniques for Motor Imagery classification	N2011Comparative
+OK	03_mapas_tempo-frequência.txt	Novel feature of the EEG based motor imagery BCI system: Degree of imagery	Y2011Novel
+OK	03_mapas_tempo-frequência.txt	Deep convolutional neural network for decoding motor imagery based brain computer interface	J2017Deep
+OK	03_mapas_tempo-frequência.txt	Optimal Fuzzy Logic Enabled EEG Motor Imagery Classification for Brain Computer Interface	E2024Optimal
+OK	03_mapas_tempo-frequência.txt	A Subject-Specific Time Window Selection Method for Motor Imagery BCI	Y2024Subject
+OK	03_mapas_tempo-frequência.txt	Classification of Motor Imagery EEG Signals Using Deep Learning	B2024Classification
+OK	03_mapas_tempo-frequência.txt	Classification Algorithm for Motor Imagery EEG Signals Based on Multi-Domain Information CNN	G2024Classification
+OK	03_mapas_tempo-frequência.txt	Time-Frequency-Space EEG Decoding Model Based on Dense Graph Convolutional Network for Stroke	J2024Time
+OK	03_mapas_tempo-frequência.txt	Subject Wise Motor Imagery Classification from EEG Data Using Transfer Learning	A2022Subject
+OK	03_mapas_tempo-frequência.txt	Motor Imagery based EEG Signal Classification using Multi-scale CNN Architecture	K2022Motor
+OK	03_mapas_tempo-frequência.txt	Brain-Computer Interface Based Control for Disabled	M2022Brain
+OK	03_mapas_tempo-frequência.txt	Motor Imagery EEG Recognition Based on Weight-Sharing CNN-LSTM Network	Y2022Motor
+OK	03_mapas_tempo-frequência.txt	Time-frequency analysis and spiking neural network for motor imagery EEG classification	Z2022Time
+OK	03_mapas_tempo-frequência.txt	Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System	R2023Enhancement
+OK	03_mapas_tempo-frequência.txt	EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification	W2023Eeg
+OK	03_mapas_tempo-frequência.txt	Motor Imagery BCI Classification Using Synchrosqueezing Transform	M2023Motor
+OK	03_mapas_tempo-frequência.txt	Motor Imagery Classification Enhancement using Generative Adversarial Networks for EEG Spectrum Image Generation	A2023Motor
+OK	03_mapas_tempo-frequência.txt	Motor Imagery EEG Classification Using Fine-Tuned Deep Convolutional EfficientNetB0 Model	M2023Motor2
+OK	03_mapas_tempo-frequência.txt	Enhancing Motor Imagery EEG Signal Classification with Simplified GoogLeNet	L2023Enhancing
+OK	03_mapas_tempo-frequência.txt	Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding	J2025Integrating
+OK	03_mapas_tempo-frequência.txt	BCI for Mobile Devices: Time–Frequency and Representation Learning Analysis of Mobile Gesture Tasks	C2025Bci
+OK	03_mapas_tempo-frequência.txt	Scale Specific Riemannian Features with Graph Convolutional Network for Motor Imagery EEG Classification	Balendra2025Scale
+OK	03_mapas_tempo-frequência.txt	SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification	U2025Sstaf
+OK	03_mapas_tempo-frequência.txt	Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification	J2025Bidirectional
+OK	03_mapas_tempo-frequência.txt	A Novel Deep Learning Framework for High-Gamma EEG Signal Classification Using Hybrid Compact-CNN-LSTM Network	V2025Novel
+OK	03_mapas_tempo-frequência.txt	Brain Computer Interfaces for Enhancing Motor Imagery Classification Using EEG Signal	R2024Brain
+OK	03_mapas_tempo-frequência.txt	ESSDM: An Enhanced Sparse Swarm Decomposition Method and Its Application in Multi-Class Motor Imagery-Based EEG-BCI System	S2025Essdm
+OK	03_mapas_tempo-frequência.txt	Motor Imagery Hand Movements Recognition Using SVM Classifier and Genetic Algorithm Optimization	A2022Motor
+OK	03_mapas_tempo-frequência.txt	Convolutional Neural Network Based Approach Towards Motor Imagery Tasks EEG Signals Classification	S2019Convolutional
+OK	03_mapas_tempo-frequência.txt	Decoding Two-Class Motor Imagery EEG with Capsule Networks	K2019Decoding
+OK	03_mapas_tempo-frequência.txt	A Deep Transfer Convolutional Neural Network Framework for EEG Signal Classification	G2019Deep
+OK	03_mapas_tempo-frequência.txt	A Deep Learning Framework for Decoding Motor Imagery Tasks of the Same Hand Using EEG Signals	R2019Deep
+OK	03_mapas_tempo-frequência.txt	Metrological performance of a single-channel Brain-Computer Interface based on Motor Imagery	L2019Metrological
+OK	03_mapas_tempo-frequência.txt	Classification of EEG Motor Imagery Tasks Using Convolution Neural Networks	S2019Classification
+OK	03_mapas_tempo-frequência.txt	EEG Feature Extraction of Motor Imagery Based on WT and STFT	Y2018Eeg
+OK	03_mapas_tempo-frequência.txt	Classification of Motor Imagery EEG Signals with multi-input Convolutional Neural Network by augmenting STFT	T2019Classification
+OK	03_mapas_tempo-frequência.txt	A convolution neural networks scheme for classification of motor imagery EEG based on wavelet time-frequecy image	H2018Convolution
+OK	03_mapas_tempo-frequência.txt	Study on Classification of Left-Right Hands Motor Imagery EEG Signals Based on CNN	G2018Study
+OK	03_mapas_tempo-frequência.txt	Transform based feature construction utilizing magnitude and phase for convolutional neural network in EEG signal classification	J2020Transform
+OK	03_mapas_tempo-frequência.txt	Short-Time Fourier Transform Covariance and Selection, A Feature Extraction Method for Binary Motor Imagery Classification	Y2021Short
+OK	03_mapas_tempo-frequência.txt	A Transfer Learning Method based on VGG-16 Convolutional Neural Network for MI Classification	M2021Transfer
+OK	03_mapas_tempo-frequência.txt	Motor Imagery Signal Classification Using Constant-Q Transform for BCI Applications	M2021Motor
+OK	03_mapas_tempo-frequência.txt	Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks	M2021Time
+OK	03_mapas_tempo-frequência.txt	Motor Imagery Tasks EEG Signals Classification Using ResNet with Multi-Time-Frequency Representation	W2022Motor
+OK	03_mapas_tempo-frequência.txt	Transfer Learning for Classifying Motor Imagery EEG: A Comparative Study	T2021Transfer
+OK	03_mapas_tempo-frequência.txt	A Power Spectrum Pattern Difference-Based Time-Frequency Sub-Band Selection Method for MI-EEG Classification	L2022Power
+OK	03_mapas_tempo-frequência.txt	S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation	W2020S
+OK	03_mapas_tempo-frequência.txt	Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI	S2020Spectrum
+OK	03_mapas_tempo-frequência.txt	Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks	Xie2023Classification
+OK	03_mapas_tempo-frequência.txt	Application of Hilbert-Huang transform for the study of motor imagery tasks	Wang2008Application
+OK	03_mapas_tempo-frequência.txt	System based on subject-specific bands to recognize pedaling motor imagery: Towards a BCI for lower-limb rehabilitation	Delisle2019System
+OK	03_mapas_tempo-frequência.txt	A wavelet-based time-frequency analysis approach for classification of motor imagery for brain-computer interface applications	Qin2005Wavelet
+OK	03_mapas_tempo-frequência.txt	Nonnegative matrix factorization common spatial pattern in brain machine interface	H2015Nonnegative
+OK	03_mapas_tempo-frequência.txt	A WPSD-Based Feature Extraction Method of EEG Signal for Motor Imagination	J2023Wpsd
+OK	03_mapas_tempo-frequência.txt	Short-Term Fourier Transform as Preprocessing for Common Spatial Pattern	A2024Short
+OK	03_mapas_tempo-frequência.txt	Motor Imagery Classification in EEG signals using Hybrid CNN-ISqueeze net	S2024Motor
+OK	03_mapas_tempo-frequência.txt	EEG based BCI for Seemless Home Automation	H2025Eeg
+OK	03_mapas_tempo-frequência.txt	A Study on the Classification Method of Motor Imagery EEG Signals Based on Band Filter Bank Common Space Pattern and Continuous Wavelet Transforms	Q2025Study
+OK	03_mapas_tempo-frequência.txt	Motor Imagery EEG Signal Classification based on Deep Transfer Learning	M2021Motor2
+OK	03_mapas_tempo-frequência.txt	A Computationally Efficient Multiclass Time-Frequency Common Spatial Pattern Analysis on EEG Motor Imagery	C2020Computationally
+OK	03_mapas_tempo-frequência.txt	An Approach to EEG based BCI for Motor Imagery using Explainable Transfer Learning	Z2023Approach
+OK	03_mapas_tempo-frequência.txt	Performance Evaluation of Xception Networks and Short-Time Fourier Transform Spectrograms for Motor Imagery Classification	C2023Performance
+OK	04_métodos_integrados.txt	A2FWPO: Anti-aliasing Filter Based on Whale Parameter Optimization Method for Feature Extraction and Recognition of Dance Motor Imagery EEG	Huang2023A2fwpo
+OK	04_métodos_integrados.txt	iTa-DFiE: An Innovative Tensor Algebra-Based Detection Framework for Incomplete Noninvasive Electroencephalography	Nguyen2024Ita
+OK	04_métodos_integrados.txt	CD3Net: A Contrastive Diffusion Model with Domain Adaptive Data Synthetic Network for Motor Imagery and Emotion classification	Zhou2025Cd3net
+OK	04_métodos_integrados.txt	Flexible coding scheme for robotic arm control driven by motor imagery decoding	Ai2022Flexible
+OK	04_métodos_integrados.txt	Adaptive spiking convolutional network for decoding motor imagery patterns	Zhu2025Adaptive
+OK	04_métodos_integrados.txt	Enhanced Online Continuous Brain-Control by Deep Learning-Based EEG Decoding	Wang2025Enhanced
+OK	04_métodos_integrados.txt	EEG denoising with a recurrent quantum neural network for a brain-computer interface	V2011Eeg
+OK	04_métodos_integrados.txt	Development of an Adaptive Artifact Subspace Reconstruction Based on Hebbian/Anti-Hebbian Learning Networks for Enhancing BCI Performance	B2024Development
+OK	04_métodos_integrados.txt	Model and Data Dual-Driven Double-Point Observation Network for Ultra-Short MI EEG Classification	Niu2024Model
+OK	04_métodos_integrados.txt	SAT-Net: SincNet-Based Attentive Temporal Convolutional Network for Motor Imagery Classification	J2023Sat
+OK	04_métodos_integrados.txt	MSFNet: A Multi-Scale Space-Time Frequency Fusion Network for Motor Imagery EEG Classification	C2024Msfnet
+OK	04_métodos_integrados.txt	A Subject-Specific Time Window Selection Method for Motor Imagery BCI	Y2024Subject
+OK	04_métodos_integrados.txt	Classification Algorithm for Motor Imagery EEG Signals Based on Multi-Domain Information CNN	G2024Classification
+OK	04_métodos_integrados.txt	STOW-Net: Spatio-Temporal Operation Based Deep Learning Network for Classifying Wavelet Transformed Motor Imagery EEG Signals	M2023Stow
+OK	04_métodos_integrados.txt	A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding	H2023Multi
+OK	04_métodos_integrados.txt	Effect of EOG Artifact Removal on EEG Motor-Imagery Classification	M2022Effect
+OK	04_métodos_integrados.txt	FBMSNet: A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding	K2023Fbmsnet
+OK	04_métodos_integrados.txt	Enhancement of Time-Frequency Energy for the Classification of Motor Imagery Electroencephalogram Based on an Improved FitzHugh–Nagumo Neuron System	R2023Enhancement
+OK	04_métodos_integrados.txt	Efficient Ocular Artifacts Removal From EEG Recordings Using State-Space Model	J2025Efficient
+OK	04_métodos_integrados.txt	EEG-Channel-Temporal-Spectral-Attention Correlation for Motor Imagery EEG Classification	W2023Eeg
+OK	04_métodos_integrados.txt	Sparse Bayesian Learning for End-to-End EEG Decoding	W2023Sparse
+OK	04_métodos_integrados.txt	EEGNet-MSD: A Sparse Convolutional Neural Network for Efficient EEG-Based Intent Decoding	R2023Eegnet
+OK	04_métodos_integrados.txt	TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements	C2024Tmanet
+OK	04_métodos_integrados.txt	Parity FuseNet-Mi: Learning Spatio-Temporal Dynamics via Hierarchical Odd-Even Kernel Convolutions for Motor Imagery Decoding	S2025Parity
+OK	04_métodos_integrados.txt	Integrating Virtual Reality and Multifeature Fusion Deep Learning to Improve EEG-Based Motion Imagery Decoding	J2025Integrating
+OK	04_métodos_integrados.txt	Learned-Weight Ensemble Monte Carlo DropBlock for Uncertainty Estimation and EEG Classification	P2025Learned
+OK	04_métodos_integrados.txt	A Multi-Band Self-Attention Network for Motor Imagery Classification	Q2025Multi
+OK	04_métodos_integrados.txt	Multi-Scale Causal Convolution-Based Swin Transformer for Motor Imagery EEG Classification	H2025Multi
+OK	04_métodos_integrados.txt	Decoding of Intuitive Motor Imagery Paradigm Based on Frequency-Band Double-Branch Network	L2026Decoding
+OK	04_métodos_integrados.txt	SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification	U2025Sstaf
+OK	04_métodos_integrados.txt	RGFTSLANet: A Cross-Subject Classification Model for Decoding EEG-Based Motor Imagery Tasks	Y2025Rgftslanet
+OK	04_métodos_integrados.txt	Home Robot Motor Imagery Interaction and Emotional Awareness Based on Multimodal EEG Feature Extraction	T2025Home
+OK	04_métodos_integrados.txt	Bidirectional Time-Frequency Pyramid Network for Enhanced Robust EEG Classification	J2025Bidirectional
+OK	04_métodos_integrados.txt	Baseline-Guided Representation Learning for Noise-Robust EEG Signal Classification	E2024Baseline
+OK	04_métodos_integrados.txt	A Lightweight End-to-End Three-domain Feature Fusion Network for Motor Imagery Decoding	N2024Lightweight
+OK	04_métodos_integrados.txt	A Novel Motor Imagery Decoding Method Based on MODWT and Light-Weight CNN	W2024Novel
+OK	04_métodos_integrados.txt	AWKNet: A Lightweight Neural Network for Motor Imagery Electroencephalogram Classification Based on Adaptive Wavelet Transform Kolmogorov-Arnold	Y2025Awknet
+OK	04_métodos_integrados.txt	K-Medoids-based ICA and Wavelet-Enhanced Multi-resolution Convolutional Network for Motor Imagery EEG	P2025K
+OK	04_métodos_integrados.txt	An Adaptive Convolutional Neural Network With Spatio-Temporal Attention and Dynamic Pathways (ACNN-STADP) for Robust EEG-Based Motor Imagery Classification	A2025Adaptive
+OK	04_métodos_integrados.txt	Spatial Component-wise Convolutional Network (SCCNet) for Motor-Imagery EEG Classification	C2019Spatial
+OK	04_métodos_integrados.txt	Transfer Learning based Motor Imagery Classification using Convolutional Neural Networks	M2019Transfer
+OK	04_métodos_integrados.txt	SincNet-Based Hybrid Neural Network for Motor Imagery EEG Decoding	C2022Sincnet
+OK	04_métodos_integrados.txt	Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces	J2020Deep
+OK	04_métodos_integrados.txt	S-EEGNet: Electroencephalogram Signal Classification Based on a Separable Convolution Neural Network With Bilinear Interpolation	W2020S
+OK	04_métodos_integrados.txt	Parallel convolutional neural network and empirical mode decomposition for high accuracy in motor imagery EEG signal classification	D2025Parallel
+OK	04_métodos_integrados.txt	Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks	Xie2023Classification
+OK	04_métodos_integrados.txt	Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks	Sakhavi2018Learning
+OK	04_métodos_integrados.txt	Motor imagery classification method based on Riemannian Manifold and CNN-LSTM for advanced brain computer interfaces	Hao2025Motor
+OK	04_métodos_integrados.txt	A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network	Xu2022Novel
+OK	04_métodos_integrados.txt	A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG	Y2024Hierarchical
+OK	04_métodos_integrados.txt	EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern	Y2025Eeg
+OK	04_métodos_integrados.txt	Benchmarking motor imagery algorithms for pediatric users of brain-computer interfaces	B2024Benchmarking
+OK	04_métodos_integrados.txt	TriNet: A Hybrid Feature Integration Approach for Motor Imagery Classification in Brain-Computer Interface	H2025Trinet
+OK	04_métodos_integrados.txt	SMANet: A Model Combining SincNet, Multi-Branch Spatial—Temporal CNN, and Attention Mechanism for Motor Imagery BCI	D2025Smanet
+OK	04_métodos_integrados.txt	Improved Decoding of EEG-Based Motor Imagery Using Convolutional Neural Network and Data Space Adaptation	S2019Improved
+OK	04_métodos_integrados.txt	Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface	Y2021Filter
+OK	04_métodos_integrados.txt	CNN-based Approaches For Cross-Subject Classification in Motor Imagery: From the State-of-The-Art to DynamicNet	A2021Cnn
+OK	04_métodos_integrados.txt	Filter Bank Sinc-ShallowNet with EMD-based Mixed Noise Adding Data Augmentation for Motor Imagery Classification	J2021Filter
+OK	04_métodos_integrados.txt	Advanced TSGL-EEGNet for Motor Imagery EEG-Based Brain-Computer Interfaces	X2021Advanced
+OK	05_métodos_híbridos.txt	Common spatio-time-frequency patterns for motor imagery-based brain machine interfaces	Higashi2013Common
+OK	05_métodos_híbridos.txt	Simultaneous design of FIR filter banks and spatial patterns for EEG signal classification	Higashi2013Simultaneous
+OK	05_métodos_híbridos.txt	Optimal design of a bank of spatio-temporal filters for EEG signal classification	H2011Optimal
+OK	05_métodos_híbridos.txt	Supervised Relevance Analysis for Multiple Stein Kernels for Spatio-Spectral Component Selection in BCI Discrimination Tasks	Lopez2019Supervised
+OK	05_métodos_híbridos.txt	Joint spatial-temporal filter design for analysis of motor imagery EEG	X2013Joint
+OK	05_métodos_híbridos.txt	Novel feature generation and classification for a 2-state Self-paced Brain Computer Interface system	J2012Novel
+OK	05_métodos_híbridos.txt	Spatio-Temporal Joint Filtering for Transfer Learning in Brain-Computer Interface of Motion Imaginery	S2023Spatio
+OK	05_métodos_híbridos.txt	Classification of motor imagery BCI using multivariate empirical mode decomposition	Park2013Classification
+OK	05_métodos_híbridos.txt	Spatio-temporally regularized common spatial patterns (STR-CSP) for single-trial EEG classification	F2014Spatio
+OK	05_métodos_híbridos.txt	Data adaptive filtering approach to improve the classification accuracy of motor imagery for BCI	S2016Data
+OK	05_métodos_híbridos.txt	Motor imagery movements classification using multivariate EMD and short time Fourier transform	S2015Motor
+OK	05_métodos_híbridos.txt	A multivariate empirical mode decomposition based filtering for subject independent BCI	P2016Multivariate
+OK	05_métodos_híbridos.txt	Deep Neural Network-Based Empirical Mode Decomposition for Motor Imagery EEG Classification	H2024Deep
+OK	05_métodos_híbridos.txt	An Algorithm for Motor Imagery Classification Based on Transfer Learning and Feature Fusion	S2022Algorithm
+OK	05_métodos_híbridos.txt	Sparse Bayesian Learning for End-to-End EEG Decoding	W2023Sparse
+OK	05_métodos_híbridos.txt	TMAnet: An Innovative Approach for Classifying Motor Imagery EEG Signals Related to Motor Movements	C2024Tmanet
+OK	05_métodos_híbridos.txt	Spatiotemporal Filtering Bank for Decoding Motor Imagery EEG Signals	L2024Spatiotemporal
+OK	05_métodos_híbridos.txt	Efficient CSP Algorithm With Spatio-Temporal Filtering for Motor Imagery Classification	A2020Efficient
+OK	05_métodos_híbridos.txt	A Filtering Method for Classification of Motor-Imagery EEG Signals for Brain-Computer Interface	P2019Filtering
+OK	05_métodos_híbridos.txt	A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI	J2019Data
+OK	05_métodos_híbridos.txt	Subject dependent feature extraction method for motor imagery based BCI using multivariate empirical mode decomposition	J2017Subject
+OK	05_métodos_híbridos.txt	Sparse CSP Algorithm via Joint Spatio-Temporal Filtering	A2020Sparse
+OK	05_métodos_híbridos.txt	Spatiotemporal-Filtering-Based Channel Selection for Single-Trial EEG Classification	F2021Spatiotemporal
+OK	05_métodos_híbridos.txt	A Novel Channel Selection Method for BCI Classification Using Dynamic Channel Relevance	A2021Novel
+OK	06_métodos_de_interferência.txt	Feature bands study of MI signals based on FBCSP for CNN	L2022Feature
+OK	06_métodos_de_interferência.txt	Classification of imagery motor EEG data with wavelet denoising and features selection	Sun2016Classification
+OK	06_métodos_de_interferência.txt	Envelope detection based on online ICA algorithm and its application to motor imagery classification	X2013Envelope
+OK	06_métodos_de_interferência.txt	The Influence of Smoothing Filtering Methods on the Performance of an EEG-Based Brain–Computer Interface	S2023Influence
+OK	06_métodos_de_interferência.txt	Motor imagery EEG discrimination using the correlation of wavelet features	Hsu2015Motor
+OK	06_métodos_de_interferência.txt	Classification of motor imagery EEG patterns and their topographic representation	Tao2004Classification
+OK	06_métodos_de_interferência.txt	Application of neural network to brain-computer interface	W2012Application
+OK	06_métodos_de_interferência.txt	A Novel Motor Imagery EEG Decoding Method Integrating Cascaded Common Spatial Pattern and Riemannian Geometry	X2025Novel
+OK	06_métodos_de_interferência.txt	Motor Imagery EEG Signals Classification Based on Mode Amplitude and Frequency Components Using Empirical Wavelet Transform	M2019Motor
+OK	06_métodos_de_interferência.txt	A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI	J2019Data
+OK	06_métodos_de_interferência.txt	Classification of motor imagery eeg using wavelet envelope analysis and LSTM networks	J2018Classification
+OK	06_métodos_de_interferência.txt	Deep Temporal-Spatial Feature Learning for Motor Imagery-Based Brain–Computer Interfaces	J2020Deep
+OK	06_métodos_de_interferência.txt	A comparative analysis of masking empirical mode decomposition and a neural network with feed-forward and back propagation along with masking empirical mode decomposition to improve the classification performance for a reliable brain-computer interface	Jaipriya2022Comparative
+OK	06_métodos_de_interferência.txt	Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks	Sakhavi2018Learning
+OK	06_métodos_de_interferência.txt	Functional Connectivity for Motor Imaginary Recognition in Brain-computer Interface	Feng2020Functional
+OK	06_métodos_de_interferência.txt	Analytic common spatial pattern and adaptive classification for multiclass motor imagery-based BCI	L2013Analytic
+OK	06_métodos_de_interferência.txt	EEG based Motor Imagery of Hands Classification using Modified Sub-Band Common Spatial Pattern	Y2025Eeg
+OK	06_métodos_de_interferência.txt	A High Performance Approach for Classification of Motor Imagery EEG	W2018High
+OK	06_métodos_de_interferência.txt	FBCSP-based Multi-class Motor Imagery Classification using BP and TDP features	W2018Fbcsp
+OK	06_métodos_de_interferência.txt	Filter Bank Adversarial Domain Adaptation For Motor Imagery Brain Computer Interface	Y2021Filter
+OK	06_métodos_de_interferência.txt	Motor Imagery EEG Signal Classification based on Deep Transfer Learning	M2021Motor2
